@@ -1,5 +1,3 @@
-import PhotoBand from '../components/PhotoBand'
-import { PHOTOS } from '../photos'
 
 const REPO = 'https://github.com/ShubhamSarje/yyz-revenue-runway'
 
@@ -17,17 +15,13 @@ const CHECKS = [
 export default function Method() {
   return (
     <>
-      <PhotoBand photo="skyline" size="slim">
-        <h2>Methodology</h2>
-        <p>Where the numbers come from, how they were checked, and what they can’t tell you.</p>
-      </PhotoBand>
 
       <div className="method-grid">
-        <div className="prose">
+        <div className="panel prose">
           <h3>The question</h3>
           <p>
             Is Toronto Pearson’s revenue growth coming from more travellers, or from charging each traveller more? Every
-            page answers some part of it for the period chosen in the sign bar.
+            section answers part of it for the period chosen on the timeline.
           </p>
 
           <h3>Data</h3>
@@ -54,7 +48,7 @@ export default function Method() {
             <li><b>Departing passengers</b> (enplaned) are half of all passengers, the base the GTAA uses for per-passenger figures.</li>
             <li><b>Airline cost per passenger</b> is aeronautical revenue ÷ departing passengers. It matches the GTAA’s published figure, which let us extend it back to 2019.</li>
             <li><b>2019 dollars</b> divide each quarter by Ontario CPI relative to its 2019 average.</li>
-            <li><b>Revenue bridge</b>: traveller numbers, published fee increases, other per-traveller gains and interaction add up exactly to the change in revenue. Details are on the Revenue bridge page.</li>
+            <li><b>Revenue bridge</b>: revenue = departing passengers × revenue per departing passenger, for each stream and the same quarters in both periods. Traveller numbers = change in passengers × the earlier revenue per passenger. Published fee increases = earlier revenue × the change in the GTAA’s published rate index (aeronautical) or improvement-fee rate. Other per-traveller gains = the rest of the change in revenue per passenger. Interaction = change in passengers × change in revenue per passenger. The four add up exactly to the change in revenue (SQL view <code>v_revenue_bridge</code>).</li>
           </ul>
 
           <h3>Limitations</h3>
@@ -85,12 +79,11 @@ export default function Method() {
             <p><a href={REPO} target="_blank" rel="noreferrer">github.com/ShubhamSarje/yyz-revenue-runway</a></p>
           </section>
           <section className="panel prose">
-            <h2>Photos</h2>
-            <ul style={{ marginTop: 6 }}>
-              {Object.values(PHOTOS).map((p) => (
-                <li key={p.href}><a href={p.href} target="_blank" rel="noreferrer">{p.alt}</a> by {p.credit}, Unsplash License.</li>
-              ))}
-            </ul>
+            <h2>Photo</h2>
+            <p style={{ marginTop: 6 }}>
+              <a href="https://www.pexels.com/photo/17796157/" target="_blank" rel="noreferrer">A Porter Dash 8 passing the CN Tower</a>{' '}
+              by Mateusz, Pexels License.
+            </p>
           </section>
           <section className="panel prose">
             <h2>About</h2>

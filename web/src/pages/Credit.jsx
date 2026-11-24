@@ -1,5 +1,4 @@
 import { useMemo } from 'react'
-import PhotoBand from '../components/PhotoBand'
 import Kpi from '../components/Kpi'
 import { Lines, qLabel } from '../components/Charts'
 import { money, num, dollars } from '../format'
@@ -26,12 +25,8 @@ export default function Credit({ data, sel }) {
 
   return (
     <>
-      <PhotoBand photo="dusk777" size="slim">
-        <h2>Credit health</h2>
-        <p>Debt, leverage and the covenant tests in the GTAA’s bond indenture. Balance-sheet values are at the end of {at}.</p>
-      </PhotoBand>
 
-      <section className="kpis" aria-label={`Credit metrics at ${at}`}>
+      <section className="glass kpis" aria-label={`Credit metrics at ${at}`}>
         <Kpi label="Total debt" cur={Number(q.total_debt)} base={b ? Number(b.total_debt) : null} format={(x) => money(x)} vs={vs} invert />
         <Kpi label="Net debt (after cash)" cur={Number(q.net_debt)} base={b ? Number(b.net_debt) : null} format={(x) => money(x)} vs={vs} invert />
         <Kpi label="Debt per departing passenger" cur={Number(q.debt_per_epax)} base={b ? Number(b.debt_per_epax) : null} format={(x) => dollars(x, 0)} vs={vs} invert />

@@ -1,5 +1,4 @@
 import { useMemo } from 'react'
-import PhotoBand from '../components/PhotoBand'
 import Kpi from '../components/Kpi'
 import { Lines, Bars, qLabel } from '../components/Charts'
 import { aggregate, highlightOf, pct, years } from '../data'
@@ -40,17 +39,11 @@ export default function Traffic({ data, sel }) {
 
   return (
     <>
-      <PhotoBand photo="approach" size="slim">
-        <h2>Traffic & capacity</h2>
-        <p>Passengers, flights and seats, the hub mix, and US flying.</p>
-      </PhotoBand>
 
-      <section className="kpis k5" aria-label={`Traffic for ${label}`}>
-        <Kpi label="Passengers" cur={cur.pax_total} base={base?.pax_total} format={(x) => millions(x)} vs={vs} />
-        <Kpi label="Flights (takeoffs and landings)" cur={cur.movements} base={base?.movements} format={(x) => (x == null ? '–' : `${num(x, 1)}K`)} vs={vs} />
+      <section className="glass kpis k3" aria-label={`Capacity for ${label}`}>
         <Kpi label="Seats" cur={cur.seats} base={base?.seats} format={(x) => millions(x)} vs={vs} />
-        <Kpi label="Seats filled" cur={cur.load_factor} base={base?.load_factor} kind="pp" format={(x) => (x == null ? '–' : `${num(x, 1)}%`)} vs={vs} />
         <Kpi label="Passengers per flight" cur={cur.pax_per_movement} base={base?.pax_per_movement} format={(x) => num(x, 0)} vs={vs} />
+        <Kpi label="International passengers" cur={cur.pax_international} base={base?.pax_international} format={(x) => millions(x)} vs={vs} />
       </section>
 
       <section className="panel">
@@ -68,7 +61,7 @@ export default function Traffic({ data, sel }) {
       </section>
 
       <div className="grid-2" style={{ marginTop: 'var(--gap)' }}>
-        <section className="panel">
+        <section id="t-hub" className="panel">
           <h2>The hub paradox</h2>
           <p className="sub">Share of passengers who were connecting between flights, as reported by the GTAA.</p>
           <Bars
@@ -84,7 +77,7 @@ export default function Traffic({ data, sel }) {
           </p>
         </section>
 
-        <section className="panel">
+        <section id="t-us" className="panel">
           <h2>US flying is down, but the risk is small</h2>
           <p className="sub">US (transborder) share of Pearson’s takeoffs and landings, Statistics Canada. Partial quarters are left out.</p>
           <Lines

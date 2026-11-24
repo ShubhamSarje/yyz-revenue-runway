@@ -1,5 +1,4 @@
 import { useMemo } from 'react'
-import PhotoBand from '../components/PhotoBand'
 import Kpi from '../components/Kpi'
 import { Lines, qLabel } from '../components/Charts'
 import { highlightOf, pct } from '../data'
@@ -28,12 +27,8 @@ export default function Cost({ data, sel }) {
 
   return (
     <>
-      <PhotoBand photo="skyline" size="slim">
-        <h2>Cost & margin</h2>
-        <p>Where the money goes, and whether higher revenue per traveller widened the margin.</p>
-      </PhotoBand>
 
-      <section className="kpis" aria-label={`Costs for ${label}`}>
+      <section className="glass kpis" aria-label={`Costs for ${label}`}>
         <Kpi label="Operating costs" cur={cur.opex_before_amort} base={base?.opex_before_amort} format={(x) => money(x)} vs={vs} invert />
         <Kpi label="EBITDA" cur={cur.ebitda} base={base?.ebitda} format={(x) => money(x)} vs={vs} />
         <Kpi label="EBITDA margin" cur={cur.ebitda_margin} base={base?.ebitda_margin} kind="pp" format={(x) => (x == null ? '–' : `${num(x, 1)}%`)} vs={vs} />
@@ -73,7 +68,7 @@ export default function Cost({ data, sel }) {
           {cur.rent_relief && <p className="note">Q4 2020 includes a one-off federal ground rent credit, so ground rent is negative that quarter.</p>}
         </section>
 
-        <section className="panel">
+        <section id="t-rent" className="panel">
           <h2>Twelve cents of each new dollar goes to ground rent</h2>
           <p className="sub">Ground rent is a sliding share of airport revenue, with a top rate of 12% above $250M.</p>
           <Lines rows={ttm} series={[{ key: 'rent', name: 'Ground rent, % of revenue (trailing 12 months)', color: 'var(--ink)' }]}
@@ -89,7 +84,7 @@ export default function Cost({ data, sel }) {
         </section>
       </div>
 
-      <section className="panel" style={{ marginTop: 'var(--gap)' }}>
+      <section id="t-margin" className="panel" style={{ marginTop: 'var(--gap)' }}>
         <h2>Margins did not move</h2>
         <p className="sub">EBITDA margin, trailing twelve months. Windows that include COVID quarters are left out. Dashed line: 2019.</p>
         <Lines rows={ttm} series={[{ key: 'margin', name: 'EBITDA margin', color: 'var(--ink)' }]}

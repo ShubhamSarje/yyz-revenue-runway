@@ -1,5 +1,4 @@
 import { useMemo, useState } from 'react'
-import PhotoBand from '../components/PhotoBand'
 import { Lines, qLabel } from '../components/Charts'
 import { highlightOf, pct, rolling, sum, years } from '../data'
 import { dollars, num, pctText } from '../format'
@@ -53,12 +52,8 @@ export default function Unit({ data, sel }) {
 
   return (
     <>
-      <PhotoBand photo="skyline" size="slim">
-        <h2>Unit economics</h2>
-        <p>What Pearson earns and spends per departing passenger, before and after inflation.</p>
-      </PhotoBand>
 
-      <section className="panel">
+      <section id="t-real" className="panel">
         <div className="row-head">
           <div>
             <h2>Per departing passenger: {label}{baseLabel ? ` vs ${baseLabel}` : ''}</h2>
@@ -114,7 +109,7 @@ export default function Unit({ data, sel }) {
         </div>
       </section>
 
-      <section className="panel" style={{ marginTop: 'var(--gap)' }}>
+      <section id="t-cpe" className="panel" style={{ marginTop: 'var(--gap)' }}>
         <h2>Airlines pay 46% more per passenger. Announced rates rose 20%.</h2>
         <p className="sub">
           Index, 2019 = 100; 2020–21 left out (COVID). Airline cost per passenger is aeronautical revenue per departing passenger (it matches the

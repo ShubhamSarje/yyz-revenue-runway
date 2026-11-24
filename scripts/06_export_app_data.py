@@ -45,8 +45,39 @@ def run(sql: str):
     return json.loads(res.stdout)
 
 
+def sources():
+    """Short source note per period and metric for tooltips: report and PDF page."""
+    import csv, re
+    pages = {}
+    with open(ROOT / "data/raw/gtaa_extract_long.csv") as f:
+        for r in csv.DictReader(f):
+            pages.setdefault((r["period"], r["metric"]), r["page"])
+    out = {}
+    with open(ROOT / "data/processed/yyz_quarterly_sources.csv") as f:
+        for r in csv.DictReader(f):
+            src = r["source"]
+            reps = re.findall(r"(\d{4})Q(\d)", src)
+            if not reps:
+                continue
+            y, q = reps[0]
+            label = f"Q{q} {y}" if q != "4" else f"{y} annual"
+            if "annual" in src.lower() or "FY" in src:
+                label = f"{y} annual report"
+            else:
+                label = f"GTAA Q{q} {y} report"
+            pg = pages.get((f"{y}Q{q}", r["metric"]))
+            note = label + (f", p.{int(float(pg))}" if pg else "")
+            if "9M YTD" in src:
+                note = f"Annual minus nine months ({label.replace('GTAA ', '')})"
+            elif "restated" in src:
+                note += " (restated comparative)"
+            out.setdefault(r["period"], {})[r["metric"]] = note
+    return out
+
+
 def main():
     data = {name: run(sql) for name, sql in QUERIES.items()}
+    data["sources"] = sources()
     data["meta"] = {
         "exported": date.today().isoformat(),
         "first_period": data["quarters"][0]["period"],

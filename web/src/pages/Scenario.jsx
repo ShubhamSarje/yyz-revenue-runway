@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
-import PhotoBand from '../components/PhotoBand'
 import Waterfall from '../components/Waterfall'
+import Flaps from '../components/Flaps'
 import { verdict } from '../verdict'
 import { money, num, dollars, signedMoney, pctText, pp } from '../format'
 
@@ -79,14 +79,10 @@ export default function Scenario({ data }) {
 
   return (
     <>
-      <PhotoBand photo="approach" size="slim">
-        <h2>Scenario planner</h2>
-        <p>Move the levers to see what drives next year’s revenue: more travellers, or more per traveller.</p>
-      </PhotoBand>
 
-      <p className="page-intro">
-        The starting point is the last twelve reported months (<b>{base.label}</b>): revenue of <b>{money(base.rev)}</b> and
-        EBITDA of <b>{money(baseEbitda)}</b>. This page ignores the Year and Quarter selection.
+      <p className="section-sub" style={{ marginTop: -6 }}>
+        Starting point: the last twelve reported months ({base.label}), revenue of {money(base.rev)} and EBITDA of{' '}
+        {money(baseEbitda)}. The timeline above does not affect this section.
       </p>
 
       <div className="scenario">
@@ -110,23 +106,19 @@ export default function Scenario({ data }) {
           </div>
         </section>
 
-        <div className="stack sticky-col">
-          <section className="kpis k3" style={{ margin: 0 }}>
-            <div className="kpi">
-              <p className="kpi-label">Revenue</p>
-              <p className="kpi-value">{money(out.revenue)}</p>
-              <p className="kpi-delta">{signedMoney(out.revenue - base.rev)} vs last 12 months</p>
-            </div>
-            <div className="kpi">
-              <p className="kpi-label">EBITDA</p>
-              <p className="kpi-value">{money(out.ebitda)}</p>
-              <p className="kpi-delta">{signedMoney(out.ebitda - baseEbitda)}</p>
-            </div>
-            <div className="kpi">
-              <p className="kpi-label">EBITDA margin</p>
-              <p className="kpi-value">{num(out.margin, 1)}%</p>
-              <p className="kpi-delta">{pp(out.margin - baseMargin)}</p>
-            </div>
+        <div className="stack">
+          <section className="board-glass scen-board" aria-live="polite">
+            {[
+              ['Revenue', money(out.revenue, 2), `${signedMoney(out.revenue - base.rev)} vs last 12 months`],
+              ['EBITDA', money(out.ebitda), signedMoney(out.ebitda - baseEbitda)],
+              ['EBITDA margin', `${num(out.margin, 1)}%`, pp(out.margin - baseMargin)],
+            ].map(([l, val, d], i) => (
+              <div className="tile" key={l}>
+                <p className="tile-label">{l}{i === 0 && <span className="scen-tag">Scenario</span>}</p>
+                <Flaps text={val} delay={i * 60} />
+                <p className="tile-delta">{d}</p>
+              </div>
+            ))}
           </section>
 
           <section className="panel">
