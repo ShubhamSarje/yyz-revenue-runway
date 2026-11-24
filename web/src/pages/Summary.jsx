@@ -1,6 +1,7 @@
 import CountUp from '../components/CountUp'
 import Waterfall from '../components/Waterfall'
 import IndexChart from '../components/IndexChart'
+import PhotoBand from '../components/PhotoBand'
 import { verdict } from '../verdict'
 import { pct } from '../data'
 import { money, millions, dollars, pctText, pp, num, signedMoney } from '../format'
@@ -43,6 +44,10 @@ export default function Summary({ data, sel, goTo }) {
 
   return (
     <div className="stack" style={{ gap: 0 }}>
+      <PhotoBand photo="dusk777">
+        <h2>Is Toronto Pearson’s revenue growth coming from more travellers, or from charging each traveller more?</h2>
+        <p>35 quarters of GTAA filings, Q1 2018 to Q3 2026, rebuilt in SQL.</p>
+      </PhotoBand>
       <section className="hero" aria-live="polite">
         <div>
           <p className="verdict">

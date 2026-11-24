@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useState } from 'react'
 import Sign from './components/Sign'
 import Summary from './pages/Summary'
+import PhotoBand from './components/PhotoBand'
+import { TAB_PHOTO } from './photos'
 import { loadData, getSelection } from './data'
 
 export const TABS = [
@@ -95,7 +97,12 @@ export default function App() {
         {!data && !error && <p className="section-sub">Loading 35 quarters of GTAA filings…</p>}
         {sel && state.tab === 'summary' && <Summary data={data} sel={sel} goTo={goTo} />}
         {sel && state.tab !== 'summary' && (
-          <p className="section-sub">This page is next in the build.</p>
+          <>
+            <PhotoBand photo={TAB_PHOTO[state.tab]} size="slim">
+              <h2>{TABS.find((t) => t.id === state.tab).name}</h2>
+            </PhotoBand>
+            <p className="section-sub">This page is next in the build.</p>
+          </>
         )}
       </main>
 
