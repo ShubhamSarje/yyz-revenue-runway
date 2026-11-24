@@ -1,8 +1,13 @@
 import { useEffect, useMemo, useState } from 'react'
 import Sign from './components/Sign'
 import Summary from './pages/Summary'
-import PhotoBand from './components/PhotoBand'
-import { TAB_PHOTO } from './photos'
+import Bridge from './pages/Bridge'
+import Traffic from './pages/Traffic'
+import Unit from './pages/Unit'
+import Cost from './pages/Cost'
+import Credit from './pages/Credit'
+import Scenario from './pages/Scenario'
+import Method from './pages/Method'
 import { loadData, getSelection } from './data'
 
 export const TABS = [
@@ -24,7 +29,7 @@ function readHash() {
   const q = p.get('q')
   return {
     year: year >= 2018 && year <= 2026 ? year : DEFAULTS.year,
-    quarter: q && /^[1-4]$/.test(q) ? Number(q) : DEFAULTS.quarter,
+    quarter: q && /^[1-4]$/.test(q) && !(year === 2026 && q === '4') ? Number(q) : DEFAULTS.quarter,
     comparison: p.get('c') === 'py' ? 'vs prior year' : DEFAULTS.comparison,
     tab: TABS.some((t) => t.id === p.get('tab')) ? p.get('tab') : DEFAULTS.tab,
   }
@@ -52,7 +57,6 @@ export default function App() {
   }, [theme])
 
   useEffect(() => {
-    if (state.year === 2026 && state.quarter === 4) setState((s) => ({ ...s, quarter: 'all' }))
     const p = new URLSearchParams({ y: state.year, q: state.quarter, c: state.comparison === 'vs 2019' ? '2019' : 'py', tab: state.tab })
     window.history.replaceState(null, '', `#${p}`)
   }, [state])
@@ -96,14 +100,13 @@ export default function App() {
         {error && <p className="banner">{error}. Reload the page to try again.</p>}
         {!data && !error && <p className="section-sub">Loading 35 quarters of GTAA filings…</p>}
         {sel && state.tab === 'summary' && <Summary data={data} sel={sel} goTo={goTo} />}
-        {sel && state.tab !== 'summary' && (
-          <>
-            <PhotoBand photo={TAB_PHOTO[state.tab]} size="slim">
-              <h2>{TABS.find((t) => t.id === state.tab).name}</h2>
-            </PhotoBand>
-            <p className="section-sub">This page is next in the build.</p>
-          </>
-        )}
+        {sel && state.tab === 'bridge' && <Bridge data={data} sel={sel} />}
+        {sel && state.tab === 'traffic' && <Traffic data={data} sel={sel} />}
+        {sel && state.tab === 'unit' && <Unit data={data} sel={sel} />}
+        {sel && state.tab === 'cost' && <Cost data={data} sel={sel} />}
+        {sel && state.tab === 'credit' && <Credit data={data} sel={sel} />}
+        {sel && state.tab === 'scenario' && <Scenario data={data} />}
+        {sel && state.tab === 'method' && <Method />}
       </main>
 
       <footer className="footer">

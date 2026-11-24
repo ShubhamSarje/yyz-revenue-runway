@@ -54,7 +54,7 @@ export default function IndexChart({ data, year, qs }) {
             <ReferenceArea x1={first} x2={last} fill="var(--c-price)" fillOpacity={0.12} stroke="var(--c-price)" strokeOpacity={0.5} />
             <ReferenceLine y={100} stroke="var(--muted)" strokeDasharray="3 3" />
             <XAxis dataKey="x" tick={{ fill: 'var(--muted)', fontSize: 12 }} tickLine={false} axisLine={{ stroke: 'var(--line)' }}
-              interval={3} />
+              interval="preserveStartEnd" minTickGap={34} />
             <YAxis tick={{ fill: 'var(--muted)', fontSize: 12 }} tickLine={false} axisLine={false} domain={[0, 'auto']} width={48} />
             <Tooltip content={<Tip />} cursor={{ stroke: 'var(--muted)', strokeWidth: 1 }} />
             {SERIES.map((s) => (

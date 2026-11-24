@@ -15,3 +15,4 @@ export const num = n
 export const millions = (v, d = 1) => (v == null ? '–' : `${n(v, d)}M`)
 export const pctText = (v, d = 1) => (v == null ? '–' : `${v > 0 ? '+' : v < 0 ? '−' : ''}${n(Math.abs(v), d)}%`)
 export const pp = (v, d = 1) => (v == null ? '–' : `${v > 0 ? '+' : v < 0 ? '−' : ''}${n(Math.abs(v), d)} pts`)
+export const signedNum = (v, d = 1) => (v == null ? '–' : `${v > 0 ? '+' : v < 0 ? '−' : ''}${n(Math.abs(v), d)}`)

@@ -5,7 +5,7 @@ export const YEARS = [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
 export const LAST_PERIOD = { year: 2026, quarter: 3 }
 
 export async function loadData() {
-  const res = await fetch('/data/app_data.json')
+  const res = await fetch('data/app_data.json')
   if (!res.ok) throw new Error(`Could not load dashboard data (${res.status})`)
   const d = await res.json()
   const byPeriod = Object.fromEntries(d.quarters.map((q) => [q.period, q]))
@@ -40,7 +40,8 @@ export function aggregate(data, year, qs) {
   if (!rows.length || rows.some((r) => !r)) return null
   const a = { year, quarters: qs, rows }
   for (const f of FLOWS) a[f] = rows.reduce((s, r) => s + (r[f] ?? 0), 0)
-  const deflated = (f) => rows.reduce((s, r) => s + r[f] * r.deflator_2019, 0)
+  // deflator_2019 = quarter CPI / 2019 average CPI, so dividing converts to 2019 dollars
+  const deflated = (f) => rows.reduce((s, r) => s + r[f] / r.deflator_2019, 0)
   a.revenue_real2019 = deflated('revenue_total')
   a.aero_real2019 = deflated('aero_revenue')
   a.commercial_real2019 = deflated('commercial_revenue')
@@ -81,3 +82,24 @@ export function getSelection(data, year, quarter, comparison) {
 }
 
 export const pct = (cur, base) => (base == null || cur == null || base === 0 ? null : (100 * (cur - base)) / Math.abs(base))
+
+/** Chart highlight range for the selected quarters, as x-axis labels. */
+export const highlightOf = (sel) => [
+  `Q${sel.qs[0]} ’${String(sel.year).slice(2)}`,
+  `Q${sel.qs[sel.qs.length - 1]} ’${String(sel.year).slice(2)}`,
+]
+
+/** Full-year (or 9-month 2026) aggregates for every year. */
+export const years = (data) => YEARS.map((y) => aggregate(data, y, quartersOf(y, 'all')))
+
+/** Rolling four-quarter sums; returns null until four quarters exist. */
+export function rolling(data, fn) {
+  const q = data.quarters
+  return q.map((_, i) => {
+    if (i < 3) return null
+    const w = q.slice(i - 3, i + 1)
+    return fn(w)
+  })
+}
+const sum = (rows, f) => rows.reduce((s, r) => s + (typeof f === 'function' ? f(r) : r[f]), 0)
+export { sum }

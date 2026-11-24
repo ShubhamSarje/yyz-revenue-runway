@@ -26,7 +26,7 @@ export default function Waterfall({ row, height = 26 }) {
   const span = hi - lo || 1
   const x = (v) => ((v - lo) / span) * 100
 
-  const Bar = ({ from, to, color, i, cls }) => (
+  const bar = ({ from, to, color, i, cls }) => (
     <motion.div
       className={`wf-bar ${cls || ''}`}
       style={{ left: `${x(Math.min(from, to))}%`, background: color, height: height - 6 }}
@@ -46,7 +46,7 @@ export default function Waterfall({ row, height = 26 }) {
           </div>
           <div className="wf-track" style={{ height }} aria-hidden="true">
             <div className="wf-zero" style={{ left: `${x(0)}%` }} />
-            <Bar from={s.from} to={s.to} color={s.color} i={i} />
+            {bar({ from: s.from, to: s.to, color: s.color, i })}
           </div>
           <div className="wf-val" role="cell">{signedMoney(s.v, 1)}</div>
         </div>
@@ -55,7 +55,7 @@ export default function Waterfall({ row, height = 26 }) {
         <div className="wf-name" role="rowheader">Total change</div>
         <div className="wf-track" style={{ height }} aria-hidden="true">
           <div className="wf-zero" style={{ left: `${x(0)}%` }} />
-          <Bar from={0} to={total} cls="total" i={4} />
+          {bar({ from: 0, to: total, cls: 'total', i: 4 })}
         </div>
         <div className="wf-val" role="cell">{signedMoney(total, 1)}</div>
       </div>

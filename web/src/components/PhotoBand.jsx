@@ -11,7 +11,7 @@ export default function PhotoBand({ photo, size = 'hero', children }) {
         srcSet={`${p.base}-1000.webp 1000w, ${p.base}-2000.webp 2000w`}
         sizes="(max-width: 1280px) 100vw, 1240px"
         alt={p.alt}
-        style={{ objectPosition: p.position }}
+        style={{ objectPosition: size === 'slim' ? p.slimPosition || p.position : p.position }}
         fetchPriority={size === 'hero' ? 'high' : undefined}
         loading={size === 'hero' ? 'eager' : 'lazy'}
       />
