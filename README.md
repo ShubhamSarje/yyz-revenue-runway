@@ -14,13 +14,13 @@ Independent analysis using public GTAA reports, not affiliated with the GTAA or 
 | --- | --- |
 | 0. Charter | Done |
 | 1. Data collection and tie-out | Done: 35 quarters (Q1 2018 to Q3 2026), see [data/README_DATA.md](data/README_DATA.md) |
-| 2. Python cleaning and derived KPIs | Next |
-| 3. SQL model (PostgreSQL) | Planned |
+| 2. Python cleaning and derived KPIs | Done: fee rates, CPI adjustment, per-unit KPIs ([notebook](notebooks/01_clean_and_explore.ipynb)) |
+| 3. SQL model (PostgreSQL) | Next |
 | 4. Analysis and findings | Planned |
 | 5. Web app (React + Vite) | Planned |
 | 6. Publish | Planned |
 
-## Reproduce Phase 1
+## Reproduce Phases 1–2
 
 ```bash
 python scripts/00_download_and_text.py   # GTAA reports + fee schedules, text extraction (OCR for 2 reports)
@@ -28,6 +28,8 @@ python scripts/00b_statcan.py            # StatCan movements and CPI
 python scripts/01_extract_gtaa.py        # extract every table value with source page and self-check
 python scripts/02_build_quarterly.py     # one row per quarter + tie-out checks
 python scripts/03_statcan_quarterly.py   # StatCan quarterly roll-up and cross-check
+python scripts/04_fee_rates.py           # fee schedule rates + stated annual % changes
+# then run notebooks/01_clean_and_explore.ipynb  -> data/processed/kpi_quarterly.csv
 ```
 
 Data sources: Greater Toronto Airports Authority quarterly and annual MD&A reports and aeronautical fee schedules; Statistics Canada tables 23-10-0008-01, 23-10-0302-01 and 18-10-0004-01 (Statistics Canada Open Licence).

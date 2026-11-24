@@ -62,3 +62,35 @@ Phase 1 is complete: 35 quarters (Q1 2018 to Q3 2026) of Toronto Pearson figures
 | 2019 full year | 1,521.3 | 50.5 | 725.9 |
 | 2025 full year | 2,084.8 (sum of quarters 2,084.9, rounding) | 47.3 | 990.2 |
 | Q3 2026 | 626.5 | 13.8 | 327.5 |
+
+---
+
+# Phase 2: cleaning and per-unit KPIs
+
+Notebook: [`notebooks/01_clean_and_explore.ipynb`](../notebooks/01_clean_and_explore.ipynb) (runs locally or in Google Colab).
+Fee rates: `scripts/04_fee_rates.py` → `processed/fee_rates.csv`, `processed/fee_changes_mdna.csv`.
+Output for the SQL model: `processed/kpi_quarterly.csv` (35 rows, one per quarter).
+
+## What was added
+
+- Published fee rates attached to each quarter (terminal charges, landing fee, AIF local / connecting) and an aeronautical rate index (2019 = 100) from the MD&A's stated January changes
+- Ontario CPI deflator (2019 = 1.00) and real (2019 $) versions of the per-unit KPIs
+- Per enplaned passenger revenue, aeronautical, commercial, parking, AIF and operating cost; ground rent share; seats, passengers and MTOW per movement; aeronautical revenue per tonne
+- StatCan transborder share of itinerant movements
+- Flags: COVID quarters (2020–2021), Omicron quarter (Q1 2022), Q4 2020 ground-rent relief credit, CPE availability (2023 on), partial StatCan quarter (Q3 2026)
+
+## Estimate warning
+
+`implied_connecting_share` assumes AIF revenue = enplaned passengers × rates. Airlines keep an administration fee and some passengers are exempt, so it is biased and only an estimate.
+
+## Phase 2 checkpoint: five derived values recomputed by hand from the report lines
+
+| Check | Source lines | By hand | Notebook |
+| --- | --- | --- | --- |
+| Q3 2026 revenue per enplaned passenger | Q3 2026 report: revenue 626.5, passengers 13.8 | 626.5 ÷ 6.9 = 90.80 | 90.80 |
+| Q2 2019 AIF per enplaned passenger | Q2 2020 report prior column: AIF 112.7; Q2 2019 passengers 12.8 | 112.7 ÷ 6.4 = 17.61 | 17.61 |
+| Q3 2025 ground rent share | Q3 2026 report prior column: ground rent 63.7, revenue 562.2 | 11.33% | 11.33% |
+| Q4 2024 revenue (derived) | 2025 annual prior column 1,975.4 − Q3 2025 report prior 9M 1,485.0 | 490.4 | 490.4 |
+| Q1 2023 seats per movement | Q1 2024 report prior column: 12.1m seats, 86.8k movements | 139.4 | 139.4 |
+
+All five match.
