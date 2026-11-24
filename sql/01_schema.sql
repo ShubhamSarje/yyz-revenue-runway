@@ -1,10 +1,13 @@
 -- YYZ Revenue Runway: 01 schema
+--
+-- SAFE TO RERUN: uses CREATE TABLE IF NOT EXISTS, so running it on a database that already has
+-- the tables changes nothing. To rebuild from scratch on purpose, drop the views first
+-- (v_revenue_bridge, v_ttm, v_quarterly_changes), then the tables, then run 01 -> 05 in order.
 -- One row per quarter (Q1 2018 - Q3 2026) from notebooks/01_clean_and_explore.ipynb
 -- Units: revenue/costs/debt in CAD millions; passengers, seats, MTOW in millions; movements in thousands;
 --        per-enplaned / per-tonne / CPE in CAD; *_pct in percent; *_real2019 in 2019 dollars.
 
-drop table if exists quarterly_kpi cascade;
-create table quarterly_kpi (
+create table if not exists quarterly_kpi (
   period                             text primary key,
   year                               smallint not null,
   quarter                            smallint not null,
@@ -82,8 +85,7 @@ create table quarterly_kpi (
   cpe_real2019                       numeric
 );
 
-drop table if exists fee_rates cascade;
-create table fee_rates (
+create table if not exists fee_rates (
   effective_date             date primary key,
   gtc_domestic_per_seat      numeric,
   gtc_non_domestic_per_seat  numeric,
@@ -93,8 +95,7 @@ create table fee_rates (
   source                     text
 );
 
-drop table if exists fee_changes cascade;
-create table fee_changes (
+create table if not exists fee_changes (
   year       smallint primary key,
   pct        numeric,   -- stated % change in aeronautical fees effective January 1
   statement  text,
