@@ -2,7 +2,9 @@
 
 **Toronto Pearson Revenue & Operations Dashboard**
 
-> Work in progress. Phase 1 (data collection and tie-out) is complete; the analysis, SQL model and web app are being built.
+> Work in progress: data, SQL model and findings are complete; the interactive web app is being built.
+
+**Answer:** Toronto Pearson's revenue rose **37% from 2019 to 2025 on 6.5% fewer passengers**. A SQL revenue bridge traces **57% of the $564M growth to published fee increases**. Full findings: [FINDINGS.md](FINDINGS.md).
 
 **Business question:** Is Toronto Pearson's revenue growth coming from more travellers, or from charging each traveller more?
 
@@ -16,8 +18,8 @@ Independent analysis using public GTAA reports, not affiliated with the GTAA or 
 | 1. Data collection and tie-out | Done: 35 quarters (Q1 2018 to Q3 2026), see [data/README_DATA.md](data/README_DATA.md) |
 | 2. Python cleaning and derived KPIs | Done: fee rates, CPI adjustment, per-unit KPIs ([notebook](notebooks/01_clean_and_explore.ipynb)) |
 | 3. SQL model (PostgreSQL) | Done: YoY / vs-2019 (LAG), trailing 12 months (window frames), revenue bridge; reconciled to Python ([sql/README.md](sql/README.md)) |
-| 4. Analysis and findings | Next |
-| 5. Web app (React + Vite) | Planned |
+| 4. Analysis and findings | Done: six hypotheses tested, headline and recommendations in [FINDINGS.md](FINDINGS.md) |
+| 5. Web app (React + Vite) | Next |
 | 6. Publish | Planned |
 
 ## Reproduce Phases 1–3

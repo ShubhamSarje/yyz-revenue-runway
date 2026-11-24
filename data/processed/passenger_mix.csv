@@ -1,0 +1,11 @@
+period_label,period_type,od_pax_m,connecting_pax_m,total_pax_m,connecting_share_pct,source
+2021,FY,9.3,3.4,12.7,26.8,"2023 annual MD&A (2023Q4 report) p.9, 2021 column"
+2022,FY,26.3,9.3,35.6,27.1,"2024 annual MD&A (2024Q4 report) p.7, 2022 column"
+2023,FY,34.5,10.3,44.8,23.1,"2025 annual MD&A (2025Q4 report) p.7, 2023 column"
+2024,FY,36.4,10.4,46.8,22.3,"2025 annual MD&A (2025Q4 report) p.7, 2024 column"
+2025,FY,36.9,10.4,47.3,22.0,"2025 annual MD&A (2025Q4 report) p.7"
+9M 2025,9M,27.8,8.0,35.8,22.2,"Q3 2026 MD&A p.8, prior-year column"
+9M 2026,9M,28.1,9.2,37.3,24.6,"Q3 2026 MD&A p.8"
+Q1 2026,Q,8.5,2.6,11.1,23.1,"Q1 2026 MD&A p.7"
+Q2 2026,Q,9.2,3.2,12.4,25.4,"Q2 2026 MD&A p.8"
+Q3 2026,Q,10.5,3.3,13.8,23.6,"Q3 2026 MD&A p.8"
