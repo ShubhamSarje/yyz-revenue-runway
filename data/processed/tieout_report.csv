@@ -1,0 +1,479 @@
+check,period,expected,actual,diff,tolerance,result,note
+aero = landing + terminal,2018Q1,126.4,126.4,0.0,0.25,pass,
+commercial = concessions + parking + other,2018Q1,116.4,116.4,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2018Q1,348.6,348.6,0.0,0.35,pass,
+passengers: domestic + international = total,2018Q1,11.3,11.3,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2018Q1,157.10000000000002,157.1,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2018Q1,81.4,81.3,-0.1,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2018Q2,126.1,126.1,0.0,0.25,pass,
+commercial = concessions + parking + other,2018Q2,119.1,119.1,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2018Q2,359.1,359.1,0.0,0.35,pass,
+passengers: domestic + international = total,2018Q2,12.4,12.4,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2018Q2,180.10000000000002,180.1,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2018Q2,84.0,83.8,-0.2,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2018Q3,129.39999999999998,129.4,0.0,0.25,pass,
+commercial = concessions + parking + other,2018Q3,135.9,135.9,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2018Q3,396.70000000000005,396.7,-0.0,0.35,pass,
+passengers: domestic + international = total,2018Q3,14.200000000000001,14.2,-0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2018Q3,216.39999999999998,216.4,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2018Q3,86.2,86.1,-0.1,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2018Q4,127.9,127.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2018Q4,130.6,130.6,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2018Q4,367.4,367.4,0.0,0.35,pass,
+passengers: domestic + international = total,2018Q4,11.5,11.5,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2018Q4,166.99999999999997,167.0,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2019Q1,126.2,126.2,0.0,0.25,pass,
+commercial = concessions + parking + other,2019Q1,126.29999999999998,126.3,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2019Q1,362.4,362.4,0.0,0.35,pass,
+passengers: domestic + international = total,2019Q1,11.7,11.7,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2019Q1,154.7,154.7,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2019Q1,81.9,82.4,0.5,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2019Q2,129.2,129.2,0.0,0.25,pass,
+commercial = concessions + parking + other,2019Q2,129.0,129.0,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2019Q2,370.9,370.9,0.0,0.35,pass,
+passengers: domestic + international = total,2019Q2,12.799999999999999,12.8,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2019Q2,182.7,182.7,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2019Q2,85.5,85.3,-0.2,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2019Q3,133.4,133.4,0.0,0.25,pass,
+commercial = concessions + parking + other,2019Q3,142.3,142.3,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2019Q3,403.1,403.1,0.0,0.35,pass,
+passengers: domestic + international = total,2019Q3,14.2,14.2,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2019Q3,213.90000000000003,213.9,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2019Q3,86.5,86.6,0.1,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2019Q4,128.89999999999998,128.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2019Q4,157.9,157.9,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2019Q4,384.9,384.9,0.0,0.35,pass,
+passengers: domestic + international = total,2019Q4,11.899999999999999,11.9,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2019Q4,174.59999999999997,174.6,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2020Q1,126.3,126.3,0.0,0.25,pass,
+commercial = concessions + parking + other,2020Q1,123.8,123.8,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2020Q1,339.1,339.1,0.0,0.35,pass,
+passengers: domestic + international = total,2020Q1,9.6,9.6,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2020Q1,154.8,154.8,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2020Q2,109.3,109.3,0.0,0.25,pass,
+commercial = concessions + parking + other,2020Q2,73.1,73.1,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2020Q2,185.59999999999997,185.6,0.0,0.35,pass,
+passengers: domestic + international = total,2020Q2,0.5,0.5,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2020Q2,64.69999999999999,64.7,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2020Q3,74.3,74.3,0.0,0.25,pass,
+commercial = concessions + parking + other,2020Q3,53.7,53.7,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2020Q3,148.3,148.3,0.0,0.35,pass,
+passengers: domestic + international = total,2020Q3,1.7000000000000002,1.7,-0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2020Q3,3.1000000000000227,3.1,-0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2020Q4,75.7,75.7,0.0,0.25,pass,
+commercial = concessions + parking + other,2020Q4,58.8,58.8,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2020Q4,150.5,150.5,0.0,0.35,pass,
+passengers: domestic + international = total,2020Q4,1.5,1.5,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2020Q4,56.2,56.2,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2021Q1,77.5,77.5,0.0,0.25,pass,
+commercial = concessions + parking + other,2021Q1,64.5,64.5,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2021Q1,152.1,152.1,0.0,0.35,pass,
+passengers: domestic + international = total,2021Q1,1.1,1.1,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2021Q1,34.39999999999999,34.4,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2021Q2,77.6,77.6,0.0,0.25,pass,
+commercial = concessions + parking + other,2021Q2,62.3,62.3,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2021Q2,154.2,154.2,0.0,0.35,pass,
+passengers: domestic + international = total,2021Q2,1.0,1.0,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2021Q2,45.39999999999999,45.4,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2021Q3,102.10000000000001,102.1,-0.0,0.25,pass,
+commercial = concessions + parking + other,2021Q3,87.89999999999999,87.9,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2021Q3,245.7,245.7,0.0,0.35,pass,
+passengers: domestic + international = total,2021Q3,4.7,4.7,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2021Q3,120.69999999999999,120.7,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2021Q4,116.9,116.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2021Q4,90.69999999999999,90.7,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2021Q4,274.8,274.8,0.0,0.35,pass,
+passengers: domestic + international = total,2021Q4,5.9,5.9,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2021Q4,117.80000000000001,117.7,-0.1,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2022Q1,115.30000000000001,115.3,-0.0,0.25,pass,
+commercial = concessions + parking + other,2022Q1,108.2,108.2,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2022Q1,282.7,282.7,0.0,0.35,pass,
+passengers: domestic + international = total,2022Q1,5.2,5.2,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2022Q1,121.0,121.0,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2022Q1,64.7,65.0,0.3,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2022Q2,144.4,144.4,0.0,0.25,pass,
+commercial = concessions + parking + other,2022Q2,132.1,132.1,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2022Q2,383.7,383.7,0.0,0.35,pass,
+passengers: domestic + international = total,2022Q2,9.3,9.3,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2022Q2,216.79999999999998,216.8,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2022Q2,81.3,81.6,0.3,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2022Q3,160.3,160.3,0.0,0.25,pass,
+commercial = concessions + parking + other,2022Q3,134.2,134.2,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2022Q3,421.9,421.9,0.0,0.35,pass,
+passengers: domestic + international = total,2022Q3,11.2,11.2,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2022Q3,227.79999999999998,227.8,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2022Q3,84.0,84.2,0.2,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2022Q4,152.5,152.5,0.0,0.25,pass,
+commercial = concessions + parking + other,2022Q4,131.79999999999998,131.8,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2022Q4,403.5,403.5,0.0,0.35,pass,
+passengers: domestic + international = total,2022Q4,9.9,9.9,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2022Q4,193.2,193.2,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2023Q1,159.7,159.7,0.0,0.25,pass,
+commercial = concessions + parking + other,2023Q1,136.20000000000002,136.2,-0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2023Q1,425.7,425.7,0.0,0.35,pass,
+passengers: domestic + international = total,2023Q1,10.0,10.0,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2023Q1,202.89999999999998,202.9,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2023Q1,82.9,82.6,-0.3,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2023Q2,161.8,161.8,0.0,0.25,pass,
+commercial = concessions + parking + other,2023Q2,148.2,148.2,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2023Q2,463.8,463.8,0.0,0.35,pass,
+passengers: domestic + international = total,2023Q2,11.399999999999999,11.4,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2023Q2,247.5,247.5,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2023Q2,84.9,85.1,0.2,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2023Q3,168.9,168.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2023Q3,159.90000000000003,159.9,-0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2023Q3,504.5,504.5,0.0,0.35,pass,
+passengers: domestic + international = total,2023Q3,12.5,12.5,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2023Q3,279.6,279.6,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2023Q3,87.3,87.4,0.1,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2023Q4,188.0,188.0,0.0,0.25,pass,
+commercial = concessions + parking + other,2023Q4,149.5,149.5,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2023Q4,493.2,493.2,0.0,0.35,pass,
+passengers: domestic + international = total,2023Q4,11.0,11.0,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2023Q4,230.3,230.3,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2024Q1,158.9,158.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2024Q1,150.4,150.4,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2024Q1,468.5,468.5,0.0,0.35,pass,
+passengers: domestic + international = total,2024Q1,10.9,10.9,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2024Q1,219.2,219.2,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2024Q1,81.2,82.0,0.8,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2024Q2,166.0,166.0,0.0,0.25,pass,
+commercial = concessions + parking + other,2024Q2,156.0,156.0,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2024Q2,485.3,485.3,0.0,0.35,pass,
+passengers: domestic + international = total,2024Q2,11.7,11.7,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2024Q2,240.5,240.6,0.1,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2024Q2,84.4,83.6,-0.8,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2024Q3,175.9,175.9,0.0,0.25,pass,
+commercial = concessions + parking + other,2024Q3,169.7,169.7,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2024Q3,531.2,531.2,0.0,0.35,pass,
+passengers: domestic + international = total,2024Q3,12.8,12.8,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2024Q3,274.80000000000007,274.8,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2024Q3,85.6,85.3,-0.3,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2024Q4,164.5,164.5,0.0,0.25,pass,
+commercial = concessions + parking + other,2024Q4,161.1,161.1,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2024Q4,490.40000000000003,490.4,-0.0,0.35,pass,
+passengers: domestic + international = total,2024Q4,11.3,11.3,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2024Q4,203.39999999999998,203.4,0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2025Q1,168.5,168.5,0.0,0.25,pass,
+commercial = concessions + parking + other,2025Q1,158.0,158.0,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2025Q1,487.4,487.4,0.0,0.35,pass,
+passengers: domestic + international = total,2025Q1,10.7,10.7,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2025Q1,216.89999999999998,216.9,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2025Q1,80.4,80.5,0.1,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2025Q2,179.10000000000002,179.1,-0.0,0.25,pass,
+commercial = concessions + parking + other,2025Q2,162.5,162.5,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2025Q2,520.7,520.7,0.0,0.35,pass,
+passengers: domestic + international = total,2025Q2,12.0,12.0,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2025Q2,260.90000000000003,260.9,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2025Q2,82.6,82.8,0.2,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2025Q3,190.1,190.1,0.0,0.25,pass,
+commercial = concessions + parking + other,2025Q3,176.3,176.3,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2025Q3,562.2,562.2,0.0,0.35,pass,
+passengers: domestic + international = total,2025Q3,13.100000000000001,13.1,-0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2025Q3,291.50000000000006,291.5,-0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2025Q3,84.7,85.1,0.4,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2025Q4,170.4,170.4,0.0,0.25,pass,
+commercial = concessions + parking + other,2025Q4,165.0,165.0,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2025Q4,514.5999999999999,514.6,0.0,0.35,pass,
+passengers: domestic + international = total,2025Q4,11.5,11.5,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2025Q4,220.90000000000003,220.9,-0.0,1.0,pass,GTAA EBITDA may include small other items
+aero = landing + terminal,2026Q1,181.2,181.2,0.0,0.25,pass,
+commercial = concessions + parking + other,2026Q1,164.5,164.5,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2026Q1,522.4,522.4,0.0,0.35,pass,
+passengers: domestic + international = total,2026Q1,11.1,11.1,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2026Q1,239.29999999999995,239.3,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2026Q1,82.6,82.2,-0.4,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2026Q2,196.5,196.5,0.0,0.25,pass,
+commercial = concessions + parking + other,2026Q2,174.10000000000002,174.1,-0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2026Q2,566.6,566.6,0.0,0.35,pass,
+passengers: domestic + international = total,2026Q2,12.4,12.4,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2026Q2,277.1,277.2,0.1,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2026Q2,83.9,84.4,0.5,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+aero = landing + terminal,2026Q3,209.2,209.2,0.0,0.25,pass,
+commercial = concessions + parking + other,2026Q3,194.1,194.1,0.0,0.35,pass,
+total revenue = aero + commercial + AIF,2026Q3,626.5,626.5,0.0,0.35,pass,
+passengers: domestic + international = total,2026Q3,13.8,13.8,0.0,0.15,pass,
+EBITDA = revenue - opex before amortization,2026Q3,327.5,327.5,0.0,1.0,pass,GTAA EBITDA may include small other items
+load factor = passengers / seats (vs reported),2026Q3,86.2,86.2,0.0,1.0,pass,inputs rounded to 0.1m; COVID quarters skipped (tiny volumes make rounding error large)
+4 quarters = annual: revenue_total,2018,1471.7,1471.8000000000002,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2018,509.8,509.79999999999995,-0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2018,501.9,502.0,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2018,460.0,460.0,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2018,720.6,720.6,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2018,49.5,49.400000000000006,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2018,473.0,472.59999999999997,-0.4,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2019,1521.3,1521.3000000000002,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2019,517.7,517.6999999999999,-0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2019,555.5,555.5,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2019,448.1,448.1,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2019,725.9,725.9,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2019,50.5,50.6,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2019,452.8,452.6,-0.2,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2020,823.5,823.5,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2020,385.6,385.59999999999997,-0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2020,309.4,309.4,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2020,128.5,128.5,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2020,278.8,278.8,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2020,13.3,13.299999999999999,-0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2020,174.4,174.1,-0.3,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2021,826.8,826.8,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2021,374.1,374.1,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2021,305.4,305.4,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2021,147.3,147.3,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2021,318.4,318.2,-0.2,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2021,12.7,12.700000000000001,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2021,173.0,172.8,-0.2,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2022,1491.9,1491.8,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2022,572.5,572.5,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2022,506.4,506.3,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2022,413.0,413.0,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2022,758.6,758.8,0.2,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2022,35.6,35.6,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2022,336.8,336.70000000000005,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2023,1887.1,1887.2,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2023,678.4,678.4,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2023,593.7,593.8,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2023,615.0,615.0,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2023,960.3,960.3,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2023,44.8,44.9,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2023,379.6,379.6,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2024,1975.4,1975.4,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2024,665.3,665.3,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2024,637.3,637.1999999999999,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2024,672.8,672.9000000000001,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2024,938.2,937.9999999999999,-0.2,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2024,46.8,46.7,-0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2024,389.6,389.6,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: revenue_total,2025,2084.8,2084.9,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aero_revenue,2025,708.1,708.1,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: commercial_revenue,2025,661.7,661.8,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: aif_revenue,2025,715.0,715.0,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: ebitda,2025,990.2,990.1999999999999,-0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: pax_total,2025,47.3,47.3,0.0,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+4 quarters = annual: movements,2025,392.5,392.6,0.1,0.6,pass,"Q4 derived from the same annual figure, so this confirms Q1-Q3 + derived Q4 add up"
+original vs restated: revenue_total,2018Q1,348.6,348.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2018Q1,126.4,126.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2018Q1,116.4,116.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2018Q1,105.8,105.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2018Q1,11.3,11.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2018Q1,111.7,112.2,0.5,0.25,FAIL,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2018Q1,157.1,157.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2018Q2,359.1,359.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2018Q2,126.1,126.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2018Q2,119.1,119.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2018Q2,113.9,113.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2018Q2,12.4,12.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2018Q2,119.9,120.2,0.3,0.25,FAIL,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2018Q2,180.1,180.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2018Q3,396.7,396.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2018Q3,129.4,129.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2018Q3,135.9,135.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2018Q3,131.4,131.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2018Q3,14.2,14.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2018Q3,127.5,127.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2018Q3,216.4,216.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2019Q1,362.4,362.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2019Q1,126.2,126.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2019Q1,126.3,126.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2019Q1,109.9,109.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2019Q1,11.7,11.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2019Q1,107.2,107.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2019Q1,154.7,154.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2019Q2,370.9,370.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2019Q2,129.2,129.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2019Q2,129.0,129.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2019Q2,112.7,112.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2019Q2,12.8,12.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2019Q2,114.6,114.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2019Q2,182.7,182.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2019Q3,403.1,403.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2019Q3,133.4,133.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2019Q3,142.3,142.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2019Q3,127.4,127.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2019Q3,14.2,14.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2019Q3,122.2,122.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2019Q3,213.9,213.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2020Q1,339.1,339.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2020Q1,126.3,126.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2020Q1,123.8,123.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2020Q1,89.0,89.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2020Q1,9.6,9.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2020Q1,96.3,96.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2020Q1,154.8,154.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2020Q2,185.6,185.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2020Q2,109.3,109.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2020Q2,73.1,73.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2020Q2,3.2,3.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2020Q2,0.5,0.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2020Q2,18.2,18.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2020Q2,64.7,64.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2020Q3,148.3,148.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2020Q3,74.3,74.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2020Q3,53.7,53.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2020Q3,20.3,20.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2020Q3,1.7,1.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2020Q3,29.7,29.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2020Q3,3.1,3.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2021Q1,152.1,152.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2021Q1,77.5,77.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2021Q1,64.5,64.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2021Q1,10.1,10.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2021Q1,1.1,1.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2021Q1,22.6,22.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2021Q1,34.4,34.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2021Q2,154.2,154.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2021Q2,77.6,77.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2021Q2,62.3,62.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2021Q2,14.3,14.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2021Q2,1.0,1.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2021Q2,24.2,24.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2021Q2,45.4,45.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2022Q1,282.7,282.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2022Q1,115.3,115.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2022Q1,108.2,108.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2022Q1,59.2,59.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2022Q1,5.2,5.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2022Q1,63.2,63.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2022Q1,121.0,121.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2022Q2,383.7,383.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2022Q2,144.4,144.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2022Q2,132.1,132.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2022Q2,107.2,107.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2022Q2,9.3,9.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2022Q2,87.4,87.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2022Q2,216.8,216.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2022Q3,421.9,421.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2022Q3,160.3,160.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2022Q3,134.2,134.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2022Q3,127.4,127.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2022Q3,11.2,11.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2022Q3,96.8,96.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2022Q3,227.8,227.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2023Q2,463.8,463.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2023Q2,161.8,161.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2023Q2,148.2,148.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2023Q2,153.8,153.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2023Q2,11.3,11.4,0.1,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2023Q2,96.3,96.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2023Q2,247.5,247.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2023Q3,504.5,504.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2023Q3,168.9,168.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2023Q3,159.9,159.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2023Q3,175.7,175.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2023Q3,12.5,12.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2023Q3,100.1,100.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2023Q3,279.6,279.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2024Q1,468.5,468.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2024Q1,158.9,158.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2024Q1,150.4,150.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2024Q1,159.2,159.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2024Q1,10.9,10.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2024Q1,94.0,94.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2024Q1,219.2,219.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2024Q2,485.3,485.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2024Q2,166.0,166.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2024Q2,156.0,156.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2024Q2,163.3,163.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2024Q2,11.7,11.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2024Q2,0.1,97.8,97.7,0.25,FAIL,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2024Q2,237.2,240.6,3.4,0.25,FAIL,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2024Q3,531.2,531.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2024Q3,175.9,175.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2024Q3,169.7,169.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2024Q3,185.6,185.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2024Q3,12.8,12.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2024Q3,102.0,102.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2024Q3,274.8,274.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2025Q1,487.4,487.4,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2025Q1,168.5,168.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2025Q1,158.0,158.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2025Q1,160.9,160.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2025Q1,10.7,10.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2025Q1,91.3,91.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2025Q1,216.9,216.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2025Q2,520.7,520.7,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2025Q2,179.1,179.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2025Q2,162.5,162.5,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2025Q2,179.1,179.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2025Q2,12.0,12.0,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2025Q2,99.6,99.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2025Q2,260.9,260.9,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: revenue_total,2025Q3,562.2,562.2,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aero_revenue,2025Q3,190.1,190.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: commercial_revenue,2025Q3,176.3,176.3,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: aif_revenue,2025Q3,195.8,195.8,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: pax_total,2025Q3,13.1,13.1,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: movements,2025Q3,104.6,104.6,0.0,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated: ebitda,2025Q3,291.6,291.5,-0.1,0.25,pass,difference = GTAA restated the figure a year later (restated value used)
+original vs restated (annual): revenue_total,2018,1471.7,1471.7,0.0,0.25,pass,
+original vs restated (annual): pax_total,2018,49.5,49.5,0.0,0.25,pass,
+original vs restated (annual): movements,2018,472.7,473.0,0.3,0.25,FAIL,
+original vs restated (annual): ebitda,2018,720.6,720.6,0.0,0.25,pass,
+original vs restated (annual): revenue_total,2019,1521.3,1521.3,0.0,0.25,pass,
+original vs restated (annual): pax_total,2019,50.5,50.5,0.0,0.25,pass,
+original vs restated (annual): movements,2019,452.8,452.8,0.0,0.25,pass,
+original vs restated (annual): ebitda,2019,725.9,725.9,0.0,0.25,pass,
+original vs restated (annual): revenue_total,2020,823.5,823.5,0.0,0.25,pass,
+original vs restated (annual): pax_total,2020,13.3,13.3,0.0,0.25,pass,
+original vs restated (annual): movements,2020,174.4,174.4,0.0,0.25,pass,
+original vs restated (annual): ebitda,2020,278.8,278.8,0.0,0.25,pass,
+original vs restated (annual): revenue_total,2021,826.8,826.8,0.0,0.25,pass,
+original vs restated (annual): pax_total,2021,12.7,12.7,0.0,0.25,pass,
+original vs restated (annual): movements,2021,173.0,173.0,0.0,0.25,pass,
+original vs restated (annual): ebitda,2021,318.4,318.4,0.0,0.25,pass,
+original vs restated (annual): revenue_total,2022,1491.9,1491.9,0.0,0.25,pass,
+original vs restated (annual): pax_total,2022,35.6,35.6,0.0,0.25,pass,
+original vs restated (annual): movements,2022,336.8,336.8,0.0,0.25,pass,
+original vs restated (annual): ebitda,2022,758.8,758.6,-0.2,0.25,pass,
+original vs restated (annual): revenue_total,2023,1887.1,1887.1,0.0,0.25,pass,
+original vs restated (annual): pax_total,2023,44.8,44.8,0.0,0.25,pass,
+original vs restated (annual): movements,2023,379.6,379.6,0.0,0.25,pass,
+original vs restated (annual): ebitda,2023,960.3,960.3,0.0,0.25,pass,
+original vs restated (annual): revenue_total,2024,1975.4,1975.4,0.0,0.25,pass,
+original vs restated (annual): pax_total,2024,46.8,46.8,0.0,0.25,pass,
+original vs restated (annual): movements,2024,389.6,389.6,0.0,0.25,pass,
+original vs restated (annual): ebitda,2024,938.2,938.2,0.0,0.25,pass,
+OCR vs restated comparative: revenue_total,2023Q1,425.7,425.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: landing_fees,2023Q1,100.9,100.9,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: general_terminal,2023Q1,58.8,58.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: aero_revenue,2023Q1,159.7,159.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: concessions_rentals,2023Q1,69.4,69.4,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: parking_ground,2023Q1,53.5,53.5,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: other_revenue,2023Q1,13.3,13.3,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: commercial_revenue,2023Q1,136.2,136.2,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: aif_revenue,2023Q1,129.8,129.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: ground_rent,2023Q1,47.8,47.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pilt,2023Q1,2.9,2.9,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: goods_services,2023Q1,116.0,116.0,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: salaries,2023Q1,56.1,56.1,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: ebitda,2023Q1,202.9,202.9,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: net_income,2023Q1,48.8,48.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_domestic,2023Q1,3.4,3.4,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_international,2023Q1,6.6,6.6,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_total,2023Q1,10.0,10.0,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: movements,2023Q1,86.8,86.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: mtow,2023Q1,7.8,7.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: seats,2023Q1,12.1,12.1,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: revenue_total,2021Q3,245.7,245.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: landing_fees,2021Q3,67.4,67.4,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: general_terminal,2021Q3,34.7,86.1,51.4,0.05,FAIL,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: aero_revenue,2021Q3,102.1,257.2,155.1,0.05,FAIL,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: concessions_rentals,2021Q3,52.5,52.5,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: parking_ground,2021Q3,22.3,22.3,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: other_revenue,2021Q3,13.1,13.1,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: commercial_revenue,2021Q3,87.9,214.7,126.8,0.05,FAIL,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: aif_revenue,2021Q3,55.7,80.1,24.4,0.05,FAIL,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: ground_rent,2021Q3,18.4,18.4,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pilt,2021Q3,10.6,10.6,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: goods_services,2021Q3,57.5,57.5,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: salaries,2021Q3,38.5,38.5,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: ebitda,2021Q3,120.7,120.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: net_income,2021Q3,-57.7,-57.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_domestic,2021Q3,2.9,2.9,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_international,2021Q3,1.8,1.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: pax_total,2021Q3,4.7,4.7,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: movements,2021Q3,54.8,54.8,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: mtow,2021Q3,4.9,4.9,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+OCR vs restated comparative: seats,2021Q3,6.5,6.5,0.0,0.05,pass,OCR can drop decimals or columns; restated value is used
+line self-check (current - prior = change),2021Q3,,5.0,,,FAIL,"Net Debt 4/Enplaned Passenger 5 1,579 537 1940 %"
+line self-check (current - prior = change),2023Q1,,3.4,,,FAIL,Domestic 3.4 2.0 14 63.9

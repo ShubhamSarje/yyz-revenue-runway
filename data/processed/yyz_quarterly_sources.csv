@@ -1,0 +1,1016 @@
+period,metric,value,original_report_value,source
+2018Q1,revenue_total,348.6,348.6,"2019Q1 report, prior-year column (restated)"
+2018Q1,landing_fees,78.5,78.5,"2019Q1 report, prior-year column (restated)"
+2018Q1,general_terminal,47.9,47.9,"2019Q1 report, prior-year column (restated)"
+2018Q1,aero_revenue,126.4,126.4,"2019Q1 report, prior-year column (restated)"
+2018Q1,concessions_rentals,62.2,62.2,"2019Q1 report, prior-year column (restated)"
+2018Q1,parking_ground,46.1,46.1,"2019Q1 report, prior-year column (restated)"
+2018Q1,other_revenue,8.1,8.1,"2019Q1 report, prior-year column (restated)"
+2018Q1,commercial_revenue,116.4,116.4,"2019Q1 report, prior-year column (restated)"
+2018Q1,aif_revenue,105.8,105.8,"2019Q1 report, prior-year column (restated)"
+2018Q1,ground_rent,39.2,39.2,"2019Q1 report, prior-year column (restated)"
+2018Q1,pilt,9.5,9.5,"2019Q1 report, prior-year column (restated)"
+2018Q1,goods_services,91.2,91.2,"2019Q1 report, prior-year column (restated)"
+2018Q1,salaries,51.6,51.6,"2019Q1 report, prior-year column (restated)"
+2018Q1,ebitda,157.1,157.1,"2019Q1 report, prior-year column (restated)"
+2018Q1,net_income,-16.9,-16.9,"2019Q1 report, prior-year column (restated)"
+2018Q1,pax_domestic,3.7,3.7,"2019Q1 report, prior-year column (restated)"
+2018Q1,pax_international,7.6,7.6,"2019Q1 report, prior-year column (restated)"
+2018Q1,pax_total,11.3,11.3,"2019Q1 report, prior-year column (restated)"
+2018Q1,movements,112.2,111.7,"2019Q1 report, prior-year column (restated)"
+2018Q1,mtow,8.7,8.7,"2019Q1 report, prior-year column (restated)"
+2018Q1,seats,13.9,13.9,"2019Q1 report, prior-year column (restated)"
+2018Q1,total_debt,6372.5,6372.5,"2019Q1 report, prior-year column (restated)"
+2018Q1,net_debt,5889.8,5889.8,"2019Q1 report, prior-year column (restated)"
+2018Q1,debt_per_epax,267.0,267.0,"2019Q1 report, prior-year column (restated)"
+2018Q1,net_debt_per_epax,247.0,247.0,"2019Q1 report, prior-year column (restated)"
+2018Q1,cpe,,,2018Q1 report p.nan
+2018Q1,operating_covenant,,,2018Q1 report p.nan
+2018Q1,debt_service_covenant,,,2018Q1 report p.nan
+2018Q1,load_factor,81.4,81.3,"2019Q1 report, prior-year column (restated)"
+2018Q2,revenue_total,359.1,359.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,landing_fees,79.0,79.0,"2019Q2 report, prior-year column (restated)"
+2018Q2,general_terminal,47.1,47.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,aero_revenue,126.1,126.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,concessions_rentals,64.7,64.7,"2019Q2 report, prior-year column (restated)"
+2018Q2,parking_ground,46.3,46.3,"2019Q2 report, prior-year column (restated)"
+2018Q2,other_revenue,8.1,8.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,commercial_revenue,119.1,119.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,aif_revenue,113.9,113.9,"2019Q2 report, prior-year column (restated)"
+2018Q2,ground_rent,40.6,40.6,"2019Q2 report, prior-year column (restated)"
+2018Q2,pilt,9.5,9.4,"2019Q2 report, prior-year column (restated)"
+2018Q2,goods_services,81.9,81.9,"2019Q2 report, prior-year column (restated)"
+2018Q2,salaries,47.0,47.0,"2019Q2 report, prior-year column (restated)"
+2018Q2,ebitda,180.1,180.1,"2019Q2 report, prior-year column (restated)"
+2018Q2,net_income,37.2,37.2,"2019Q2 report, prior-year column (restated)"
+2018Q2,pax_domestic,4.5,4.5,"2019Q2 report, prior-year column (restated)"
+2018Q2,pax_international,7.9,7.9,"2019Q2 report, prior-year column (restated)"
+2018Q2,pax_total,12.4,12.4,"2019Q2 report, prior-year column (restated)"
+2018Q2,movements,120.2,119.9,"2019Q2 report, prior-year column (restated)"
+2018Q2,mtow,9.4,9.2,"2019Q2 report, prior-year column (restated)"
+2018Q2,seats,14.8,14.8,"2019Q2 report, prior-year column (restated)"
+2018Q2,total_debt,6286.2,6286.2,"2019Q2 report, prior-year column (restated)"
+2018Q2,net_debt,5852.8,5852.8,"2019Q2 report, prior-year column (restated)"
+2018Q2,debt_per_epax,260.0,260.0,"2019Q2 report, prior-year column (restated)"
+2018Q2,net_debt_per_epax,242.0,242.0,"2019Q2 report, prior-year column (restated)"
+2018Q2,cpe,,,2018Q2 report p.nan
+2018Q2,operating_covenant,,,2018Q2 report p.nan
+2018Q2,debt_service_covenant,,,2018Q2 report p.nan
+2018Q2,load_factor,84.0,84.0,"2019Q2 report, prior-year column (restated)"
+2018Q3,revenue_total,396.7,396.7,"2019Q3 report, prior-year column (restated)"
+2018Q3,landing_fees,81.1,81.1,"2019Q3 report, prior-year column (restated)"
+2018Q3,general_terminal,48.3,48.3,"2019Q3 report, prior-year column (restated)"
+2018Q3,aero_revenue,129.4,129.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,concessions_rentals,74.0,74.0,"2019Q3 report, prior-year column (restated)"
+2018Q3,parking_ground,53.0,53.0,"2019Q3 report, prior-year column (restated)"
+2018Q3,other_revenue,8.9,8.9,"2019Q3 report, prior-year column (restated)"
+2018Q3,commercial_revenue,135.9,135.9,"2019Q3 report, prior-year column (restated)"
+2018Q3,aif_revenue,131.4,131.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,ground_rent,44.4,44.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,pilt,9.2,9.5,"2019Q3 report, prior-year column (restated)"
+2018Q3,goods_services,82.2,81.9,"2019Q3 report, prior-year column (restated)"
+2018Q3,salaries,44.5,44.5,"2019Q3 report, prior-year column (restated)"
+2018Q3,ebitda,216.4,216.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,net_income,73.6,73.6,"2019Q3 report, prior-year column (restated)"
+2018Q3,pax_domestic,5.4,5.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,pax_international,8.8,8.8,"2019Q3 report, prior-year column (restated)"
+2018Q3,pax_total,14.2,14.2,"2019Q3 report, prior-year column (restated)"
+2018Q3,movements,127.5,127.5,"2019Q3 report, prior-year column (restated)"
+2018Q3,mtow,10.4,10.4,"2019Q3 report, prior-year column (restated)"
+2018Q3,seats,16.5,16.5,"2019Q3 report, prior-year column (restated)"
+2018Q3,total_debt,6389.1,6389.1,"2019Q3 report, prior-year column (restated)"
+2018Q3,net_debt,5964.2,5964.2,"2019Q3 report, prior-year column (restated)"
+2018Q3,debt_per_epax,260.0,260.0,"2019Q3 report, prior-year column (restated)"
+2018Q3,net_debt_per_epax,243.0,243.0,"2019Q3 report, prior-year column (restated)"
+2018Q3,cpe,,,2018Q3 report p.nan
+2018Q3,operating_covenant,,,2018Q3 report p.nan
+2018Q3,debt_service_covenant,,,2018Q3 report p.nan
+2018Q3,load_factor,86.2,86.2,"2019Q3 report, prior-year column (restated)"
+2018Q4,revenue_total,367.4,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,landing_fees,79.9,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,general_terminal,48.0,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,aero_revenue,127.9,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,concessions_rentals,76.7,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,parking_ground,46.4,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,other_revenue,7.5,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,commercial_revenue,130.6,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,aif_revenue,108.9,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,ground_rent,40.9,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,pilt,9.2,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,goods_services,101.5,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,salaries,48.8,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,ebitda,167.0,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,net_income,19.8,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,pax_domestic,4.1,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,pax_international,7.4,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,pax_total,11.5,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,movements,112.7,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,mtow,8.9,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,seats,14.1,,"derived: FY [2019Q4 report, prior-year column (restated)] - 9M YTD [2019Q3 report, prior-year column (restated)]"
+2018Q4,total_debt,6370.3,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,net_debt,5959.1,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,debt_per_epax,258.0,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,net_debt_per_epax,241.0,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,cpe,,,2018Q4 annual report p.nan
+2018Q4,operating_covenant,135.9,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,debt_service_covenant,148.5,,2018Q4 annual report p.4.0 (year-end)
+2018Q4,load_factor,,,derived later: passengers / seats
+2019Q1,revenue_total,362.4,362.4,"2020Q1 report, prior-year column (restated)"
+2019Q1,landing_fees,78.4,78.4,"2020Q1 report, prior-year column (restated)"
+2019Q1,general_terminal,47.8,47.8,"2020Q1 report, prior-year column (restated)"
+2019Q1,aero_revenue,126.2,126.2,"2020Q1 report, prior-year column (restated)"
+2019Q1,concessions_rentals,67.6,67.6,"2020Q1 report, prior-year column (restated)"
+2019Q1,parking_ground,49.6,49.6,"2020Q1 report, prior-year column (restated)"
+2019Q1,other_revenue,9.1,9.1,"2020Q1 report, prior-year column (restated)"
+2019Q1,commercial_revenue,126.3,126.3,"2020Q1 report, prior-year column (restated)"
+2019Q1,aif_revenue,109.9,109.9,"2020Q1 report, prior-year column (restated)"
+2019Q1,ground_rent,40.9,40.9,"2020Q1 report, prior-year column (restated)"
+2019Q1,pilt,9.6,9.9,"2020Q1 report, prior-year column (restated)"
+2019Q1,goods_services,105.4,105.1,"2020Q1 report, prior-year column (restated)"
+2019Q1,salaries,51.8,51.8,"2020Q1 report, prior-year column (restated)"
+2019Q1,ebitda,154.7,154.7,"2020Q1 report, prior-year column (restated)"
+2019Q1,net_income,10.9,10.9,"2020Q1 report, prior-year column (restated)"
+2019Q1,pax_domestic,3.8,3.8,"2020Q1 report, prior-year column (restated)"
+2019Q1,pax_international,7.9,7.9,"2020Q1 report, prior-year column (restated)"
+2019Q1,pax_total,11.7,11.7,"2020Q1 report, prior-year column (restated)"
+2019Q1,movements,107.2,107.2,"2020Q1 report, prior-year column (restated)"
+2019Q1,mtow,9.0,9.0,"2020Q1 report, prior-year column (restated)"
+2019Q1,seats,14.2,14.2,"2020Q1 report, prior-year column (restated)"
+2019Q1,total_debt,6459.7,6459.7,"2020Q1 report, prior-year column (restated)"
+2019Q1,net_debt,6042.3,6042.3,"2020Q1 report, prior-year column (restated)"
+2019Q1,debt_per_epax,259.0,259.0,"2020Q1 report, prior-year column (restated)"
+2019Q1,net_debt_per_epax,242.0,242.0,"2020Q1 report, prior-year column (restated)"
+2019Q1,cpe,,,2019Q1 report p.nan
+2019Q1,operating_covenant,,,2019Q1 report p.nan
+2019Q1,debt_service_covenant,,,2019Q1 report p.nan
+2019Q1,load_factor,81.9,81.9,"2020Q1 report, prior-year column (restated)"
+2019Q2,revenue_total,370.9,370.9,"2020Q2 report, prior-year column (restated)"
+2019Q2,landing_fees,81.1,81.1,"2020Q2 report, prior-year column (restated)"
+2019Q2,general_terminal,48.1,48.1,"2020Q2 report, prior-year column (restated)"
+2019Q2,aero_revenue,129.2,129.2,"2020Q2 report, prior-year column (restated)"
+2019Q2,concessions_rentals,70.7,70.7,"2020Q2 report, prior-year column (restated)"
+2019Q2,parking_ground,49.3,49.3,"2020Q2 report, prior-year column (restated)"
+2019Q2,other_revenue,9.0,9.0,"2020Q2 report, prior-year column (restated)"
+2019Q2,commercial_revenue,129.0,129.0,"2020Q2 report, prior-year column (restated)"
+2019Q2,aif_revenue,112.7,112.7,"2020Q2 report, prior-year column (restated)"
+2019Q2,ground_rent,41.6,41.6,"2020Q2 report, prior-year column (restated)"
+2019Q2,pilt,9.6,10.2,"2020Q2 report, prior-year column (restated)"
+2019Q2,goods_services,87.5,86.9,"2020Q2 report, prior-year column (restated)"
+2019Q2,salaries,49.5,49.5,"2020Q2 report, prior-year column (restated)"
+2019Q2,ebitda,182.7,182.7,"2020Q2 report, prior-year column (restated)"
+2019Q2,net_income,36.9,36.9,"2020Q2 report, prior-year column (restated)"
+2019Q2,pax_domestic,4.6,4.6,"2020Q2 report, prior-year column (restated)"
+2019Q2,pax_international,8.2,8.2,"2020Q2 report, prior-year column (restated)"
+2019Q2,pax_total,12.8,12.8,"2020Q2 report, prior-year column (restated)"
+2019Q2,movements,114.6,114.6,"2020Q2 report, prior-year column (restated)"
+2019Q2,mtow,9.7,9.7,"2020Q2 report, prior-year column (restated)"
+2019Q2,seats,15.0,15.0,"2020Q2 report, prior-year column (restated)"
+2019Q2,total_debt,6490.5,6490.5,"2020Q2 report, prior-year column (restated)"
+2019Q2,net_debt,6021.8,6021.8,"2020Q2 report, prior-year column (restated)"
+2019Q2,debt_per_epax,259.0,259.0,"2020Q2 report, prior-year column (restated)"
+2019Q2,net_debt_per_epax,240.0,240.0,"2020Q2 report, prior-year column (restated)"
+2019Q2,cpe,,,2019Q2 report p.nan
+2019Q2,operating_covenant,,,2019Q2 report p.nan
+2019Q2,debt_service_covenant,,,2019Q2 report p.nan
+2019Q2,load_factor,85.5,85.5,"2020Q2 report, prior-year column (restated)"
+2019Q3,revenue_total,403.1,403.1,"2020Q3 report, prior-year column (restated)"
+2019Q3,landing_fees,83.9,83.9,"2020Q3 report, prior-year column (restated)"
+2019Q3,general_terminal,49.5,49.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,aero_revenue,133.4,133.4,"2020Q3 report, prior-year column (restated)"
+2019Q3,concessions_rentals,77.7,77.7,"2020Q3 report, prior-year column (restated)"
+2019Q3,parking_ground,55.1,55.1,"2020Q3 report, prior-year column (restated)"
+2019Q3,other_revenue,9.5,9.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,commercial_revenue,142.3,142.3,"2020Q3 report, prior-year column (restated)"
+2019Q3,aif_revenue,127.4,127.4,"2020Q3 report, prior-year column (restated)"
+2019Q3,ground_rent,45.1,45.1,"2020Q3 report, prior-year column (restated)"
+2019Q3,pilt,9.6,9.6,"2020Q3 report, prior-year column (restated)"
+2019Q3,goods_services,86.3,86.3,"2020Q3 report, prior-year column (restated)"
+2019Q3,salaries,48.2,48.2,"2020Q3 report, prior-year column (restated)"
+2019Q3,ebitda,213.9,213.9,"2020Q3 report, prior-year column (restated)"
+2019Q3,net_income,67.7,67.7,"2020Q3 report, prior-year column (restated)"
+2019Q3,pax_domestic,5.5,5.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,pax_international,8.7,8.7,"2020Q3 report, prior-year column (restated)"
+2019Q3,pax_total,14.2,14.2,"2020Q3 report, prior-year column (restated)"
+2019Q3,movements,122.2,122.2,"2020Q3 report, prior-year column (restated)"
+2019Q3,mtow,10.5,10.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,seats,16.4,16.4,"2020Q3 report, prior-year column (restated)"
+2019Q3,total_debt,6401.5,6401.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,net_debt,5968.5,5968.5,"2020Q3 report, prior-year column (restated)"
+2019Q3,debt_per_epax,255.0,255.0,"2020Q3 report, prior-year column (restated)"
+2019Q3,net_debt_per_epax,238.0,238.0,"2020Q3 report, prior-year column (restated)"
+2019Q3,cpe,,,2019Q3 report p.nan
+2019Q3,operating_covenant,,,2019Q3 report p.nan
+2019Q3,debt_service_covenant,,,2019Q3 report p.nan
+2019Q3,load_factor,86.5,86.5,"2020Q3 report, prior-year column (restated)"
+2019Q4,revenue_total,384.9,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,landing_fees,80.6,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,general_terminal,48.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,aero_revenue,128.9,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,concessions_rentals,99.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,parking_ground,49.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,other_revenue,9.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,commercial_revenue,157.9,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,aif_revenue,98.1,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,ground_rent,43.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,pilt,9.6,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,goods_services,105.7,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,salaries,51.7,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,ebitda,174.6,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,net_income,24.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,pax_domestic,4.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,pax_international,7.6,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,pax_total,11.9,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,movements,108.6,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,mtow,9.3,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,seats,14.4,,"derived: FY [2020Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report, prior-year column (restated)]"
+2019Q4,total_debt,6411.7,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,net_debt,5965.3,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,debt_per_epax,254.0,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,net_debt_per_epax,236.0,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,cpe,,,2019Q4 annual report p.nan
+2019Q4,operating_covenant,137.1,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,debt_service_covenant,150.4,,2019Q4 annual report p.4.0 (year-end)
+2019Q4,load_factor,,,derived later: passengers / seats
+2020Q1,revenue_total,339.1,339.1,"2021Q1 report, prior-year column (restated)"
+2020Q1,landing_fees,78.6,78.6,"2021Q1 report, prior-year column (restated)"
+2020Q1,general_terminal,47.7,47.7,"2021Q1 report, prior-year column (restated)"
+2020Q1,aero_revenue,126.3,126.3,"2021Q1 report, prior-year column (restated)"
+2020Q1,concessions_rentals,70.5,70.5,"2021Q1 report, prior-year column (restated)"
+2020Q1,parking_ground,44.6,44.6,"2021Q1 report, prior-year column (restated)"
+2020Q1,other_revenue,8.7,8.7,"2021Q1 report, prior-year column (restated)"
+2020Q1,commercial_revenue,123.8,123.8,"2021Q1 report, prior-year column (restated)"
+2020Q1,aif_revenue,89.0,89.0,"2021Q1 report, prior-year column (restated)"
+2020Q1,ground_rent,9.5,9.5,"2021Q1 report, prior-year column (restated)"
+2020Q1,pilt,10.1,10.1,"2021Q1 report, prior-year column (restated)"
+2020Q1,goods_services,106.2,106.2,"2021Q1 report, prior-year column (restated)"
+2020Q1,salaries,58.5,58.5,"2021Q1 report, prior-year column (restated)"
+2020Q1,ebitda,154.8,154.8,"2021Q1 report, prior-year column (restated)"
+2020Q1,net_income,6.6,6.6,"2021Q1 report, prior-year column (restated)"
+2020Q1,pax_domestic,3.1,3.1,"2021Q1 report, prior-year column (restated)"
+2020Q1,pax_international,6.5,6.5,"2021Q1 report, prior-year column (restated)"
+2020Q1,pax_total,9.6,9.6,"2021Q1 report, prior-year column (restated)"
+2020Q1,movements,96.3,96.3,"2021Q1 report, prior-year column (restated)"
+2020Q1,mtow,8.3,8.3,"2021Q1 report, prior-year column (restated)"
+2020Q1,seats,13.0,13.0,"2021Q1 report, prior-year column (restated)"
+2020Q1,total_debt,6907.8,6907.8,"2021Q1 report, prior-year column (restated)"
+2020Q1,net_debt,5996.9,5996.9,"2021Q1 report, prior-year column (restated)"
+2020Q1,debt_per_epax,285.0,285.0,"2021Q1 report, prior-year column (restated)"
+2020Q1,net_debt_per_epax,247.0,247.0,"2021Q1 report, prior-year column (restated)"
+2020Q1,cpe,,,2020Q1 report p.nan
+2020Q1,operating_covenant,,,2020Q1 report p.nan
+2020Q1,debt_service_covenant,,,2020Q1 report p.nan
+2020Q1,load_factor,74.3,74.3,"2021Q1 report, prior-year column (restated)"
+2020Q2,revenue_total,185.6,185.6,"2021Q2 report, prior-year column (restated)"
+2020Q2,landing_fees,69.6,69.6,"2021Q2 report, prior-year column (restated)"
+2020Q2,general_terminal,39.7,39.7,"2021Q2 report, prior-year column (restated)"
+2020Q2,aero_revenue,109.3,109.3,"2021Q2 report, prior-year column (restated)"
+2020Q2,concessions_rentals,58.5,58.5,"2021Q2 report, prior-year column (restated)"
+2020Q2,parking_ground,12.6,12.6,"2021Q2 report, prior-year column (restated)"
+2020Q2,other_revenue,2.0,2.0,"2021Q2 report, prior-year column (restated)"
+2020Q2,commercial_revenue,73.1,73.1,"2021Q2 report, prior-year column (restated)"
+2020Q2,aif_revenue,3.2,3.2,"2021Q2 report, prior-year column (restated)"
+2020Q2,ground_rent,8.9,8.9,"2021Q2 report, prior-year column (restated)"
+2020Q2,pilt,10.0,10.0,"2021Q2 report, prior-year column (restated)"
+2020Q2,goods_services,72.7,72.7,"2021Q2 report, prior-year column (restated)"
+2020Q2,salaries,29.3,29.3,"2021Q2 report, prior-year column (restated)"
+2020Q2,ebitda,64.7,64.7,"2021Q2 report, prior-year column (restated)"
+2020Q2,net_income,-96.3,-96.3,"2021Q2 report, prior-year column (restated)"
+2020Q2,pax_domestic,0.3,0.3,"2021Q2 report, prior-year column (restated)"
+2020Q2,pax_international,0.2,0.2,"2021Q2 report, prior-year column (restated)"
+2020Q2,pax_total,0.5,0.5,"2021Q2 report, prior-year column (restated)"
+2020Q2,movements,18.2,18.2,"2021Q2 report, prior-year column (restated)"
+2020Q2,mtow,1.9,1.9,"2021Q2 report, prior-year column (restated)"
+2020Q2,seats,2.0,2.0,"2021Q2 report, prior-year column (restated)"
+2020Q2,total_debt,6877.2,6877.2,"2021Q2 report, prior-year column (restated)"
+2020Q2,net_debt,6221.5,6221.5,"2021Q2 report, prior-year column (restated)"
+2020Q2,debt_per_epax,380.0,380.0,"2021Q2 report, prior-year column (restated)"
+2020Q2,net_debt_per_epax,344.0,344.0,"2021Q2 report, prior-year column (restated)"
+2020Q2,cpe,,,2020Q2 report p.nan
+2020Q2,operating_covenant,,,2020Q2 report p.nan
+2020Q2,debt_service_covenant,,,2020Q2 report p.nan
+2020Q2,load_factor,26.4,26.4,"2021Q2 report, prior-year column (restated)"
+2020Q3,revenue_total,148.3,148.3,2020Q3 report p.4.0
+2020Q3,landing_fees,49.1,49.1,2020Q3 report p.13.0
+2020Q3,general_terminal,25.2,25.2,2020Q3 report p.13.0
+2020Q3,aero_revenue,74.3,74.3,2020Q3 report p.13.0
+2020Q3,concessions_rentals,42.1,42.1,2020Q3 report p.13.0
+2020Q3,parking_ground,8.0,8.0,2020Q3 report p.13.0
+2020Q3,other_revenue,3.6,3.6,2020Q3 report p.13.0
+2020Q3,commercial_revenue,53.7,53.7,2020Q3 report p.13.0
+2020Q3,aif_revenue,20.3,20.3,2020Q3 report p.13.0
+2020Q3,ground_rent,6.8,6.8,2020Q3 report p.14.0
+2020Q3,pilt,10.1,10.1,2020Q3 report p.14.0
+2020Q3,goods_services,75.5,75.5,2020Q3 report p.14.0
+2020Q3,salaries,52.8,52.8,2020Q3 report p.14.0
+2020Q3,ebitda,3.1,3.1,2020Q3 report p.4.0
+2020Q3,net_income,-176.9,-176.9,2020Q3 report p.4.0
+2020Q3,pax_domestic,1.1,1.1,2020Q3 report p.4.0
+2020Q3,pax_international,0.6,0.6,2020Q3 report p.4.0
+2020Q3,pax_total,1.7,1.7,2020Q3 report p.4.0
+2020Q3,movements,29.7,29.7,2020Q3 report p.4.0
+2020Q3,mtow,2.8,2.8,2020Q3 report p.4.0
+2020Q3,seats,3.5,3.5,2020Q3 report p.4.0
+2020Q3,total_debt,6889.4,6889.4,2020Q3 report p.4.0
+2020Q3,net_debt,6357.6,6357.6,2020Q3 report p.4.0
+2020Q3,debt_per_epax,582.0,582.0,2020Q3 report p.4.0
+2020Q3,net_debt_per_epax,537.0,537.0,2020Q3 report p.4.0
+2020Q3,cpe,,,2020Q3 report p.nan
+2020Q3,operating_covenant,,,2020Q3 report p.nan
+2020Q3,debt_service_covenant,,,2020Q3 report p.nan
+2020Q3,load_factor,47.4,47.4,2020Q3 report p.4.0
+2020Q4,revenue_total,150.5,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,landing_fees,50.7,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,general_terminal,25.0,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,aero_revenue,75.7,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,concessions_rentals,41.1,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,parking_ground,14.4,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,other_revenue,3.3,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,commercial_revenue,58.8,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,aif_revenue,16.0,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.13.0]"
+2020Q4,ground_rent,-9.6,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.14.0]"
+2020Q4,pilt,10.1,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.14.0]"
+2020Q4,goods_services,60.9,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.14.0]"
+2020Q4,salaries,32.9,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.14.0]"
+2020Q4,ebitda,56.2,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,net_income,-116.8,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,pax_domestic,0.9,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,pax_international,0.6,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,pax_total,1.5,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,movements,29.9,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,mtow,2.9,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,seats,3.5,,"derived: FY [2021Q4 report, prior-year column (restated)] - 9M YTD [2020Q3 report p.4.0]"
+2020Q4,total_debt,7002.8,,2020Q4 annual report p.4.0 (year-end)
+2020Q4,net_debt,6481.8,,2020Q4 annual report p.4.0 (year-end)
+2020Q4,debt_per_epax,1052.0,,2020Q4 annual report p.4.0 (year-end)
+2020Q4,net_debt_per_epax,974.0,,2020Q4 annual report p.4.0 (year-end)
+2020Q4,cpe,,,2020Q4 annual report p.nan
+2020Q4,operating_covenant,,,2020Q4 annual report p.nan
+2020Q4,debt_service_covenant,,,2020Q4 annual report p.nan
+2020Q4,load_factor,,,derived later: passengers / seats
+2021Q1,revenue_total,152.1,152.1,"2022Q1 report, prior-year column (restated)"
+2021Q1,landing_fees,51.7,51.7,"2022Q1 report, prior-year column (restated)"
+2021Q1,general_terminal,25.8,25.8,"2022Q1 report, prior-year column (restated)"
+2021Q1,aero_revenue,77.5,77.5,"2022Q1 report, prior-year column (restated)"
+2021Q1,concessions_rentals,45.8,45.8,"2022Q1 report, prior-year column (restated)"
+2021Q1,parking_ground,11.3,11.3,"2022Q1 report, prior-year column (restated)"
+2021Q1,other_revenue,7.4,7.4,"2022Q1 report, prior-year column (restated)"
+2021Q1,commercial_revenue,64.5,64.5,"2022Q1 report, prior-year column (restated)"
+2021Q1,aif_revenue,10.1,10.1,"2022Q1 report, prior-year column (restated)"
+2021Q1,ground_rent,11.7,11.7,"2022Q1 report, prior-year column (restated)"
+2021Q1,pilt,10.6,10.6,"2022Q1 report, prior-year column (restated)"
+2021Q1,goods_services,61.9,61.9,"2022Q1 report, prior-year column (restated)"
+2021Q1,salaries,33.5,33.5,"2022Q1 report, prior-year column (restated)"
+2021Q1,ebitda,34.4,34.4,"2022Q1 report, prior-year column (restated)"
+2021Q1,net_income,-127.0,-127.0,"2022Q1 report, prior-year column (restated)"
+2021Q1,pax_domestic,0.6,0.6,"2022Q1 report, prior-year column (restated)"
+2021Q1,pax_international,0.5,0.5,"2022Q1 report, prior-year column (restated)"
+2021Q1,pax_total,1.1,1.1,"2022Q1 report, prior-year column (restated)"
+2021Q1,movements,22.6,22.6,"2022Q1 report, prior-year column (restated)"
+2021Q1,mtow,2.7,2.7,"2022Q1 report, prior-year column (restated)"
+2021Q1,seats,2.6,2.6,"2022Q1 report, prior-year column (restated)"
+2021Q1,total_debt,7120.3,7120.3,"2022Q1 report, prior-year column (restated)"
+2021Q1,net_debt,6552.0,6552.0,"2022Q1 report, prior-year column (restated)"
+2021Q1,debt_per_epax,2984.0,2984.0,"2022Q1 report, prior-year column (restated)"
+2021Q1,net_debt_per_epax,2746.0,2746.0,"2022Q1 report, prior-year column (restated)"
+2021Q1,cpe,,,2021Q1 report p.nan
+2021Q1,operating_covenant,,,2021Q1 report p.nan
+2021Q1,debt_service_covenant,,,2021Q1 report p.nan
+2021Q1,load_factor,40.5,40.5,"2022Q1 report, prior-year column (restated)"
+2021Q2,revenue_total,154.2,154.2,"2022Q2 report, prior-year column (restated)"
+2021Q2,landing_fees,52.0,52.0,"2022Q2 report, prior-year column (restated)"
+2021Q2,general_terminal,25.6,25.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,aero_revenue,77.6,77.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,concessions_rentals,45.5,45.5,"2022Q2 report, prior-year column (restated)"
+2021Q2,parking_ground,9.9,9.9,"2022Q2 report, prior-year column (restated)"
+2021Q2,other_revenue,6.9,6.9,"2022Q2 report, prior-year column (restated)"
+2021Q2,commercial_revenue,62.3,62.3,"2022Q2 report, prior-year column (restated)"
+2021Q2,aif_revenue,14.3,14.3,"2022Q2 report, prior-year column (restated)"
+2021Q2,ground_rent,11.0,11.0,"2022Q2 report, prior-year column (restated)"
+2021Q2,pilt,10.6,10.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,goods_services,55.3,55.3,"2022Q2 report, prior-year column (restated)"
+2021Q2,salaries,31.9,31.9,"2022Q2 report, prior-year column (restated)"
+2021Q2,ebitda,45.4,45.4,"2022Q2 report, prior-year column (restated)"
+2021Q2,net_income,-118.1,-118.1,"2022Q2 report, prior-year column (restated)"
+2021Q2,pax_domestic,0.6,0.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,pax_international,0.4,0.4,"2022Q2 report, prior-year column (restated)"
+2021Q2,pax_total,1.0,1.0,"2022Q2 report, prior-year column (restated)"
+2021Q2,movements,24.2,24.2,"2022Q2 report, prior-year column (restated)"
+2021Q2,mtow,2.7,2.7,"2022Q2 report, prior-year column (restated)"
+2021Q2,seats,2.6,2.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,total_debt,7182.6,7182.6,"2022Q2 report, prior-year column (restated)"
+2021Q2,net_debt,6630.8,6630.8,"2022Q2 report, prior-year column (restated)"
+2021Q2,debt_per_epax,2720.0,2720.0,"2022Q2 report, prior-year column (restated)"
+2021Q2,net_debt_per_epax,2511.0,2511.0,"2022Q2 report, prior-year column (restated)"
+2021Q2,cpe,,,2021Q2 report p.nan
+2021Q2,operating_covenant,,,2021Q2 report p.nan
+2021Q2,debt_service_covenant,,,2021Q2 report p.nan
+2021Q2,load_factor,40.8,40.8,"2022Q2 report, prior-year column (restated)"
+2021Q3,revenue_total,245.7,245.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,landing_fees,67.4,67.4,"2022Q3 report, prior-year column (restated)"
+2021Q3,general_terminal,34.7,86.1,"2022Q3 report, prior-year column (restated)"
+2021Q3,aero_revenue,102.1,257.2,"2022Q3 report, prior-year column (restated)"
+2021Q3,concessions_rentals,52.5,52.5,"2022Q3 report, prior-year column (restated)"
+2021Q3,parking_ground,22.3,22.3,"2022Q3 report, prior-year column (restated)"
+2021Q3,other_revenue,13.1,13.1,"2022Q3 report, prior-year column (restated)"
+2021Q3,commercial_revenue,87.9,214.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,aif_revenue,55.7,80.1,"2022Q3 report, prior-year column (restated)"
+2021Q3,ground_rent,18.4,18.4,"2022Q3 report, prior-year column (restated)"
+2021Q3,pilt,10.6,10.6,"2022Q3 report, prior-year column (restated)"
+2021Q3,goods_services,57.5,57.5,"2022Q3 report, prior-year column (restated)"
+2021Q3,salaries,38.5,38.5,"2022Q3 report, prior-year column (restated)"
+2021Q3,ebitda,120.7,120.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,net_income,-57.7,-57.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,pax_domestic,2.9,2.9,"2022Q3 report, prior-year column (restated)"
+2021Q3,pax_international,1.8,1.8,"2022Q3 report, prior-year column (restated)"
+2021Q3,pax_total,4.7,4.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,movements,54.8,54.8,"2022Q3 report, prior-year column (restated)"
+2021Q3,mtow,4.9,4.9,"2022Q3 report, prior-year column (restated)"
+2021Q3,seats,6.5,6.5,"2022Q3 report, prior-year column (restated)"
+2021Q3,total_debt,7196.1,7196.1,"2022Q3 report, prior-year column (restated)"
+2021Q3,net_debt,6615.7,6615.7,"2022Q3 report, prior-year column (restated)"
+2021Q3,debt_per_epax,1718.0,1718.0,"2022Q3 report, prior-year column (restated)"
+2021Q3,net_debt_per_epax,1579.0,5.0,"override: OCR line ""Net Debt 4/Enplaned Passenger 5 1,579 537"": 5 is a footnote marker"
+2021Q3,cpe,,,2021Q3 report p.nan
+2021Q3,operating_covenant,,,2021Q3 report p.nan
+2021Q3,debt_service_covenant,,,2021Q3 report p.nan
+2021Q3,load_factor,72.9,72.9,"2022Q3 report, prior-year column (restated)"
+2021Q4,revenue_total,274.8,,2021Q4 annual report (Q4 column)
+2021Q4,landing_fees,76.4,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,general_terminal,40.5,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,aero_revenue,116.9,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,concessions_rentals,49.3,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,parking_ground,26.8,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,other_revenue,14.6,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,commercial_revenue,90.7,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,aif_revenue,67.2,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,ground_rent,23.7,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,pilt,10.6,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,goods_services,74.7,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,salaries,48.0,,"derived: FY [2022Q4 report, prior-year column (restated)] - 9M YTD [2022Q3 report, prior-year column (restated)]"
+2021Q4,ebitda,117.7,,2021Q4 annual report (Q4 column)
+2021Q4,net_income,-47.6,,2021Q4 annual report (Q4 column)
+2021Q4,pax_domestic,2.7,,2021Q4 annual report (Q4 column)
+2021Q4,pax_international,3.2,,2021Q4 annual report (Q4 column)
+2021Q4,pax_total,5.9,,2021Q4 annual report (Q4 column)
+2021Q4,movements,71.2,,2021Q4 annual report (Q4 column)
+2021Q4,mtow,6.1,,2021Q4 annual report (Q4 column)
+2021Q4,seats,8.4,,2021Q4 annual report (Q4 column)
+2021Q4,total_debt,7213.7,,2021Q4 annual report p.4.0 (year-end)
+2021Q4,net_debt,6532.9,,2021Q4 annual report p.4.0 (year-end)
+2021Q4,debt_per_epax,1136.0,,2021Q4 annual report p.4.0 (year-end)
+2021Q4,net_debt_per_epax,1029.0,,2021Q4 annual report p.4.0 (year-end)
+2021Q4,cpe,,,2021Q4 annual report p.nan
+2021Q4,operating_covenant,,,2021Q4 annual report p.nan
+2021Q4,debt_service_covenant,,,2021Q4 annual report p.nan
+2021Q4,load_factor,,,derived later: passengers / seats
+2022Q1,revenue_total,282.7,282.7,2022Q1 report p.4.0
+2022Q1,landing_fees,75.9,75.9,2022Q1 report p.12.0
+2022Q1,general_terminal,39.4,39.4,2022Q1 report p.12.0
+2022Q1,aero_revenue,115.3,115.3,2022Q1 report p.12.0
+2022Q1,concessions_rentals,61.0,61.0,2022Q1 report p.12.0
+2022Q1,parking_ground,27.9,27.9,2022Q1 report p.12.0
+2022Q1,other_revenue,19.3,19.3,2022Q1 report p.12.0
+2022Q1,commercial_revenue,108.2,108.2,2022Q1 report p.12.0
+2022Q1,aif_revenue,59.2,59.2,2022Q1 report p.12.0
+2022Q1,ground_rent,30.9,30.9,2022Q1 report p.13.0
+2022Q1,pilt,3.0,3.0,2022Q1 report p.13.0
+2022Q1,goods_services,81.7,81.7,2022Q1 report p.13.0
+2022Q1,salaries,46.1,46.1,2022Q1 report p.13.0
+2022Q1,ebitda,121.0,121.0,2022Q1 report p.4.0
+2022Q1,net_income,-44.6,-44.6,2022Q1 report p.4.0
+2022Q1,pax_domestic,2.0,2.0,2022Q1 report p.4.0
+2022Q1,pax_international,3.2,3.2,2022Q1 report p.4.0
+2022Q1,pax_total,5.2,5.2,2022Q1 report p.4.0
+2022Q1,movements,63.2,63.2,2022Q1 report p.4.0
+2022Q1,mtow,5.8,5.8,2022Q1 report p.4.0
+2022Q1,seats,8.0,8.0,2022Q1 report p.4.0
+2022Q1,total_debt,7249.8,7249.8,2022Q1 report p.4.0
+2022Q1,net_debt,6535.4,6535.4,2022Q1 report p.4.0
+2022Q1,debt_per_epax,862.0,862.0,2022Q1 report p.4.0
+2022Q1,net_debt_per_epax,777.0,777.0,2022Q1 report p.4.0
+2022Q1,cpe,,,2022Q1 report p.nan
+2022Q1,operating_covenant,,,2022Q1 report p.nan
+2022Q1,debt_service_covenant,,,2022Q1 report p.nan
+2022Q1,load_factor,64.7,64.7,2022Q1 report p.4.0
+2022Q2,revenue_total,383.7,383.7,"2023Q2 report, prior-year column (restated)"
+2022Q2,landing_fees,92.8,92.8,"2023Q2 report, prior-year column (restated)"
+2022Q2,general_terminal,51.6,51.6,"2023Q2 report, prior-year column (restated)"
+2022Q2,aero_revenue,144.4,144.4,"2023Q2 report, prior-year column (restated)"
+2022Q2,concessions_rentals,64.8,64.8,"2023Q2 report, prior-year column (restated)"
+2022Q2,parking_ground,44.5,44.5,"2023Q2 report, prior-year column (restated)"
+2022Q2,other_revenue,22.8,22.8,"2023Q2 report, prior-year column (restated)"
+2022Q2,commercial_revenue,132.1,132.1,"2023Q2 report, prior-year column (restated)"
+2022Q2,aif_revenue,107.2,107.2,"2023Q2 report, prior-year column (restated)"
+2022Q2,ground_rent,42.3,42.3,"2023Q2 report, prior-year column (restated)"
+2022Q2,pilt,3.1,3.1,"2023Q2 report, prior-year column (restated)"
+2022Q2,goods_services,74.3,74.3,"2023Q2 report, prior-year column (restated)"
+2022Q2,salaries,47.2,47.2,"2023Q2 report, prior-year column (restated)"
+2022Q2,ebitda,216.8,216.8,"2023Q2 report, prior-year column (restated)"
+2022Q2,net_income,51.5,51.5,"2023Q2 report, prior-year column (restated)"
+2022Q2,pax_domestic,3.8,3.8,"2023Q2 report, prior-year column (restated)"
+2022Q2,pax_international,5.5,5.5,"2023Q2 report, prior-year column (restated)"
+2022Q2,pax_total,9.3,9.3,"2023Q2 report, prior-year column (restated)"
+2022Q2,movements,87.4,87.4,"2023Q2 report, prior-year column (restated)"
+2022Q2,mtow,7.7,7.7,"2023Q2 report, prior-year column (restated)"
+2022Q2,seats,11.4,11.4,"2023Q2 report, prior-year column (restated)"
+2022Q2,total_debt,6902.4,6902.4,"2023Q2 report, prior-year column (restated)"
+2022Q2,net_debt,6419.1,6419.1,"2023Q2 report, prior-year column (restated)"
+2022Q2,debt_per_epax,549.0,549.0,"2023Q2 report, prior-year column (restated)"
+2022Q2,net_debt_per_epax,511.0,511.0,"2023Q2 report, prior-year column (restated)"
+2022Q2,cpe,,,2022Q2 report p.nan
+2022Q2,operating_covenant,,,2022Q2 report p.nan
+2022Q2,debt_service_covenant,,,2022Q2 report p.nan
+2022Q2,load_factor,81.3,81.3,"2023Q2 report, prior-year column (restated)"
+2022Q3,revenue_total,421.9,421.9,"2023Q3 report, prior-year column (restated)"
+2022Q3,landing_fees,101.7,101.7,"2023Q3 report, prior-year column (restated)"
+2022Q3,general_terminal,58.6,58.6,"2023Q3 report, prior-year column (restated)"
+2022Q3,aero_revenue,160.3,160.3,"2023Q3 report, prior-year column (restated)"
+2022Q3,concessions_rentals,71.6,71.6,"2023Q3 report, prior-year column (restated)"
+2022Q3,parking_ground,52.8,52.8,"2023Q3 report, prior-year column (restated)"
+2022Q3,other_revenue,9.8,9.8,"2023Q3 report, prior-year column (restated)"
+2022Q3,commercial_revenue,134.2,134.2,"2023Q3 report, prior-year column (restated)"
+2022Q3,aif_revenue,127.4,127.4,"2023Q3 report, prior-year column (restated)"
+2022Q3,ground_rent,48.7,48.7,"2023Q3 report, prior-year column (restated)"
+2022Q3,pilt,3.1,3.1,"2023Q3 report, prior-year column (restated)"
+2022Q3,goods_services,91.2,91.2,"2023Q3 report, prior-year column (restated)"
+2022Q3,salaries,51.1,51.1,"2023Q3 report, prior-year column (restated)"
+2022Q3,ebitda,227.8,227.8,"2023Q3 report, prior-year column (restated)"
+2022Q3,net_income,73.7,73.7,"2023Q3 report, prior-year column (restated)"
+2022Q3,pax_domestic,4.7,4.7,"2023Q3 report, prior-year column (restated)"
+2022Q3,pax_international,6.5,6.5,"2023Q3 report, prior-year column (restated)"
+2022Q3,pax_total,11.2,11.2,"2023Q3 report, prior-year column (restated)"
+2022Q3,movements,96.8,96.8,"2023Q3 report, prior-year column (restated)"
+2022Q3,mtow,8.6,8.6,"2023Q3 report, prior-year column (restated)"
+2022Q3,seats,13.3,13.3,"2023Q3 report, prior-year column (restated)"
+2022Q3,total_debt,6841.0,6841.0,"2023Q3 report, prior-year column (restated)"
+2022Q3,net_debt,6282.3,6282.3,"2023Q3 report, prior-year column (restated)"
+2022Q3,debt_per_epax,434.0,434.0,"2023Q3 report, prior-year column (restated)"
+2022Q3,net_debt_per_epax,398.0,398.0,"2023Q3 report, prior-year column (restated)"
+2022Q3,cpe,,,2022Q3 report p.nan
+2022Q3,operating_covenant,,,2022Q3 report p.nan
+2022Q3,debt_service_covenant,,,2022Q3 report p.nan
+2022Q3,load_factor,84.0,84.0,"2023Q3 report, prior-year column (restated)"
+2022Q4,revenue_total,403.5,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,landing_fees,97.0,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,general_terminal,55.5,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,aero_revenue,152.5,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,concessions_rentals,72.0,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,parking_ground,50.1,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,other_revenue,9.7,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,commercial_revenue,131.8,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,aif_revenue,119.2,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,ground_rent,41.8,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,pilt,3.0,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,goods_services,111.9,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,salaries,53.6,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,ebitda,193.2,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,net_income,-8.3,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,pax_domestic,3.7,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,pax_international,6.2,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,pax_total,9.9,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,movements,89.3,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,mtow,8.0,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,seats,12.2,,"derived: FY [2023Q4 report, prior-year column (restated)] - 9M YTD [2023Q3 report, prior-year column (restated)]"
+2022Q4,total_debt,6802.4,,2022Q4 annual report p.4.0 (year-end)
+2022Q4,net_debt,6296.2,,2022Q4 annual report p.4.0 (year-end)
+2022Q4,debt_per_epax,382.0,,2022Q4 annual report p.4.0 (year-end)
+2022Q4,net_debt_per_epax,353.0,,2022Q4 annual report p.4.0 (year-end)
+2022Q4,cpe,,,2022Q4 annual report p.nan
+2022Q4,operating_covenant,,,2022Q4 annual report p.nan
+2022Q4,debt_service_covenant,,,2022Q4 annual report p.nan
+2022Q4,load_factor,,,derived later: passengers / seats
+2023Q1,revenue_total,425.7,425.7,"2024Q1 report, prior-year column (restated)"
+2023Q1,landing_fees,100.9,100.9,"2024Q1 report, prior-year column (restated)"
+2023Q1,general_terminal,58.8,58.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,aero_revenue,159.7,159.7,"2024Q1 report, prior-year column (restated)"
+2023Q1,concessions_rentals,69.4,69.4,"2024Q1 report, prior-year column (restated)"
+2023Q1,parking_ground,53.5,53.5,"2024Q1 report, prior-year column (restated)"
+2023Q1,other_revenue,13.3,13.3,"2024Q1 report, prior-year column (restated)"
+2023Q1,commercial_revenue,136.2,136.2,"2024Q1 report, prior-year column (restated)"
+2023Q1,aif_revenue,129.8,129.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,ground_rent,47.8,47.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,pilt,2.9,2.9,"2024Q1 report, prior-year column (restated)"
+2023Q1,goods_services,116.0,116.0,"2024Q1 report, prior-year column (restated)"
+2023Q1,salaries,56.1,56.1,"2024Q1 report, prior-year column (restated)"
+2023Q1,ebitda,202.9,202.9,"2024Q1 report, prior-year column (restated)"
+2023Q1,net_income,48.8,48.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,pax_domestic,3.4,3.4,"2024Q1 report, prior-year column (restated)"
+2023Q1,pax_international,6.6,6.6,"2024Q1 report, prior-year column (restated)"
+2023Q1,pax_total,10.0,10.0,"2024Q1 report, prior-year column (restated)"
+2023Q1,movements,86.8,86.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,mtow,7.8,7.8,"2024Q1 report, prior-year column (restated)"
+2023Q1,seats,12.1,12.1,"2024Q1 report, prior-year column (restated)"
+2023Q1,total_debt,6841.7,6841.7,"2024Q1 report, prior-year column (restated)"
+2023Q1,net_debt,6173.3,6173.3,"2024Q1 report, prior-year column (restated)"
+2023Q1,debt_per_epax,338.0,338.0,"2024Q1 report, prior-year column (restated)"
+2023Q1,net_debt_per_epax,305.0,,"2024Q1 report, prior-year column (restated)"
+2023Q1,cpe,30.5,,"2024Q1 report, prior-year column (restated)"
+2023Q1,operating_covenant,,,2023Q1 report p.nan
+2023Q1,debt_service_covenant,,,2023Q1 report p.nan
+2023Q1,load_factor,82.9,82.9,"2024Q1 report, prior-year column (restated)"
+2023Q2,revenue_total,463.8,463.8,"2024Q2 report, prior-year column (restated)"
+2023Q2,landing_fees,101.6,101.6,"2024Q2 report, prior-year column (restated)"
+2023Q2,general_terminal,60.2,60.2,"2024Q2 report, prior-year column (restated)"
+2023Q2,aero_revenue,161.8,161.8,"2024Q2 report, prior-year column (restated)"
+2023Q2,concessions_rentals,76.1,76.1,"2024Q2 report, prior-year column (restated)"
+2023Q2,parking_ground,57.6,57.6,"2024Q2 report, prior-year column (restated)"
+2023Q2,other_revenue,14.5,14.5,"2024Q2 report, prior-year column (restated)"
+2023Q2,commercial_revenue,148.2,148.2,"2024Q2 report, prior-year column (restated)"
+2023Q2,aif_revenue,153.8,153.8,"2024Q2 report, prior-year column (restated)"
+2023Q2,ground_rent,53.5,53.5,"2024Q2 report, prior-year column (restated)"
+2023Q2,pilt,2.9,2.9,"2024Q2 report, prior-year column (restated)"
+2023Q2,goods_services,104.7,104.7,"2024Q2 report, prior-year column (restated)"
+2023Q2,salaries,55.2,55.2,"2024Q2 report, prior-year column (restated)"
+2023Q2,ebitda,247.5,247.5,"2024Q2 report, prior-year column (restated)"
+2023Q2,net_income,81.1,81.1,"2024Q2 report, prior-year column (restated)"
+2023Q2,pax_domestic,4.3,4.2,"2024Q2 report, prior-year column (restated)"
+2023Q2,pax_international,7.1,7.1,"2024Q2 report, prior-year column (restated)"
+2023Q2,pax_total,11.4,11.3,"2024Q2 report, prior-year column (restated)"
+2023Q2,movements,96.3,96.3,2023Q2 report p.4.0
+2023Q2,mtow,8.6,8.6,"2024Q2 report, prior-year column (restated)"
+2023Q2,seats,13.4,13.4,"2024Q2 report, prior-year column (restated)"
+2023Q2,total_debt,6882.1,6882.1,"2024Q2 report, prior-year column (restated)"
+2023Q2,net_debt,6027.1,6027.1,"2024Q2 report, prior-year column (restated)"
+2023Q2,debt_per_epax,325.0,325.0,"2024Q2 report, prior-year column (restated)"
+2023Q2,net_debt_per_epax,285.0,285.0,"2024Q2 report, prior-year column (restated)"
+2023Q2,cpe,30.5,,"2024Q2 report, prior-year column (restated)"
+2023Q2,operating_covenant,,,2023Q2 report p.nan
+2023Q2,debt_service_covenant,,,2023Q2 report p.nan
+2023Q2,load_factor,84.9,84.9,"2024Q2 report, prior-year column (restated)"
+2023Q3,revenue_total,504.5,504.5,"2024Q3 report, prior-year column (restated)"
+2023Q3,landing_fees,105.8,105.8,"2024Q3 report, prior-year column (restated)"
+2023Q3,general_terminal,63.1,63.1,"2024Q3 report, prior-year column (restated)"
+2023Q3,aero_revenue,168.9,168.9,"2024Q3 report, prior-year column (restated)"
+2023Q3,concessions_rentals,81.7,81.7,"2024Q3 report, prior-year column (restated)"
+2023Q3,parking_ground,64.4,64.4,"2024Q3 report, prior-year column (restated)"
+2023Q3,other_revenue,13.8,13.8,"2024Q3 report, prior-year column (restated)"
+2023Q3,commercial_revenue,159.9,159.9,"2024Q3 report, prior-year column (restated)"
+2023Q3,aif_revenue,175.7,175.7,"2024Q3 report, prior-year column (restated)"
+2023Q3,ground_rent,55.5,55.5,"2024Q3 report, prior-year column (restated)"
+2023Q3,pilt,2.9,2.9,"2024Q3 report, prior-year column (restated)"
+2023Q3,goods_services,112.4,112.4,"2024Q3 report, prior-year column (restated)"
+2023Q3,salaries,54.1,54.1,"2024Q3 report, prior-year column (restated)"
+2023Q3,ebitda,279.6,279.6,"2024Q3 report, prior-year column (restated)"
+2023Q3,net_income,99.7,99.7,"2024Q3 report, prior-year column (restated)"
+2023Q3,pax_domestic,4.9,4.9,"2024Q3 report, prior-year column (restated)"
+2023Q3,pax_international,7.6,7.6,"2024Q3 report, prior-year column (restated)"
+2023Q3,pax_total,12.5,12.5,"2024Q3 report, prior-year column (restated)"
+2023Q3,movements,100.1,100.1,"2024Q3 report, prior-year column (restated)"
+2023Q3,mtow,9.2,9.2,"2024Q3 report, prior-year column (restated)"
+2023Q3,seats,14.3,14.3,"2024Q3 report, prior-year column (restated)"
+2023Q3,total_debt,6989.3,6989.3,"2024Q3 report, prior-year column (restated)"
+2023Q3,net_debt,5861.1,5861.1,"2024Q3 report, prior-year column (restated)"
+2023Q3,debt_per_epax,320.0,320.0,"2024Q3 report, prior-year column (restated)"
+2023Q3,net_debt_per_epax,268.0,268.0,"2024Q3 report, prior-year column (restated)"
+2023Q3,cpe,29.0,,"2024Q3 report, prior-year column (restated)"
+2023Q3,operating_covenant,,,2023Q3 report p.nan
+2023Q3,debt_service_covenant,,,2023Q3 report p.nan
+2023Q3,load_factor,87.3,87.3,"2024Q3 report, prior-year column (restated)"
+2023Q4,revenue_total,493.2,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,landing_fees,118.0,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,general_terminal,70.0,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,aero_revenue,188.0,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,concessions_rentals,80.2,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,parking_ground,56.1,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,other_revenue,13.2,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,commercial_revenue,149.5,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,aif_revenue,155.7,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,ground_rent,55.8,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,pilt,2.9,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,goods_services,136.5,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,salaries,67.7,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,ebitda,230.3,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,net_income,35.3,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,pax_domestic,3.9,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,pax_international,7.1,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,pax_total,11.0,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,movements,96.4,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,mtow,8.7,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,seats,13.4,,"derived: FY [2024Q4 report, prior-year column (restated)] - 9M YTD [2024Q3 report, prior-year column (restated)]"
+2023Q4,total_debt,6983.3,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,net_debt,5829.8,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,debt_per_epax,312.0,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,net_debt_per_epax,260.0,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,cpe,30.3,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,operating_covenant,153.0,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,debt_service_covenant,176.0,,2023Q4 annual report p.4.0 (year-end)
+2023Q4,load_factor,,,derived later: passengers / seats
+2024Q1,revenue_total,468.5,468.5,"2025Q1 report, prior-year column (restated)"
+2024Q1,landing_fees,99.5,99.5,"2025Q1 report, prior-year column (restated)"
+2024Q1,general_terminal,59.4,59.4,"2025Q1 report, prior-year column (restated)"
+2024Q1,aero_revenue,158.9,158.9,"2025Q1 report, prior-year column (restated)"
+2024Q1,concessions_rentals,76.6,76.6,"2025Q1 report, prior-year column (restated)"
+2024Q1,parking_ground,59.2,59.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,other_revenue,14.6,14.6,"2025Q1 report, prior-year column (restated)"
+2024Q1,commercial_revenue,150.4,150.4,"2025Q1 report, prior-year column (restated)"
+2024Q1,aif_revenue,159.2,159.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,ground_rent,53.0,53.0,"2025Q1 report, prior-year column (restated)"
+2024Q1,pilt,8.2,8.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,goods_services,121.9,121.9,"2025Q1 report, prior-year column (restated)"
+2024Q1,salaries,66.2,66.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,ebitda,219.2,219.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,net_income,73.6,73.6,"2025Q1 report, prior-year column (restated)"
+2024Q1,pax_domestic,3.5,3.5,"2025Q1 report, prior-year column (restated)"
+2024Q1,pax_international,7.4,7.4,"2025Q1 report, prior-year column (restated)"
+2024Q1,pax_total,10.9,10.9,"2025Q1 report, prior-year column (restated)"
+2024Q1,movements,94.0,94.0,"2025Q1 report, prior-year column (restated)"
+2024Q1,mtow,8.6,8.6,"2025Q1 report, prior-year column (restated)"
+2024Q1,seats,13.3,13.3,"2025Q1 report, prior-year column (restated)"
+2024Q1,total_debt,7083.4,7083.4,"2025Q1 report, prior-year column (restated)"
+2024Q1,net_debt,5753.2,5753.2,"2025Q1 report, prior-year column (restated)"
+2024Q1,debt_per_epax,310.0,310.0,"2025Q1 report, prior-year column (restated)"
+2024Q1,net_debt_per_epax,252.0,252.0,"2025Q1 report, prior-year column (restated)"
+2024Q1,cpe,29.2,29.7,"2025Q1 report, prior-year column (restated)"
+2024Q1,operating_covenant,148.0,,"2025Q1 report, prior-year column (restated)"
+2024Q1,debt_service_covenant,170.0,,"2025Q1 report, prior-year column (restated)"
+2024Q1,load_factor,81.2,81.2,"2025Q1 report, prior-year column (restated)"
+2024Q2,revenue_total,485.3,485.3,"2025Q2 report, prior-year column (restated)"
+2024Q2,landing_fees,103.8,103.8,"2025Q2 report, prior-year column (restated)"
+2024Q2,general_terminal,62.2,62.2,"2025Q2 report, prior-year column (restated)"
+2024Q2,aero_revenue,166.0,166.0,"2025Q2 report, prior-year column (restated)"
+2024Q2,concessions_rentals,80.4,80.4,"2025Q2 report, prior-year column (restated)"
+2024Q2,parking_ground,60.1,60.1,"2025Q2 report, prior-year column (restated)"
+2024Q2,other_revenue,15.5,15.5,"2025Q2 report, prior-year column (restated)"
+2024Q2,commercial_revenue,156.0,156.0,"2025Q2 report, prior-year column (restated)"
+2024Q2,aif_revenue,163.3,163.3,"2025Q2 report, prior-year column (restated)"
+2024Q2,ground_rent,54.9,54.9,"2025Q2 report, prior-year column (restated)"
+2024Q2,pilt,8.2,8.2,"2025Q2 report, prior-year column (restated)"
+2024Q2,goods_services,116.5,119.9,"2025Q2 report, prior-year column (restated)"
+2024Q2,salaries,65.2,65.2,"2025Q2 report, prior-year column (restated)"
+2024Q2,ebitda,240.6,237.2,"2025Q2 report, prior-year column (restated)"
+2024Q2,net_income,86.4,86.4,"2025Q2 report, prior-year column (restated)"
+2024Q2,pax_domestic,4.1,4.1,"2025Q2 report, prior-year column (restated)"
+2024Q2,pax_international,7.6,7.6,"2025Q2 report, prior-year column (restated)"
+2024Q2,pax_total,11.7,11.7,"2025Q2 report, prior-year column (restated)"
+2024Q2,movements,97.8,0.1,"derived: H1 2024 YTD - Q1 2024 (Q2 2024 report prints 0.1, a source typo)"
+2024Q2,mtow,9.1,9.1,"2025Q2 report, prior-year column (restated)"
+2024Q2,seats,14.0,14.0,"2025Q2 report, prior-year column (restated)"
+2024Q2,total_debt,7068.7,7068.7,"2025Q2 report, prior-year column (restated)"
+2024Q2,net_debt,5673.6,5673.6,"2025Q2 report, prior-year column (restated)"
+2024Q2,debt_per_epax,306.0,306.0,"2025Q2 report, prior-year column (restated)"
+2024Q2,net_debt_per_epax,246.0,246.0,"2025Q2 report, prior-year column (restated)"
+2024Q2,cpe,29.6,29.6,"2025Q2 report, prior-year column (restated)"
+2024Q2,operating_covenant,149.0,,"2025Q2 report, prior-year column (restated)"
+2024Q2,debt_service_covenant,169.0,,"2025Q2 report, prior-year column (restated)"
+2024Q2,load_factor,84.4,84.4,"2025Q2 report, prior-year column (restated)"
+2024Q3,revenue_total,531.2,531.2,"2025Q3 report, prior-year column (restated)"
+2024Q3,landing_fees,109.5,109.5,"2025Q3 report, prior-year column (restated)"
+2024Q3,general_terminal,66.4,66.4,"2025Q3 report, prior-year column (restated)"
+2024Q3,aero_revenue,175.9,175.9,"2025Q3 report, prior-year column (restated)"
+2024Q3,concessions_rentals,86.6,86.6,"2025Q3 report, prior-year column (restated)"
+2024Q3,parking_ground,68.3,68.3,"2025Q3 report, prior-year column (restated)"
+2024Q3,other_revenue,14.8,14.8,"2025Q3 report, prior-year column (restated)"
+2024Q3,commercial_revenue,169.7,169.7,"2025Q3 report, prior-year column (restated)"
+2024Q3,aif_revenue,185.6,185.6,"2025Q3 report, prior-year column (restated)"
+2024Q3,ground_rent,60.5,60.5,"2025Q3 report, prior-year column (restated)"
+2024Q3,pilt,8.2,8.2,"2025Q3 report, prior-year column (restated)"
+2024Q3,goods_services,122.2,122.2,"2025Q3 report, prior-year column (restated)"
+2024Q3,salaries,65.5,65.5,"2025Q3 report, prior-year column (restated)"
+2024Q3,ebitda,274.8,274.8,"2025Q3 report, prior-year column (restated)"
+2024Q3,net_income,122.3,122.3,"2025Q3 report, prior-year column (restated)"
+2024Q3,pax_domestic,4.8,4.8,"2025Q3 report, prior-year column (restated)"
+2024Q3,pax_international,8.0,8.0,"2025Q3 report, prior-year column (restated)"
+2024Q3,pax_total,12.8,12.8,"2025Q3 report, prior-year column (restated)"
+2024Q3,movements,102.0,102.0,"2025Q3 report, prior-year column (restated)"
+2024Q3,mtow,9.7,9.7,"2025Q3 report, prior-year column (restated)"
+2024Q3,seats,15.0,15.0,"2025Q3 report, prior-year column (restated)"
+2024Q3,total_debt,7084.9,7084.9,"2025Q3 report, prior-year column (restated)"
+2024Q3,net_debt,5520.4,5520.4,"2025Q3 report, prior-year column (restated)"
+2024Q3,debt_per_epax,304.0,304.0,"2025Q3 report, prior-year column (restated)"
+2024Q3,net_debt_per_epax,237.0,237.0,"2025Q3 report, prior-year column (restated)"
+2024Q3,cpe,29.6,29.6,"2025Q3 report, prior-year column (restated)"
+2024Q3,operating_covenant,,,2024Q3 report p.nan
+2024Q3,debt_service_covenant,,,2024Q3 report p.nan
+2024Q3,load_factor,85.6,85.6,"2025Q3 report, prior-year column (restated)"
+2024Q4,revenue_total,490.4,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,landing_fees,103.7,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,general_terminal,60.8,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,aero_revenue,164.5,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,concessions_rentals,86.7,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,parking_ground,59.8,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,other_revenue,14.6,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,commercial_revenue,161.1,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,aif_revenue,164.8,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,ground_rent,55.1,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,pilt,8.1,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,goods_services,159.1,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,salaries,64.7,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,ebitda,203.4,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,net_income,46.8,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,pax_domestic,4.0,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,pax_international,7.3,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,pax_total,11.3,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,movements,95.8,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,mtow,8.9,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,seats,13.6,,"derived: FY [2025Q4 report, prior-year column (restated)] - 9M YTD [2025Q3 report, prior-year column (restated)]"
+2024Q4,total_debt,7045.7,,2024Q4 annual report p.4.0 (year-end)
+2024Q4,net_debt,5451.2,,2024Q4 annual report p.4.0 (year-end)
+2024Q4,debt_per_epax,301.0,,2024Q4 annual report p.4.0 (year-end)
+2024Q4,net_debt_per_epax,233.0,,2024Q4 annual report p.4.0 (year-end)
+2024Q4,cpe,28.5,,2024Q4 annual report p.4.0 (year-end)
+2024Q4,operating_covenant,148.0,,2024Q4 annual report p.19.0 (year-end)
+2024Q4,debt_service_covenant,170.0,,2024Q4 annual report p.19.0 (year-end)
+2024Q4,load_factor,,,derived later: passengers / seats
+2025Q1,revenue_total,487.4,487.4,"2026Q1 report, prior-year column (restated)"
+2025Q1,landing_fees,105.7,105.7,"2026Q1 report, prior-year column (restated)"
+2025Q1,general_terminal,62.8,62.8,"2026Q1 report, prior-year column (restated)"
+2025Q1,aero_revenue,168.5,168.5,"2026Q1 report, prior-year column (restated)"
+2025Q1,concessions_rentals,81.5,81.5,"2026Q1 report, prior-year column (restated)"
+2025Q1,parking_ground,61.0,61.0,"2026Q1 report, prior-year column (restated)"
+2025Q1,other_revenue,15.5,15.5,"2026Q1 report, prior-year column (restated)"
+2025Q1,commercial_revenue,158.0,158.0,"2026Q1 report, prior-year column (restated)"
+2025Q1,aif_revenue,160.9,160.9,"2026Q1 report, prior-year column (restated)"
+2025Q1,ground_rent,55.1,55.1,"2026Q1 report, prior-year column (restated)"
+2025Q1,pilt,10.3,10.3,"2026Q1 report, prior-year column (restated)"
+2025Q1,goods_services,130.8,130.8,"2026Q1 report, prior-year column (restated)"
+2025Q1,salaries,74.3,74.3,"2026Q1 report, prior-year column (restated)"
+2025Q1,ebitda,216.9,216.9,"2026Q1 report, prior-year column (restated)"
+2025Q1,net_income,69.5,69.5,"2026Q1 report, prior-year column (restated)"
+2025Q1,pax_domestic,3.4,3.4,"2026Q1 report, prior-year column (restated)"
+2025Q1,pax_international,7.3,7.3,"2026Q1 report, prior-year column (restated)"
+2025Q1,pax_total,10.7,10.7,"2026Q1 report, prior-year column (restated)"
+2025Q1,movements,91.3,91.3,"2026Q1 report, prior-year column (restated)"
+2025Q1,mtow,8.6,8.6,"2026Q1 report, prior-year column (restated)"
+2025Q1,seats,13.3,13.3,"2026Q1 report, prior-year column (restated)"
+2025Q1,total_debt,6798.8,6798.8,"2026Q1 report, prior-year column (restated)"
+2025Q1,net_debt,5359.6,5359.6,"2026Q1 report, prior-year column (restated)"
+2025Q1,debt_per_epax,292.0,292.0,"2026Q1 report, prior-year column (restated)"
+2025Q1,net_debt_per_epax,230.0,230.0,"2026Q1 report, prior-year column (restated)"
+2025Q1,cpe,31.6,31.6,"2026Q1 report, prior-year column (restated)"
+2025Q1,operating_covenant,142.0,142.0,2025Q1 report p.16.0
+2025Q1,debt_service_covenant,158.0,158.0,2025Q1 report p.16.0
+2025Q1,load_factor,80.4,80.4,"2026Q1 report, prior-year column (restated)"
+2025Q2,revenue_total,520.7,520.7,"2026Q2 report, prior-year column (restated)"
+2025Q2,landing_fees,112.4,112.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,general_terminal,66.7,66.7,"2026Q2 report, prior-year column (restated)"
+2025Q2,aero_revenue,179.1,179.1,"2026Q2 report, prior-year column (restated)"
+2025Q2,concessions_rentals,85.3,85.3,"2026Q2 report, prior-year column (restated)"
+2025Q2,parking_ground,61.8,61.8,"2026Q2 report, prior-year column (restated)"
+2025Q2,other_revenue,15.4,15.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,commercial_revenue,162.5,162.5,"2026Q2 report, prior-year column (restated)"
+2025Q2,aif_revenue,179.1,179.1,"2026Q2 report, prior-year column (restated)"
+2025Q2,ground_rent,58.9,58.9,"2026Q2 report, prior-year column (restated)"
+2025Q2,pilt,10.3,10.3,"2026Q2 report, prior-year column (restated)"
+2025Q2,goods_services,118.4,118.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,salaries,72.2,72.2,"2026Q2 report, prior-year column (restated)"
+2025Q2,ebitda,260.9,260.9,"2026Q2 report, prior-year column (restated)"
+2025Q2,net_income,109.7,109.7,"2026Q2 report, prior-year column (restated)"
+2025Q2,pax_domestic,4.4,4.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,pax_international,7.6,7.6,"2026Q2 report, prior-year column (restated)"
+2025Q2,pax_total,12.0,12.0,"2026Q2 report, prior-year column (restated)"
+2025Q2,movements,99.6,99.6,"2026Q2 report, prior-year column (restated)"
+2025Q2,mtow,9.4,9.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,seats,14.5,14.5,"2026Q2 report, prior-year column (restated)"
+2025Q2,total_debt,6758.6,6758.6,"2026Q2 report, prior-year column (restated)"
+2025Q2,net_debt,5265.7,5265.7,"2026Q2 report, prior-year column (restated)"
+2025Q2,debt_per_epax,289.0,289.0,"2026Q2 report, prior-year column (restated)"
+2025Q2,net_debt_per_epax,225.0,225.0,"2026Q2 report, prior-year column (restated)"
+2025Q2,cpe,29.4,29.4,"2026Q2 report, prior-year column (restated)"
+2025Q2,operating_covenant,149.0,149.0,2025Q2 report p.17.0
+2025Q2,debt_service_covenant,173.0,173.0,2025Q2 report p.17.0
+2025Q2,load_factor,82.6,82.6,"2026Q2 report, prior-year column (restated)"
+2025Q3,revenue_total,562.2,562.2,"2026Q3 report, prior-year column (restated)"
+2025Q3,landing_fees,119.0,119.0,"2026Q3 report, prior-year column (restated)"
+2025Q3,general_terminal,71.1,71.1,"2026Q3 report, prior-year column (restated)"
+2025Q3,aero_revenue,190.1,190.1,"2026Q3 report, prior-year column (restated)"
+2025Q3,concessions_rentals,92.1,92.1,"2026Q3 report, prior-year column (restated)"
+2025Q3,parking_ground,69.4,69.4,"2026Q3 report, prior-year column (restated)"
+2025Q3,other_revenue,14.8,14.8,"2026Q3 report, prior-year column (restated)"
+2025Q3,commercial_revenue,176.3,176.3,"2026Q3 report, prior-year column (restated)"
+2025Q3,aif_revenue,195.8,195.8,"2026Q3 report, prior-year column (restated)"
+2025Q3,ground_rent,63.7,63.7,"2026Q3 report, prior-year column (restated)"
+2025Q3,pilt,10.3,10.3,"2026Q3 report, prior-year column (restated)"
+2025Q3,goods_services,126.0,126.0,"2026Q3 report, prior-year column (restated)"
+2025Q3,salaries,70.7,70.7,"2026Q3 report, prior-year column (restated)"
+2025Q3,ebitda,291.5,291.6,"2026Q3 report, prior-year column (restated)"
+2025Q3,net_income,138.6,138.6,"2026Q3 report, prior-year column (restated)"
+2025Q3,pax_domestic,5.2,5.2,"2026Q3 report, prior-year column (restated)"
+2025Q3,pax_international,7.9,7.9,"2026Q3 report, prior-year column (restated)"
+2025Q3,pax_total,13.1,13.1,"2026Q3 report, prior-year column (restated)"
+2025Q3,movements,104.6,104.6,"2026Q3 report, prior-year column (restated)"
+2025Q3,mtow,10.0,10.0,"2026Q3 report, prior-year column (restated)"
+2025Q3,seats,15.4,15.4,"2026Q3 report, prior-year column (restated)"
+2025Q3,total_debt,6773.8,6773.8,"2026Q3 report, prior-year column (restated)"
+2025Q3,net_debt,5131.6,5131.6,"2026Q3 report, prior-year column (restated)"
+2025Q3,debt_per_epax,288.0,288.0,"2026Q3 report, prior-year column (restated)"
+2025Q3,net_debt_per_epax,218.0,218.0,"2026Q3 report, prior-year column (restated)"
+2025Q3,cpe,29.9,29.9,"2026Q3 report, prior-year column (restated)"
+2025Q3,operating_covenant,,,2025Q3 report p.nan
+2025Q3,debt_service_covenant,,,2025Q3 report p.nan
+2025Q3,load_factor,84.7,84.7,"2026Q3 report, prior-year column (restated)"
+2025Q4,revenue_total,514.6,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,landing_fees,107.7,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,general_terminal,62.7,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,aero_revenue,170.4,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,concessions_rentals,89.0,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,parking_ground,59.9,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,other_revenue,16.1,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,commercial_revenue,165.0,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,aif_revenue,179.2,,"derived: FY [2025Q4 report p.10.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,ground_rent,58.4,,"derived: FY [2025Q4 report p.11.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,pilt,10.3,,"derived: FY [2025Q4 report p.11.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,goods_services,145.3,,"derived: FY [2025Q4 report p.11.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,salaries,79.7,,"derived: FY [2025Q4 report p.11.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,ebitda,220.9,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,net_income,48.4,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,pax_domestic,4.2,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,pax_international,7.3,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,pax_total,11.5,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,movements,97.1,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,mtow,9.1,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,seats,13.9,,"derived: FY [2025Q4 report p.6.0] - 9M YTD [2026Q3 report, prior-year column (restated)]"
+2025Q4,total_debt,6734.0,,2025Q4 annual report p.6.0 (year-end)
+2025Q4,net_debt,5048.9,,2025Q4 annual report p.6.0 (year-end)
+2025Q4,debt_per_epax,285.0,,2025Q4 annual report p.6.0 (year-end)
+2025Q4,net_debt_per_epax,213.0,,2025Q4 annual report p.6.0 (year-end)
+2025Q4,cpe,29.9,,2025Q4 annual report p.6.0 (year-end)
+2025Q4,operating_covenant,150.0,,2025Q4 annual report p.16.0 (year-end)
+2025Q4,debt_service_covenant,177.0,,2025Q4 annual report p.16.0 (year-end)
+2025Q4,load_factor,,,derived later: passengers / seats
+2026Q1,revenue_total,522.4,522.4,2026Q1 report p.6.0
+2026Q1,landing_fees,113.8,113.8,2026Q1 report p.10.0
+2026Q1,general_terminal,67.4,67.4,2026Q1 report p.10.0
+2026Q1,aero_revenue,181.2,181.2,2026Q1 report p.10.0
+2026Q1,concessions_rentals,85.0,85.0,2026Q1 report p.10.0
+2026Q1,parking_ground,64.5,64.5,2026Q1 report p.10.0
+2026Q1,other_revenue,15.0,15.0,2026Q1 report p.10.0
+2026Q1,commercial_revenue,164.5,164.5,2026Q1 report p.10.0
+2026Q1,aif_revenue,176.7,176.7,2026Q1 report p.10.0
+2026Q1,ground_rent,59.7,59.7,2026Q1 report p.11.0
+2026Q1,pilt,10.7,10.7,2026Q1 report p.11.0
+2026Q1,goods_services,139.1,139.1,2026Q1 report p.11.0
+2026Q1,salaries,73.6,73.6,2026Q1 report p.11.0
+2026Q1,ebitda,239.3,239.3,2026Q1 report p.6.0
+2026Q1,net_income,42.0,42.0,2026Q1 report p.6.0
+2026Q1,pax_domestic,3.6,3.6,2026Q1 report p.6.0
+2026Q1,pax_international,7.5,7.5,2026Q1 report p.6.0
+2026Q1,pax_total,11.1,11.1,2026Q1 report p.6.0
+2026Q1,movements,92.8,92.8,2026Q1 report p.6.0
+2026Q1,mtow,8.7,8.7,2026Q1 report p.6.0
+2026Q1,seats,13.5,13.5,2026Q1 report p.6.0
+2026Q1,total_debt,6774.7,6774.7,2026Q1 report p.6.0
+2026Q1,net_debt,4927.4,4927.4,2026Q1 report p.6.0
+2026Q1,debt_per_epax,284.0,284.0,2026Q1 report p.6.0
+2026Q1,net_debt_per_epax,206.0,206.0,2026Q1 report p.6.0
+2026Q1,cpe,32.6,32.6,2026Q1 report p.6.0
+2026Q1,operating_covenant,,,2026Q1 report p.nan
+2026Q1,debt_service_covenant,,,2026Q1 report p.nan
+2026Q1,load_factor,82.6,82.6,2026Q1 report p.6.0
+2026Q2,revenue_total,566.6,566.6,2026Q2 report p.6.0
+2026Q2,landing_fees,123.5,123.5,2026Q2 report p.11.0
+2026Q2,general_terminal,73.0,73.0,2026Q2 report p.11.0
+2026Q2,aero_revenue,196.5,196.5,2026Q2 report p.11.0
+2026Q2,concessions_rentals,92.4,92.4,2026Q2 report p.11.0
+2026Q2,parking_ground,65.4,65.4,2026Q2 report p.11.0
+2026Q2,other_revenue,16.3,16.3,2026Q2 report p.11.0
+2026Q2,commercial_revenue,174.1,174.1,2026Q2 report p.11.0
+2026Q2,aif_revenue,196.0,196.0,2026Q2 report p.11.0
+2026Q2,ground_rent,65.0,65.0,2026Q2 report p.12.0
+2026Q2,pilt,10.8,10.8,2026Q2 report p.12.0
+2026Q2,goods_services,135.0,135.0,2026Q2 report p.12.0
+2026Q2,salaries,78.7,78.7,2026Q2 report p.12.0
+2026Q2,ebitda,277.2,277.2,2026Q2 report p.6.0
+2026Q2,net_income,127.5,127.5,2026Q2 report p.6.0
+2026Q2,pax_domestic,4.7,4.7,2026Q2 report p.6.0
+2026Q2,pax_international,7.7,7.7,2026Q2 report p.6.0
+2026Q2,pax_total,12.4,12.4,2026Q2 report p.6.0
+2026Q2,movements,101.2,101.2,2026Q2 report p.6.0
+2026Q2,mtow,9.5,9.5,2026Q2 report p.6.0
+2026Q2,seats,14.7,14.7,2026Q2 report p.6.0
+2026Q2,total_debt,6734.1,6734.1,2026Q2 report p.6.0
+2026Q2,net_debt,4868.7,4868.7,2026Q2 report p.6.0
+2026Q2,debt_per_epax,280.0,280.0,2026Q2 report p.6.0
+2026Q2,net_debt_per_epax,202.0,202.0,2026Q2 report p.6.0
+2026Q2,cpe,32.1,32.1,2026Q2 report p.6.0
+2026Q2,operating_covenant,,,2026Q2 report p.nan
+2026Q2,debt_service_covenant,,,2026Q2 report p.nan
+2026Q2,load_factor,83.9,83.9,2026Q2 report p.6.0
+2026Q3,revenue_total,626.5,626.5,2026Q3 report p.6.0
+2026Q3,landing_fees,130.9,130.9,2026Q3 report p.11.0
+2026Q3,general_terminal,78.3,78.3,2026Q3 report p.11.0
+2026Q3,aero_revenue,209.2,209.2,2026Q3 report p.11.0
+2026Q3,concessions_rentals,99.5,99.5,2026Q3 report p.11.0
+2026Q3,parking_ground,77.2,77.2,2026Q3 report p.11.0
+2026Q3,other_revenue,17.4,17.4,2026Q3 report p.11.0
+2026Q3,commercial_revenue,194.1,194.1,2026Q3 report p.11.0
+2026Q3,aif_revenue,223.2,223.2,2026Q3 report p.11.0
+2026Q3,ground_rent,70.8,70.8,2026Q3 report p.12.0
+2026Q3,pilt,10.7,10.7,2026Q3 report p.12.0
+2026Q3,goods_services,139.0,139.0,2026Q3 report p.12.0
+2026Q3,salaries,78.5,78.5,2026Q3 report p.12.0
+2026Q3,ebitda,327.5,327.5,2026Q3 report p.6.0
+2026Q3,net_income,177.7,177.7,2026Q3 report p.6.0
+2026Q3,pax_domestic,5.5,5.5,2026Q3 report p.6.0
+2026Q3,pax_international,8.3,8.3,2026Q3 report p.6.0
+2026Q3,pax_total,13.8,13.8,2026Q3 report p.6.0
+2026Q3,movements,106.7,106.7,2026Q3 report p.6.0
+2026Q3,mtow,10.3,10.3,2026Q3 report p.6.0
+2026Q3,seats,16.0,16.0,2026Q3 report p.6.0
+2026Q3,total_debt,6747.9,6747.9,2026Q3 report p.6.0
+2026Q3,net_debt,4742.4,4742.4,2026Q3 report p.6.0
+2026Q3,debt_per_epax,276.0,276.0,2026Q3 report p.6.0
+2026Q3,net_debt_per_epax,194.0,194.0,2026Q3 report p.6.0
+2026Q3,cpe,31.4,31.4,2026Q3 report p.6.0
+2026Q3,operating_covenant,,,2026Q3 report p.nan
+2026Q3,debt_service_covenant,,,2026Q3 report p.nan
+2026Q3,load_factor,86.2,86.2,2026Q3 report p.6.0

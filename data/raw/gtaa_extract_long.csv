@@ -1,0 +1,1051 @@
+period,report_kind,metric,unit,value,prior,ytd,ytd_prior,q4_reported,self_check,page,raw_line
+2018Q1,Q1,revenue_total,CAD m,348.6,324.1,,,,ok,3,Total Revenues 348.6 324.1 24.5 7.5%
+2018Q1,Q1,ebitda,CAD m,157.1,155.3,,,,ok,3,"EBITDA (2), (3) 157.1 155.3 1.8 1.2%"
+2018Q1,Q1,ebitda_margin,%,45.1,47.9,,,,,3,"EBITDA margin (2), (3) 45.1% 47.9% (2.8)pp"
+2018Q1,Q1,net_income,CAD m,-16.9,7.7,,,,ok,3,Net (loss) income (16.9) 7.7 (24.6) (320.0)%
+2018Q1,Q1,pax_domestic,m pax,3.7,3.6,,,,ok,3,Domestic 3.7 3.6 0.1 3.6%
+2018Q1,Q1,pax_international,m pax,7.6,7.0,,,,ok,3,International 7.6 7.0 0.6 7.7%
+2018Q1,Q1,pax_total,m pax,11.3,10.6,,,,ok,3,Total 11.3 10.6 0.7 6.3%
+2018Q1,Q1,movements,thousand,111.7,109.3,,,,ok,3,Aircraft movements (thousands) 111.7 109.3 2.4 2.2%
+2018Q1,Q1,mtow,m tonnes,8.7,8.5,,,,ok,3,MTOW (million tonnes) 8.7 8.5 0.2 2.9%
+2018Q1,Q1,seats,m seats,13.9,13.4,,,,ok,3,Seats (millions) 13.9 13.4 0.5 3.8%
+2018Q1,Q1,load_factor,%,81.3,79.3,,,,,3,Load factor (%) 81.3% 79.3% 2.0pp
+2018Q1,Q1,landing_fees,CAD m,78.5,76.5,,,,ok,10,Landing fees 78.5 76.5 2.0 2.5%
+2018Q1,Q1,general_terminal,CAD m,47.9,46.9,,,,ok,10,General terminal charges 47.9 46.9 1.0 2.2%
+2018Q1,Q1,aero_revenue,CAD m,126.4,123.4,,,,ok,10,Aeronautical revenues 126.4 123.4 3.0 2.4%
+2018Q1,Q1,concessions_rentals,CAD m,62.2,51.5,,,,ok,10,Concessions & rentals 62.2 51.5 10.7 20.8%
+2018Q1,Q1,parking_ground,CAD m,46.1,42.7,,,,ok,10,Car parking & ground | 46.1 42.7 3.4 7.9%
+2018Q1,Q1,other_revenue,CAD m,8.1,7.7,,,,ok,10,Other 8.1 7.7 0.4 5.6%
+2018Q1,Q1,commercial_revenue,CAD m,116.4,101.9,,,,ok,10,Commercial revenues 116.4 101.9 14.5 14.3%
+2018Q1,Q1,aif_revenue,CAD m,105.8,98.8,,,,ok,10,Airport improvement fees 105.8 98.8 7.0 7.1%
+2018Q1,Q1,ground_rent,CAD m,39.2,37.1,,,,ok,12,Ground rent 39.2 37.1 2.1 5.7%
+2018Q1,Q1,pilt,CAD m,9.5,9.1,,,,ok,12,PILT (2) 9.5 9.1 0.4 4.0%
+2018Q1,Q1,goods_services,CAD m,91.2,76.2,,,,ok,12,Goods and services 91.2 76.2 15.0 19.7%
+2018Q1,Q1,salaries,CAD m,51.6,46.4,,,,ok,12,"Salaries, wages and benefits 51.6 46.4 5.2 11.1%"
+2018Q1,Q1,total_debt,CAD m,6372.5,6311.8,,,,ok,3,"Total Debt - GAAP ($ millions) 6,372.5 6,311.8 60.7 1.0%"
+2018Q1,Q1,net_debt,CAD m,5889.8,5844.6,,,,ok,3,"Net Debt (7) 5,889.8 5,844.6 45.2 0.8%"
+2018Q1,Q1,debt_per_epax,CAD,267.0,280.0,,,,ok,3,Total Debt / EPAX (8) 267 280 (13) (4.5)%
+2018Q1,Q1,net_debt_per_epax,CAD,247.0,259.0,,,,ok,3,Net Debt (7) / EPAX (8) 247 259 (12) (4.7)%
+2018Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2018Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2018Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2018Q2,H1,revenue_total,CAD m,359.1,344.8,707.6,668.9,,ok,3,Total Revenues 359.1 344.8 14.3 4.1% 707.6 668.9 38.7 5.8%
+2018Q2,H1,ebitda,CAD m,180.1,182.3,337.2,337.5,,ok,3,"EBITDA (2), (3) 180.1 182.3 (2.2) (1.1)% 337.2 337.5 (0.3) (0.1)%"
+2018Q2,H1,ebitda_margin,%,50.2,52.9,47.7,50.5,,,3,"EBITDA margin (2), (3) 50.2% 52.9% (2.7)pp 47.7% 50.5% (2.8)pp"
+2018Q2,H1,net_income,CAD m,37.2,35.0,20.4,42.7,,ok,3,Net Income 37.2 35.0 2.2 6.4% 20.4 42.7 (22.3) (52.3)%
+2018Q2,H1,pax_domestic,m pax,4.5,4.4,8.2,8.0,,ok,3,Domestic 4.5 4.4 0.1 3.1% 8.2 8.0 0.2 3.3%
+2018Q2,H1,pax_international,m pax,7.9,7.4,15.5,14.4,,ok,3,International 7.9 7.4 0.5 7.2% 15.5 14.4 1.1 7.5%
+2018Q2,H1,pax_total,m pax,12.4,11.8,23.7,22.4,,ok,3,Total 12.4 11.8 0.6 5.7% 23.7 22.4 1.3 6.0%
+2018Q2,H1,movements,thousand,119.9,114.9,232.2,224.2,,ok,3,Aircraft movements (thousands) 119.9 114.9 5.0 4.3% 232.2 224.2 8.0 3.5%
+2018Q2,H1,mtow,m tonnes,9.2,8.9,18.1,17.4,,ok,3,MTOW (million tonnes) 9.2 8.9 0.3 3.6% 18.1 17.4 0.7 4.2%
+2018Q2,H1,seats,m seats,14.8,14.1,28.7,27.5,,ok,3,Seats (millions) 14.8 14.1 0.7 4.8% 28.7 27.5 1.2 4.3%
+2018Q2,H1,load_factor,%,84.0,83.3,,,,,3,Load factor (%) 84.0 83.3 0.7pp 82.7 81.4 1.3pp
+2018Q2,H1,landing_fees,CAD m,79.0,79.5,157.5,156.0,,ok,12,Landing fees 79.0 79.5 (0.5) (0.6)% 157.5 156.0 1.5 0.9%
+2018Q2,H1,general_terminal,CAD m,47.1,48.1,95.0,94.9,,ok,12,General terminal charges 47.1 48.1 (1.0) (2.0)% 95.0 94.9 0.1 0.1%
+2018Q2,H1,aero_revenue,CAD m,126.1,127.6,252.5,250.9,,ok,12,Aeronautical revenues 126.1 127.6 (1.5) (1.1)% 252.5 250.9 1.6 0.6%
+2018Q2,H1,concessions_rentals,CAD m,64.7,57.3,126.8,108.7,,ok,12,Concessions & rentals 64.7 57.3 7.4 12.8% 126.8 108.7 18.1 16.6%
+2018Q2,H1,parking_ground,CAD m,46.3,43.4,92.4,86.2,,ok,12,Car parking & ground | 46.3 43.4 2.9 6.6% 92.4 86.2 6.2 7.3%
+2018Q2,H1,other_revenue,CAD m,8.1,7.9,16.2,15.6,,ok,12,Other 8.1 7.9 0.2 2.7% 16.2 15.6 0.6 4.1%
+2018Q2,H1,commercial_revenue,CAD m,119.1,108.6,235.4,210.5,,ok,12,Non-aeronautical revenues 119.1 108.6 10.5 9.6% 235.4 210.5 24.9 11.9%
+2018Q2,H1,aif_revenue,CAD m,113.9,108.6,219.7,207.5,,ok,12,Airport improvement fees 113.9 108.6 5.3 4.9% 219.7 207.5 12.2 5.9%
+2018Q2,H1,ground_rent,CAD m,40.6,39.4,79.8,76.5,,ok,14,Ground rent 40.6 39.4 1.2 3.0% 79.8 76.5 3.3 4.3%
+2018Q2,H1,pilt,CAD m,9.4,9.1,18.9,18.2,,ok,14,PILT (2) 9.4 9.1 0.3 4.0% 18.9 18.2 0.7 4.0%
+2018Q2,H1,goods_services,CAD m,81.9,71.3,173.1,147.5,,ok,14,Goods and services 81.9 71.3 10.6 14.8% 173.1 147.5 25.6 17.3%
+2018Q2,H1,salaries,CAD m,47.0,42.7,98.6,89.2,,ok,14,"Salaries, wages and benefits 47.0 42.7 4.3 9.9% 98.6 89.2 9.4 10.6%"
+2018Q2,H1,total_debt,CAD m,6286.2,6302.9,,,,ok,3,"Total Debt - GAAP ($ millions) 6,286.2 6,302.9 (16.7)"
+2018Q2,H1,net_debt,CAD m,5852.8,5808.7,,,,ok,3,"Net Debt (7) 5,852.8 5,808.7 44.1"
+2018Q2,H1,debt_per_epax,CAD,260.0,275.0,,,,ok,3,Total Debt / EPAX (8) 260 275 (15) (5.4)%
+2018Q2,H1,net_debt_per_epax,CAD,242.0,253.0,,,,ok,3,Net Debt (7) / EPAX (8) 242 253 (11) (4.4)%
+2018Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2018Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2018Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2018Q3,M9,revenue_total,CAD m,396.7,373.6,1104.3,1042.4,,ok,3,"Total Revenues 396.7 373.6 23.1 6.2% 1,104.3 1,042.4 61.9 5.9%"
+2018Q3,M9,ebitda,CAD m,216.4,204.0,553.6,541.4,,ok,3,"EBITDA (2), (3) 216.4 204.0 12.4 6.1% 553.6 541.4 12.2 2.2%"
+2018Q3,M9,ebitda_margin,%,54.6,54.6,50.1,51.9,,,3,"EBITDA margin (2), (3) 54.6% 54.6% - 50.1% 51.9% (1.8)pp"
+2018Q3,M9,net_income,CAD m,73.6,56.3,93.9,98.9,,ok,3,Net Income 73.6 56.3 17.3 30.7% 93.9 98.9 (5.0) (5.1)%
+2018Q3,M9,pax_domestic,m pax,5.4,5.3,13.7,13.3,,ok,3,Domestic 5.4 5.3 0.1 1.9% 13.7 13.3 0.4 2.9%
+2018Q3,M9,pax_international,m pax,8.8,8.3,24.3,22.7,,ok,3,International 8.8 8.3 0.5 5.8% 24.3 22.7 1.6 6.8%
+2018Q3,M9,pax_total,m pax,14.2,13.6,38.0,36.0,,ok,3,Total 14.2 13.6 0.6 4.3% 38.0 36.0 2.0 5.4%
+2018Q3,M9,movements,thousand,127.5,126.8,360.0,351.0,,ok,3,Aircraft movements (thousands) 127.5 126.8 0.7 0.6% 360.0 351.0 9.0 2.6%
+2018Q3,M9,mtow,m tonnes,10.4,10.2,28.5,27.7,,ok,3,MTOW (million tonnes) 10.4 10.2 0.2 2.3% 28.5 27.7 0.8 2.9%
+2018Q3,M9,seats,m seats,16.5,15.9,45.2,43.4,,ok,3,Seats (millions) 16.5 15.9 0.6 3.6% 45.2 43.4 1.8 4.1%
+2018Q3,M9,load_factor,%,86.2,85.6,,,,,3,Load factor (%) 86.2 85.6 0.6pp 84.0 82.9 1.1pp
+2018Q3,M9,landing_fees,CAD m,81.1,78.9,238.6,234.9,,ok,11,Landing fees 81.1 78.9 2.2 2.8% 238.6 234.9 3.7 1.6%
+2018Q3,M9,general_terminal,CAD m,48.3,47.4,143.3,142.3,,ok,11,General terminal charges 48.3 47.4 0.9 1.9% 143.3 142.3 1.0 0.7%
+2018Q3,M9,aero_revenue,CAD m,129.4,126.3,381.9,377.2,,ok,11,Aeronautical revenues 129.4 126.3 3.1 2.5% 381.9 377.2 4.7 1.2%
+2018Q3,M9,concessions_rentals,CAD m,74.0,64.9,200.8,173.6,,ok,11,Concessions & rentals 74.0 64.9 9.1 14.0% 200.8 173.6 27.2 15.7%
+2018Q3,M9,parking_ground,CAD m,53.0,48.8,145.4,134.9,,ok,11,Car parking & ground | 53.0 48.8 4.2 8.7% 145.4 134.9 10.5 7.8%
+2018Q3,M9,other_revenue,CAD m,8.9,8.9,25.1,24.5,,ok,11,Other 8.9 8.9 - - 25.1 24.5 0.6 2.5%
+2018Q3,M9,commercial_revenue,CAD m,135.9,122.6,371.3,333.0,,ok,11,Commercial revenues 135.9 122.6 13.3 10.9% 371.3 333.0 38.3 11.5%
+2018Q3,M9,aif_revenue,CAD m,131.4,124.7,351.1,332.2,,ok,11,Airport improvement fees 131.4 124.7 6.7 5.3% 351.1 332.2 18.9 5.7%
+2018Q3,M9,ground_rent,CAD m,44.4,41.7,124.3,118.2,,ok,14,Ground rent 44.4 41.7 2.7 6.6% 124.3 118.2 6.1 5.1%
+2018Q3,M9,pilt,CAD m,9.5,9.1,28.3,27.3,,ok,14,PILT (2) 9.5 9.1 0.4 4.0% 28.3 27.3 1.0 4.0%
+2018Q3,M9,goods_services,CAD m,81.9,75.0,255.0,222.5,,ok,14,Goods and services 81.9 75.0 6.9 9.2% 255.0 222.5 32.5 14.6%
+2018Q3,M9,salaries,CAD m,44.5,43.8,143.1,133.0,,ok,14,"Salaries, wages and benefits 44.5 43.8 0.7 1.6% 143.1 133.0 10.1 7.6%"
+2018Q3,M9,total_debt,CAD m,6389.1,6315.8,,,,ok,3,"Total Debt - GAAP ($ millions) 6,389.1 6,315.8 73.3 1.2%"
+2018Q3,M9,net_debt,CAD m,5964.2,5741.2,,,,ok,3,"Net Debt (7) 5,964.2 5,741.2 223.0 3.9%"
+2018Q3,M9,debt_per_epax,CAD,260.0,272.0,,,,ok,3,Total Debt / EPAX (8) 260 272 (12) (4.4)%
+2018Q3,M9,net_debt_per_epax,CAD,243.0,247.0,,,,ok,3,Net Debt (7) / EPAX (8) 243 247 (4) (1.8)%
+2018Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2018Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2018Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2018Q4,FY,revenue_total,CAD m,,1387.7,1471.7,1387.7,False,ok,4,"Total Revenues 1,471.7 1,387.7 84.0 6.1% 1,301.6"
+2018Q4,FY,ebitda,CAD m,,703.9,720.6,703.9,False,ok,4,"EBITDA (2), (3) 720.6 703.9 16.7 2.4% 675.2"
+2018Q4,FY,ebitda_margin,%,,50.7,49.0,,False,,4,"EBITDA margin (2), (3) 49.0% 50.7% (1.7)pp 51.9%"
+2018Q4,FY,net_income,CAD m,,112.2,113.7,112.2,False,ok,4,Net Income 113.7 112.2 1.5 1.4% 85.5
+2018Q4,FY,pax_domestic,m pax,,17.5,17.8,17.5,False,ok,4,Domestic 17.8 17.5 0.3 2.0% 16.9
+2018Q4,FY,pax_international,m pax,,29.6,31.7,29.6,False,ok,4,International 31.7 29.6 2.1 6.7% 27.4
+2018Q4,FY,pax_total,m pax,,47.1,49.5,47.1,False,ok,4,Total 49.5 47.1 2.4 5.0% 44.3
+2018Q4,FY,movements,thousand,,465.4,473.0,465.4,False,ok,4,Aircraft movements (thousands) 473.0 465.4 7.6 1.6% 456.4
+2018Q4,FY,mtow,m tonnes,,36.3,37.4,36.3,False,ok,4,MTOW (9) (million tonnes) 37.4 36.3 1.1 3.2% 34.4
+2018Q4,FY,seats,m seats,,57.0,59.3,57.0,False,ok,4,Seats (millions) 59.3 57.0 2.3 4.0% 54.2
+2018Q4,FY,load_factor,%,,82.6,83.4,,False,,4,Load factor (%) 83.4 82.6 0.8pp 81.8
+2018Q4,FY,landing_fees,CAD m,,312.2,318.5,312.2,False,ok,13,Landing fees 318.5 312.2 6.3 2.0% 305.5
+2018Q4,FY,general_terminal,CAD m,,188.8,191.3,188.8,False,ok,13,General terminal charges 191.3 188.8 2.5 1.3% 183.8
+2018Q4,FY,aero_revenue,CAD m,,501.0,509.8,501.0,False,ok,13,Aeronautical revenues 509.8 501.0 8.8 1.8% 489.3
+2018Q4,FY,concessions_rentals,CAD m,,241.4,277.5,241.4,False,ok,13,Concessions & rentals 277.5 241.4 36.1 15.0% 214.7
+2018Q4,FY,parking_ground,CAD m,,177.7,191.8,177.7,False,ok,13,Car parking & ground | 191.8 177.7 14.1 7.9% 169.1
+2018Q4,FY,other_revenue,CAD m,,31.5,32.6,31.5,False,ok,13,Other 32.6 31.5 1.1 3.6% 28.7
+2018Q4,FY,commercial_revenue,CAD m,,450.6,501.9,450.6,False,ok,13,Commercial revenues 501.9 450.6 51.3 11.4% 412.5
+2018Q4,FY,aif_revenue,CAD m,,436.1,460.0,436.1,False,ok,13,Airport improvement fees 460.0 436.1 23.9 5.5% 399.8
+2018Q4,FY,ground_rent,CAD m,,156.9,165.2,156.9,False,ok,15,Ground rent 165.2 156.9 8.3 5.3% 148.1
+2018Q4,FY,pilt,CAD m,,36.3,37.8,36.3,False,ok,15,PILT (2) 37.8 36.3 1.5 4.0% 34.6
+2018Q4,FY,goods_services,CAD m,,314.9,356.2,314.9,False,ok,15,Goods and services 356.2 314.9 41.3 13.1% 285.3
+2018Q4,FY,salaries,CAD m,,175.7,191.9,175.7,False,ok,15,"Salaries, wages and benefits 191.9 175.7 16.2 9.2% 158.4"
+2018Q4,FY,total_debt,CAD m,,6311.8,6370.3,6311.8,False,ok,4,"Total Debt - GAAP ($ millions) 6,370.3 6,311.8 58.5 0.9% 6,222.6"
+2018Q4,FY,net_debt,CAD m,,5844.6,5959.1,5844.6,False,ok,4,"Net Debt (10) 5,959.1 5,844.6 114.5 2.0% 5,665.9"
+2018Q4,FY,debt_per_epax,CAD,,268.0,258.0,268.0,False,ok,4,Total Debt / EPAX (11) 258 268 (10) (3.8)% 281
+2018Q4,FY,net_debt_per_epax,CAD,,248.0,241.0,248.0,False,ok,4,Net Debt (10) / EPAX (11) 241 248 (7) (2.8)% 256
+2018Q4,FY,cpe,CAD,,,,,,,,NOT FOUND
+2018Q4,FY,operating_covenant,%,,137.6,135.9,137.6,False,ok,4,Operating Covenant (minimum requirement of 100%) 135.9% 137.6% (1.7)pp 134.9%
+2018Q4,FY,debt_service_covenant,%,,144.9,148.5,144.9,False,ok,4,Debt Service Covenant (minimum requirement of 125%) 148.5% 144.9% 3.6pp 136.3%
+2019Q1,Q1,revenue_total,CAD m,362.4,348.6,,,,ok,3,Total Revenues 362.4 348.6 13.8 4.0%
+2019Q1,Q1,ebitda,CAD m,154.7,157.1,,,,ok,3,"EBITDA (2), (3) 154.7 157.1 (2.4) (1.6)%"
+2019Q1,Q1,ebitda_margin,%,42.7,45.1,,,,,3,"EBITDA margin (2), (3) 42.7% 45.1% (2.4)pp"
+2019Q1,Q1,net_income,CAD m,10.9,-16.9,,,,ok,3,Net Income 10.9 (16.9) 27.8 164.7%
+2019Q1,Q1,pax_domestic,m pax,3.8,3.7,,,,ok,3,Domestic 3.8 3.7 0.1 0.3%
+2019Q1,Q1,pax_international,m pax,7.9,7.6,,,,ok,3,International 7.9 7.6 0.3 4.0%
+2019Q1,Q1,pax_total,m pax,11.7,11.3,,,,ok,3,Total 11.7 11.3 0.4 2.8%
+2019Q1,Q1,movements,thousand,107.2,112.2,,,,ok,3,Aircraft movements (thousands) 107.2 112.2 (5.0) (4.5)%
+2019Q1,Q1,mtow,m tonnes,9.0,8.7,,,,ok,3,MTOW (7) (million tonnes) 9.0 8.7 0.3 3.0%
+2019Q1,Q1,seats,m seats,14.2,13.9,,,,ok,3,Seats (millions) 14.2 13.9 0.3 2.1%
+2019Q1,Q1,load_factor,%,81.9,81.4,,,,,3,Load factor (%) 81.9 81.4 0.5pp
+2019Q1,Q1,landing_fees,CAD m,78.4,78.5,,,,ok,11,Landing fees 78.4 78.5 (0.1) (0.1)%
+2019Q1,Q1,general_terminal,CAD m,47.8,47.9,,,,ok,11,General terminal charges 47.8 47.9 (0.1) (0.2)%
+2019Q1,Q1,aero_revenue,CAD m,126.2,126.4,,,,ok,11,Aeronautical revenues 126.2 126.4 (0.2) (0.1)%
+2019Q1,Q1,concessions_rentals,CAD m,67.6,62.2,,,,ok,11,Concessions & rentals 67.6 62.2 5.4 8.7%
+2019Q1,Q1,parking_ground,CAD m,49.6,46.1,,,,ok,11,Car parking & ground | 49.6 46.1 3.5 7.6%
+2019Q1,Q1,other_revenue,CAD m,9.1,8.1,,,,ok,11,Other 9.1 8.1 1.0 11.8%
+2019Q1,Q1,commercial_revenue,CAD m,126.3,116.4,,,,ok,11,Commercial revenues 126.3 116.4 9.9 8.5%
+2019Q1,Q1,aif_revenue,CAD m,109.9,105.8,,,,ok,11,Airport improvement fees 109.9 105.8 4.1 3.9%
+2019Q1,Q1,ground_rent,CAD m,40.9,39.2,,,,ok,13,Ground rent 40.9 39.2 1.7 4.2%
+2019Q1,Q1,pilt,CAD m,9.9,9.5,,,,ok,13,PILT (2) 9.9 9.5 0.4 4.8%
+2019Q1,Q1,goods_services,CAD m,105.1,91.2,,,,ok,13,Goods and services 105.1 91.2 13.9 15.2%
+2019Q1,Q1,salaries,CAD m,51.8,51.6,,,,ok,13,"Salaries, wages and benefits 51.8 51.6 0.2 0.5%"
+2019Q1,Q1,total_debt,CAD m,6459.7,6372.5,,,,ok,3,"Total Debt - GAAP ($ millions) 6,459.7 6,372.5 87.2 1.4%"
+2019Q1,Q1,net_debt,CAD m,6042.3,5889.8,,,,ok,3,"Net Debt (8) 6,042.3 5,889.8 152.5 2.6%"
+2019Q1,Q1,debt_per_epax,CAD,259.0,267.0,,,,ok,3,Total Debt / Enplaned Passenger (9) 259 267 (8) (3.0)%
+2019Q1,Q1,net_debt_per_epax,CAD,242.0,247.0,,,,ok,3,Net Debt (8) / Enplaned Passenger (9) 242 247 (5) (1.8)%
+2019Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2019Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2019Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2019Q2,H1,revenue_total,CAD m,370.9,359.1,733.3,707.6,,ok,10,Total Revenues 370.9 359.1 11.8 3.3 733.3 707.6 25.7 3.6
+2019Q2,H1,ebitda,CAD m,182.7,180.1,337.4,337.2,,ok,4,"EBITDA 2, 3 182.7 180.1 2.6 1.4 337.4 337.2 0.2 0.1"
+2019Q2,H1,ebitda_margin,%,49.3,50.2,46.0,47.7,,,4,"EBITDA Margin 2, 3 49.3% 50.2% (0.9)pp 46.0% 47.7% (1.7)pp"
+2019Q2,H1,net_income,CAD m,36.9,37.2,47.8,20.4,,ok,4,Net Income 36.9 37.2 (0.3) (1.0) 47.8 20.4 27.4 134.7
+2019Q2,H1,pax_domestic,m pax,4.6,4.5,8.4,8.2,,ok,7,Domestic 4.6 4.5 0.1 2.1 8.4 8.2 0.2 1.3
+2019Q2,H1,pax_international,m pax,8.2,7.9,16.1,15.5,,ok,7,International 8.2 7.9 0.3 3.9 16.1 15.5 0.6 3.9
+2019Q2,H1,pax_total,m pax,12.8,12.4,24.5,23.7,,ok,7,Total 12.8 12.4 0.4 3.2 24.5 23.7 0.8 3.0
+2019Q2,H1,movements,thousand,114.6,120.2,221.8,232.2,,ok,4,Aircraft movements (thousands) 114.6 120.2 (5.6) (4.7) 221.8 232.2 (10.4) (4.5)
+2019Q2,H1,mtow,m tonnes,9.7,9.4,18.6,18.1,,ok,4,MTOW 7 (million tonnes) 9.7 9.4 0.3 3.4 18.6 18.1 0.5 3.2
+2019Q2,H1,seats,m seats,15.0,14.8,29.2,28.7,,ok,4,Seats (millions) 15.0 14.8 0.2 1.3 29.2 28.7 0.5 1.7
+2019Q2,H1,load_factor,%,85.5,84.0,83.7,82.7,,,4,Load factor 85.5% 84.0% 1.5pp 83.7% 82.7% 1.0pp
+2019Q2,H1,landing_fees,CAD m,81.1,79.0,159.5,157.5,,ok,10,Landing fees 81.1 79.0 2.1 2.6 159.5 157.5 2.0 1.3
+2019Q2,H1,general_terminal,CAD m,48.1,47.1,95.9,95.0,,ok,10,General terminal charges 48.1 47.1 1.0 2.2 95.9 95.0 0.9 1.0
+2019Q2,H1,aero_revenue,CAD m,129.2,126.1,255.4,252.5,,ok,10,Aeronautical revenues 129.2 126.1 3.1 2.5 255.4 252.5 2.9 1.2
+2019Q2,H1,concessions_rentals,CAD m,70.7,64.7,138.3,126.8,,ok,10,Concessions & rentals 70.7 64.7 6.0 9.3 138.3 126.8 11.5 9.0
+2019Q2,H1,parking_ground,CAD m,49.3,46.3,98.9,92.4,,ok,10,Car parking & ground transportation 49.3 46.3 3.0 6.4 98.9 92.4 6.5 7.0
+2019Q2,H1,other_revenue,CAD m,9.0,8.1,18.1,16.2,,ok,10,Other 9.0 8.1 0.9 11.8 18.1 16.2 1.9 11.8
+2019Q2,H1,commercial_revenue,CAD m,129.0,119.1,255.3,235.4,,ok,10,Commercial revenues 129.0 119.1 9.9 5.3 255.3 235.4 19.9 4.7
+2019Q2,H1,aif_revenue,CAD m,112.7,113.9,222.6,219.7,,ok,10,Airport Improvement Fees 112.7 113.9 (1.2) (1.1) 222.6 219.7 2.9 1.3
+2019Q2,H1,ground_rent,CAD m,41.6,40.6,82.4,79.8,,ok,11,Ground rent 41.6 40.6 1.0 2.4 82.4 79.8 2.6 3.3
+2019Q2,H1,pilt,CAD m,10.2,9.5,20.1,18.9,,ok,11,PILT 2 10.2 9.5 0.7 8.2 20.1 18.9 1.2 6.5
+2019Q2,H1,goods_services,CAD m,86.9,81.9,192.0,173.1,,ok,11,Goods and services 86.9 81.9 5.0 6.1 192.0 173.1 18.9 10.9
+2019Q2,H1,salaries,CAD m,49.5,47.0,101.4,98.6,,ok,11,"Salaries, wages and benefits 49.5 47.0 2.5 5.4 101.4 98.6 2.8 2.8"
+2019Q2,H1,total_debt,CAD m,6490.5,6286.2,,,,ok,4,"Total Debt ($ millions) 6,490.5 6,286.2 204.3 3.2"
+2019Q2,H1,net_debt,CAD m,6021.8,5852.8,,,,ok,4,"Net Debt 8 6,021.8 5,852.8 169.0 2.9"
+2019Q2,H1,debt_per_epax,CAD,259.0,260.0,,,,ok,4,Total Debt / Enplaned Passenger 9 259 260 (1) (0.4)
+2019Q2,H1,net_debt_per_epax,CAD,240.0,242.0,,,,ok,4,Net Debt 8 / Enplaned Passenger 9 240 242 (2) (0.8)
+2019Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2019Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2019Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2019Q3,M9,revenue_total,CAD m,403.1,396.7,1136.4,1104.3,,ok,10,"Total Revenues 403.1 396.7 6.4 1.6 1,136.4 1,104.3 32.1 2.9"
+2019Q3,M9,ebitda,CAD m,213.9,216.4,551.3,553.6,,ok,4,"EBITDA 2, 3 213.9 216.4 (2.5) (1.2) 551.3 553.6 (2.3) (0.4)"
+2019Q3,M9,ebitda_margin,%,53.1,54.6,48.5,50.1,,,4,"EBITDA Margin 2, 3 53.1% 54.6% (1.5)pp 48.5% 50.1% (1.6)pp"
+2019Q3,M9,net_income,CAD m,67.7,73.6,115.5,93.9,,ok,4,Net Income 67.7 73.6 (5.9) (8.0) 115.5 93.9 21.6 23.0
+2019Q3,M9,pax_domestic,m pax,5.5,5.4,13.8,13.7,,ok,7,Domestic 5.5 5.4 0.1 0.6 13.8 13.7 0.1 1.0
+2019Q3,M9,pax_international,m pax,8.7,8.8,24.8,24.3,,ok,7,International 8.7 8.8 (0.1) (0.7) 24.8 24.3 0.5 2.3
+2019Q3,M9,pax_total,m pax,14.2,14.2,38.6,38.0,,ok,7,Total 14.2 14.2 — (0.2) 38.6 38.0 0.6 1.8
+2019Q3,M9,movements,thousand,122.2,127.5,344.2,360.0,,ok,4,Aircraft movements (thousands) 122.2 127.5 (5.3) (4.4) 344.2 360.0 (15.8) (4.4)
+2019Q3,M9,mtow,m tonnes,10.5,10.4,29.1,28.5,,ok,4,MTOW 7 (million tonnes) 10.5 10.4 0.1 1.0 29.1 28.5 0.6 2.4
+2019Q3,M9,seats,m seats,16.4,16.5,45.6,45.2,,ok,4,Seats (millions) 16.4 16.5 (0.1) (0.5) 45.6 45.2 0.4 0.9
+2019Q3,M9,load_factor,%,86.5,86.2,84.7,84.0,,,4,Load factor 86.5% 86.2% 0.3pp 84.7% 84.0% 0.7pp
+2019Q3,M9,landing_fees,CAD m,83.9,81.1,243.4,238.6,,ok,10,Landing fees 83.9 81.1 2.8 3.4 243.4 238.6 4.8 2.0
+2019Q3,M9,general_terminal,CAD m,49.5,48.3,145.4,143.3,,ok,10,General terminal charges 49.5 48.3 1.2 2.5 145.4 143.3 2.1 1.5
+2019Q3,M9,aero_revenue,CAD m,133.4,129.4,388.8,381.9,,ok,10,Aeronautical revenues 133.4 129.4 4.0 3.1 388.8 381.9 6.9 1.8
+2019Q3,M9,concessions_rentals,CAD m,77.7,74.0,215.9,200.8,,ok,10,Concessions & rentals 77.7 74.0 3.7 5.0 215.9 200.8 15.1 7.5
+2019Q3,M9,parking_ground,CAD m,55.1,53.0,154.0,145.4,,ok,10,Car parking & ground transportation 55.1 53.0 2.1 4.0 154.0 145.4 8.6 5.9
+2019Q3,M9,other_revenue,CAD m,9.5,8.9,27.7,25.1,,ok,10,Other 9.5 8.9 0.6 7.6 27.7 25.1 2.6 10.3
+2019Q3,M9,commercial_revenue,CAD m,142.3,135.9,397.6,371.3,,ok,10,Commercial revenues 142.3 135.9 6.4 3.9 397.6 371.3 26.3 4.4
+2019Q3,M9,aif_revenue,CAD m,127.4,131.4,350.0,351.1,,ok,10,Airport Improvement Fees 127.4 131.4 (4.0) (3.0) 350.0 351.1 (1.1) (0.3)
+2019Q3,M9,ground_rent,CAD m,45.1,44.4,127.5,124.3,,ok,11,Ground rent 45.1 44.4 0.7 1.6 127.5 124.3 3.2 2.7
+2019Q3,M9,pilt,CAD m,9.6,9.2,28.8,27.4,,ok,11,PILT 2 9.6 9.2 0.4 5.0 28.8 27.4 1.4 5.0
+2019Q3,M9,goods_services,CAD m,86.3,82.2,279.2,255.9,,ok,11,Goods and services 86.3 82.2 4.1 5.0 279.2 255.9 23.3 9.1
+2019Q3,M9,salaries,CAD m,48.2,44.5,149.6,143.1,,ok,11,"Salaries, wages and benefits 48.2 44.5 3.7 8.2 149.6 143.1 6.5 4.5"
+2019Q3,M9,total_debt,CAD m,6401.5,6389.1,,,,ok,4,"Total Debt ($ millions) 6,401.5 6,389.1 12.4 0.2"
+2019Q3,M9,net_debt,CAD m,5968.5,5964.2,,,,ok,4,"Net Debt 8 5,968.5 5,964.2 4.3 0.1"
+2019Q3,M9,debt_per_epax,CAD,255.0,260.0,,,,ok,4,Total Debt / Enplaned Passenger 9 255 260 (5) (1.9)
+2019Q3,M9,net_debt_per_epax,CAD,238.0,243.0,,,,ok,4,Net Debt 8 / Enplaned Passenger 9 238 243 (5) (2.1)
+2019Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2019Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2019Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2019Q4,FY,revenue_total,CAD m,,1471.7,1521.3,1471.7,False,ok,4,"Total Revenues 1,521.3 1,471.7 49.6 3.4 1,387.7"
+2019Q4,FY,ebitda,CAD m,,720.6,725.9,720.6,False,ok,4,"EBITDA 2, 3 725.9 720.6 5.3 0.7 703.9"
+2019Q4,FY,ebitda_margin,%,,49.0,47.7,,False,,4,"EBITDA Margin 2, 3 47.7% 49.0% (1.3)pp 50.7%"
+2019Q4,FY,net_income,CAD m,,113.7,139.8,113.7,False,ok,4,Net Income 139.8 113.7 26.1 23.0 112.2
+2019Q4,FY,pax_domestic,m pax,,17.8,18.1,17.8,False,ok,4,Domestic 18.1 17.8 0.3 1.4 17.5
+2019Q4,FY,pax_international,m pax,,31.7,32.4,31.7,False,ok,4,International 32.4 31.7 0.7 2.4 29.6
+2019Q4,FY,pax_total,m pax,,49.5,50.5,49.5,False,ok,4,Total 50.5 49.5 1.0 2.0 47.1
+2019Q4,FY,movements,thousand,,472.7,452.8,472.7,False,ok,4,Aircraft movements (thousands) 452.8 472.7 (19.9) (4.2) 465.4
+2019Q4,FY,mtow,m tonnes,,37.4,38.4,37.4,False,ok,4,MTOW 8 (million tonnes) 38.4 37.4 1.0 2.5 36.3
+2019Q4,FY,seats,m seats,,59.3,60.0,59.3,False,ok,4,Seats (millions) 60.0 59.3 0.7 1.0 57.0
+2019Q4,FY,load_factor,%,,83.4,84.3,,False,,4,Load factor 84.3% 83.4% 0.9pp 82.6%
+2019Q4,FY,landing_fees,CAD m,,318.5,324.0,318.5,False,ok,10,Landing fees 324.0 318.5 5.5 1.7 312.2
+2019Q4,FY,general_terminal,CAD m,,191.3,193.7,191.3,False,ok,10,General terminal charges 193.7 191.3 2.4 1.3 188.8
+2019Q4,FY,aero_revenue,CAD m,,509.8,517.7,509.8,False,ok,10,Aeronautical Revenues 517.7 509.8 7.9 1.5 501.0
+2019Q4,FY,concessions_rentals,CAD m,,277.5,315.2,277.5,False,ok,10,Concessions & rentals 315.2 277.5 37.7 13.6 241.4
+2019Q4,FY,parking_ground,CAD m,,191.8,203.3,191.8,False,ok,10,Car parking & ground transportation 203.3 191.8 11.5 6.0 177.7
+2019Q4,FY,other_revenue,CAD m,,32.6,37.0,32.6,False,ok,10,Other 37.0 32.6 4.4 13.6 31.5
+2019Q4,FY,commercial_revenue,CAD m,,501.9,555.5,501.9,False,ok,10,Commercial Revenues 555.5 501.9 53.6 6.1 450.6
+2019Q4,FY,aif_revenue,CAD m,,460.0,448.1,460.0,False,ok,10,Airport Improvement Fees 448.1 460.0 (11.9) (2.6) 436.1
+2019Q4,FY,ground_rent,CAD m,,165.2,170.8,165.2,False,ok,11,Ground rent 170.8 165.2 5.6 3.4 156.9
+2019Q4,FY,pilt,CAD m,,36.6,38.4,36.6,False,ok,11,PILT 2 38.4 36.6 1.8 5.0 36.3
+2019Q4,FY,goods_services,CAD m,,357.4,384.9,357.4,False,ok,11,Goods and services 384.9 357.4 27.5 7.7 314.9
+2019Q4,FY,salaries,CAD m,,191.9,201.3,191.9,False,ok,11,"Salaries, wages and benefits 201.3 191.9 9.4 4.9 175.7"
+2019Q4,FY,total_debt,CAD m,,6370.3,6411.7,6370.3,False,ok,4,"Total Debt ($ millions) 6,411.7 6,370.3 41.4 0.6 6,311.8"
+2019Q4,FY,net_debt,CAD m,,5959.1,5965.3,5959.1,False,ok,4,"Net Debt 9 5,965.3 5,959.1 6.2 0.1 5,844.6"
+2019Q4,FY,debt_per_epax,CAD,,258.0,254.0,258.0,False,ok,4,Total Debt / Enplaned Passenger 10 254 258 (4) (1.6) 268
+2019Q4,FY,net_debt_per_epax,CAD,,241.0,236.0,241.0,False,ok,4,Net Debt 9 / Enplaned Passenger 10 236 241 (5) (2.1) 248
+2019Q4,FY,cpe,CAD,,,,,,,,NOT FOUND
+2019Q4,FY,operating_covenant,%,,135.9,137.1,135.9,False,ok,4,Operating covenant (minimum requirement of 100%) 137.1% 135.9% 1.2pp 137.6%
+2019Q4,FY,debt_service_covenant,%,,148.5,150.4,148.5,False,ok,4,Debt service covenant (minimum requirement of 125%) 150.4% 148.5% 1.9pp 144.9%
+2020Q1,Q1,revenue_total,CAD m,339.1,362.4,,,,ok,4,Total Revenues 339.1 362.4 (23.3) (6.4)
+2020Q1,Q1,ebitda,CAD m,154.8,154.7,,,,ok,4,"EBITDA 2, 3 154.8 154.7 0.1 0.1"
+2020Q1,Q1,ebitda_margin,%,45.7,42.7,,,,,4,"EBITDA Margin 2, 3 45.7% 42.7% 3.0pp"
+2020Q1,Q1,net_income,CAD m,6.6,10.9,,,,ok,4,Net Income 6.6 10.9 (4.3) (39.6)
+2020Q1,Q1,pax_domestic,m pax,3.1,3.8,,,,ok,4,Domestic 3.1 3.8 (0.7) (16.2)
+2020Q1,Q1,pax_international,m pax,6.5,7.9,,,,ok,4,International 6.5 7.9 (1.4) (17.9)
+2020Q1,Q1,pax_total,m pax,9.6,11.7,,,,ok,4,Total 9.6 11.7 (2.1) (17.4)
+2020Q1,Q1,movements,thousand,96.3,107.2,,,,ok,4,Aircraft movements (thousands) 96.3 107.2 (10.9) (10.3)
+2020Q1,Q1,mtow,m tonnes,8.3,9.0,,,,ok,4,MTOW 6 (million tonnes) 8.3 9.0 (0.7) (6.9)
+2020Q1,Q1,seats,m seats,13.0,14.2,,,,ok,4,Seats (millions) 13.0 14.2 (1.2) (9.0)
+2020Q1,Q1,load_factor,%,74.3,81.9,,,,,4,Load factor 74.3% 81.9% (7.6)pp
+2020Q1,Q1,landing_fees,CAD m,78.6,78.4,,,,ok,10,Landing fees 78.6 78.4 0.2 0.3
+2020Q1,Q1,general_terminal,CAD m,47.7,47.8,,,,ok,10,General terminal charges 47.7 47.8 (0.1) (0.2)
+2020Q1,Q1,aero_revenue,CAD m,126.3,126.2,,,,ok,10,Aeronautical Revenues 126.3 126.2 0.1 0.1
+2020Q1,Q1,concessions_rentals,CAD m,70.5,67.6,,,,ok,10,Concessions & rentals 70.5 67.6 2.9 4.3
+2020Q1,Q1,parking_ground,CAD m,44.6,49.6,,,,ok,10,Car parking & ground transportation 44.6 49.6 (5.0) (10.0)
+2020Q1,Q1,other_revenue,CAD m,8.7,9.1,,,,ok,10,Other 8.7 9.1 (0.4) (4.7)
+2020Q1,Q1,commercial_revenue,CAD m,123.8,126.3,,,,ok,10,Commercial Revenues 123.8 126.3 (2.5) (2.0)
+2020Q1,Q1,aif_revenue,CAD m,89.0,109.9,,,,ok,10,Airport Improvement Fees 89.0 109.9 (20.9) (19.1)
+2020Q1,Q1,ground_rent,CAD m,9.5,40.9,,,,ok,11,Ground rent 9.5 40.9 (31.4) (76.7)
+2020Q1,Q1,pilt,CAD m,10.1,9.6,,,,ok,11,PILT 2 10.1 9.6 0.5 5.0
+2020Q1,Q1,goods_services,CAD m,106.2,105.4,,,,ok,11,Goods and services 106.2 105.4 0.8 0.8
+2020Q1,Q1,salaries,CAD m,58.5,51.8,,,,ok,11,"Salaries, wages and benefits 58.5 51.8 6.7 12.8"
+2020Q1,Q1,total_debt,CAD m,6907.8,6459.7,,,,ok,4,"Total Debt ($ millions) 6,907.8 6,459.7 448.1 6.9"
+2020Q1,Q1,net_debt,CAD m,5996.9,6042.3,,,,ok,4,"Net Debt 7 5,996.9 6,042.3 (45.4) (0.8)"
+2020Q1,Q1,debt_per_epax,CAD,285.0,259.0,,,,ok,4,Total Debt / Enplaned Passenger 8 285 259 26 10.0
+2020Q1,Q1,net_debt_per_epax,CAD,247.0,242.0,,,,ok,4,Net Debt 7 / Enplaned Passenger 8 247 242 5 2.1
+2020Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2020Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2020Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2020Q2,H1,revenue_total,CAD m,185.6,370.9,524.7,733.3,,ok,4,Total Revenues 185.6 370.9 (185.3) (49.9) 524.7 733.3 (208.6) (28.4)
+2020Q2,H1,ebitda,CAD m,64.7,182.7,219.5,337.4,,ok,4,"EBITDA 2, 3 64.7 182.7 (118.0) (64.6) 219.5 337.4 (117.9) (34.9)"
+2020Q2,H1,ebitda_margin,%,34.9,49.3,41.8,46.0,,,4,"EBITDA Margin 2, 3 34.9 % 49.3 % (14.4) pp 41.8 % 46.0 % (4.2) pp"
+2020Q2,H1,net_income,CAD m,-96.3,36.9,-89.7,47.8,,ok,4,Net (Loss) Income (96.3) 36.9 (133.2) (361.3) (89.7) 47.8 (137.5) (287.8)
+2020Q2,H1,pax_domestic,m pax,0.3,4.6,3.5,8.4,,ok,4,Domestic 0.3 4.6 (4.3) (93.0) 3.5 8.4 (4.9) (58.0)
+2020Q2,H1,pax_international,m pax,0.2,8.2,6.6,16.1,,ok,4,International 0.2 8.2 (8.0) (97.7) 6.6 16.1 (9.5) (59.0)
+2020Q2,H1,pax_total,m pax,0.5,12.8,10.1,24.5,,ok,4,Total 0.5 12.8 (12.3) (96.0) 10.1 24.5 (14.4) (58.6)
+2020Q2,H1,movements,thousand,18.2,114.6,114.7,221.8,,ok,4,Aircraft movements (thousands) 18.2 114.6 (96.4) (84.2) 114.7 221.8 (107.1) (48.3)
+2020Q2,H1,mtow,m tonnes,1.9,9.7,10.3,18.6,,ok,4,MTOW 6 (million tonnes) 1.9 9.7 (7.8) (80.0) 10.3 18.6 (8.3) (44.9)
+2020Q2,H1,seats,m seats,2.0,15.0,14.9,29.2,,ok,4,Seats (millions) 2.0 15.0 (13.0) (86.9) 14.9 29.2 (14.3) (49.0)
+2020Q2,H1,load_factor,%,26.4,85.5,67.8,83.7,,,4,Load factor 26.4 % 85.5 % (59.1) pp 67.8 % 83.7 % (15.9) pp
+2020Q2,H1,landing_fees,CAD m,69.6,81.1,148.2,159.5,,ok,12,Landing fees 69.6 81.1 (11.5) (14.2) 148.2 159.5 (11.3) (7.1)
+2020Q2,H1,general_terminal,CAD m,39.7,48.1,87.4,95.9,,ok,12,General terminal charges 39.7 48.1 (8.4) (17.5) 87.4 95.9 (8.5) (8.9)
+2020Q2,H1,aero_revenue,CAD m,109.3,129.2,235.6,255.4,,ok,12,Aeronautical Revenues 109.3 129.2 (19.9) (15.4) 235.6 255.4 (19.8) (7.7)
+2020Q2,H1,concessions_rentals,CAD m,58.5,70.7,129.0,138.3,,ok,12,Concessions & rentals 58.5 70.7 (12.2) (17.2) 129.0 138.3 (9.3) (6.7)
+2020Q2,H1,parking_ground,CAD m,12.6,49.3,57.2,98.9,,ok,12,Car parking & ground transportation 12.6 49.3 (36.7) (74.5) 57.2 98.9 (41.7) (42.1)
+2020Q2,H1,other_revenue,CAD m,2.0,9.0,10.7,18.1,,ok,12,Other 2.0 9.0 (7.0) (77.8) 10.7 18.1 (7.4) (41.1)
+2020Q2,H1,commercial_revenue,CAD m,73.1,129.0,196.9,255.3,,ok,12,Commercial Revenues 73.1 129.0 (55.9) (43.3) 196.9 255.3 (58.4) (22.9)
+2020Q2,H1,aif_revenue,CAD m,3.2,112.7,92.2,222.6,,ok,12,Airport Improvement Fees 3.2 112.7 (109.5) (97.1) 92.2 222.6 (130.4) (58.6)
+2020Q2,H1,ground_rent,CAD m,8.9,41.6,18.4,82.4,,ok,13,Ground rent 8.9 41.6 (32.7) (78.8) 18.4 82.4 (64.0) (77.7)
+2020Q2,H1,pilt,CAD m,10.0,9.6,20.1,19.2,,ok,13,PILT 2 10.0 9.6 0.4 5.0 20.1 19.2 0.9 5.0
+2020Q2,H1,goods_services,CAD m,72.7,87.5,178.9,192.9,,ok,13,Goods and services 72.7 87.5 (14.8) (16.9) 178.9 192.9 (14.0) (7.2)
+2020Q2,H1,salaries,CAD m,29.3,49.5,87.8,101.4,,ok,13,"Salaries, wages and benefits 29.3 49.5 (20.2) (40.8) 87.8 101.4 (13.6) (13.4)"
+2020Q2,H1,total_debt,CAD m,6877.2,6490.5,,,,ok,4,"Total Debt ($ millions) 6,877.2 6,490.5 386.7 6.0"
+2020Q2,H1,net_debt,CAD m,6221.5,6021.8,,,,ok,4,"Net Debt 7 6,221.5 6,021.8 199.7 3.3"
+2020Q2,H1,debt_per_epax,CAD,380.0,259.0,,,,ok,4,Total Debt / Enplaned Passenger 8 380 259 121 46.7
+2020Q2,H1,net_debt_per_epax,CAD,344.0,240.0,,,,ok,4,Net Debt 7 / Enplaned Passenger 8 344 240 104 43.3
+2020Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2020Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2020Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2020Q3,M9,revenue_total,CAD m,148.3,403.1,673.0,1136.4,,ok,4,"Total Revenues 148.3 403.1 (254.8) (63.2) 673.0 1,136.4 (463.4) (40.8)"
+2020Q3,M9,ebitda,CAD m,3.1,213.9,222.6,551.3,,ok,4,"EBITDA 2, 3 3.1 213.9 (210.8) (98.6) 222.6 551.3 (328.7) (59.6)"
+2020Q3,M9,ebitda_margin,%,2.1,53.1,33.1,48.5,,,4,"EBITDA Margin 2, 3 2.1 % 53.1 % (51.0) pp 33.1 % 48.5 % (15.4) pp"
+2020Q3,M9,net_income,CAD m,-176.9,67.7,-266.6,115.5,,ok,4,Net (Loss) Income (176.9) 67.7 (244.6) (361.3) (266.6) 115.5 (382.1) (330.9)
+2020Q3,M9,pax_domestic,m pax,1.1,5.5,4.6,13.8,,ok,4,Domestic 1.1 5.5 (4.4) (79.8) 4.6 13.8 (9.2) (66.6)
+2020Q3,M9,pax_international,m pax,0.6,8.7,7.2,24.8,,ok,4,International 0.6 8.7 (8.1) (93.7) 7.2 24.8 (17.6) (71.1)
+2020Q3,M9,pax_total,m pax,1.7,14.2,11.8,38.6,,ok,4,Total 1.7 14.2 (12.5) (88.3) 11.8 38.6 (26.8) (69.5)
+2020Q3,M9,movements,thousand,29.7,122.2,144.5,344.2,,ok,4,Aircraft movements (thousands) 29.7 122.2 (92.5) (75.7) 144.5 344.2 (199.7) (58.0)
+2020Q3,M9,mtow,m tonnes,2.8,10.5,13.1,29.1,,ok,4,MTOW 6 (million tonnes) 2.8 10.5 (7.7) (73.3) 13.1 29.1 (16.0) (55.1)
+2020Q3,M9,seats,m seats,3.5,16.4,18.4,45.6,,ok,4,Seats (millions) 3.5 16.4 (12.9) (78.7) 18.4 45.6 (27.2) (59.6)
+2020Q3,M9,load_factor,%,47.4,86.5,64.0,84.7,,,4,Load factor 47.4 % 86.5 % (39.1) pp 64.0 % 84.7 % (20.7) pp
+2020Q3,M9,landing_fees,CAD m,49.1,83.9,197.3,243.4,,ok,13,Landing fees 49.1 83.9 (34.8) (41.4) 197.3 243.4 (46.1) (18.9)
+2020Q3,M9,general_terminal,CAD m,25.2,49.5,112.6,145.4,,ok,13,General terminal charges 25.2 49.5 (24.3) (49.2) 112.6 145.4 (32.8) (22.6)
+2020Q3,M9,aero_revenue,CAD m,74.3,133.4,309.9,388.8,,ok,13,Aeronautical Revenues 74.3 133.4 (59.1) (44.3) 309.9 388.8 (78.9) (20.3)
+2020Q3,M9,concessions_rentals,CAD m,42.1,77.7,171.1,215.9,,ok,13,Concessions & rentals 42.1 77.7 (35.6) (45.8) 171.1 215.9 (44.8) (20.8)
+2020Q3,M9,parking_ground,CAD m,8.0,55.1,65.2,154.0,,ok,13,Car parking & ground transportation 8.0 55.1 (47.1) (85.4) 65.2 154.0 (88.8) (57.6)
+2020Q3,M9,other_revenue,CAD m,3.6,9.5,14.3,27.7,,ok,13,Other 3.6 9.5 (5.9) (62.5) 14.3 27.7 (13.4) (48.5)
+2020Q3,M9,commercial_revenue,CAD m,53.7,142.3,250.6,397.6,,ok,13,Commercial Revenues 53.7 142.3 (88.6) (62.2) 250.6 397.6 (147.0) (37.0)
+2020Q3,M9,aif_revenue,CAD m,20.3,127.4,112.5,350.0,,ok,13,Airport Improvement Fees 20.3 127.4 (107.1) (84.1) 112.5 350.0 (237.5) (67.9)
+2020Q3,M9,ground_rent,CAD m,6.8,45.1,25.2,127.5,,ok,14,Ground rent 6.8 45.1 (38.3) (84.9) 25.2 127.5 (102.3) (80.3)
+2020Q3,M9,pilt,CAD m,10.1,9.6,30.2,28.8,,ok,14,PILT 2 10.1 9.6 0.5 5.0 30.2 28.8 1.4 5.0
+2020Q3,M9,goods_services,CAD m,75.5,86.3,254.4,279.2,,ok,14,Goods and services 75.5 86.3 (10.8) (12.5) 254.4 279.2 (24.8) (8.9)
+2020Q3,M9,salaries,CAD m,52.8,48.2,140.6,149.6,,ok,14,"Salaries, wages and benefits 52.8 48.2 4.6 9.5 140.6 149.6 (9.0) (6.0)"
+2020Q3,M9,total_debt,CAD m,6889.4,6401.5,,,,ok,4,"Total Debt ($ millions) 6,889.4 6,401.5 487.9 7.6"
+2020Q3,M9,net_debt,CAD m,6357.6,5968.5,,,,ok,4,"Net Debt 7 6,357.6 5,968.5 389.1 6.5"
+2020Q3,M9,debt_per_epax,CAD,582.0,255.0,,,,ok,4,Total Debt / Enplaned Passenger 8 582 255 327 128.2
+2020Q3,M9,net_debt_per_epax,CAD,537.0,238.0,,,,ok,4,Net Debt 7 / Enplaned Passenger 8 537 238 299 125.6
+2020Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2020Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2020Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2020Q4,FY,revenue_total,CAD m,,1521.3,823.5,1521.3,False,ok,4,"Total Revenues 823.5 1,521.3 (697.8) (45.9) 1,471.7"
+2020Q4,FY,ebitda,CAD m,,725.9,278.8,725.9,False,ok,4,"EBITDA 2, 3 278.8 725.9 (447.1) (61.6) 720.6"
+2020Q4,FY,ebitda_margin,%,,47.7,33.9,,False,,4,"EBITDA Margin 2, 3 33.9 % 47.7 % (13.8) pp 49.0 %"
+2020Q4,FY,net_income,CAD m,,139.8,-383.4,139.8,False,ok,4,Net (Loss) Income (383.4) 139.8 (523.2) (374.2) 113.7
+2020Q4,FY,pax_domestic,m pax,,18.1,5.5,18.1,False,ok,4,Domestic 5.5 18.1 (12.6) (69.8) 17.8
+2020Q4,FY,pax_international,m pax,,32.4,7.8,32.4,False,ok,4,International 7.8 32.4 (24.6) (75.8) 31.7
+2020Q4,FY,pax_total,m pax,,50.5,13.3,50.5,False,ok,4,Total 13.3 50.5 (37.2) (73.6) 49.5
+2020Q4,FY,movements,thousand,,452.8,174.4,452.8,False,ok,4,Aircraft movements (thousands) 174.4 452.8 (278.4) (61.5) 472.7
+2020Q4,FY,mtow,m tonnes,,38.4,16.0,38.4,False,ok,4,MTOW 6 (million tonnes) 16.0 38.4 (22.4) (58.3) 37.4
+2020Q4,FY,seats,m seats,,60.0,21.9,60.0,False,ok,4,Seats (millions) 21.9 60.0 (38.1) (63.4) 59.3
+2020Q4,FY,load_factor,%,,84.3,60.7,,False,,4,Load factor 60.7 % 84.3 % (23.6) pp 83.4 %
+2020Q4,FY,landing_fees,CAD m,,324.0,248.0,324.0,False,ok,16,Landing fees 248.0 324.0 (76.0) (23.5) 318.5
+2020Q4,FY,general_terminal,CAD m,,193.7,137.6,193.7,False,ok,16,General terminal charges 137.6 193.7 (56.1) (28.9) 191.3
+2020Q4,FY,aero_revenue,CAD m,,517.7,385.6,517.7,False,ok,16,Aeronautical Revenues 385.6 517.7 (132.1) (25.5) 509.8
+2020Q4,FY,concessions_rentals,CAD m,,315.2,212.2,315.2,False,ok,16,Concessions and rentals 212.2 315.2 (103.0) (32.7) 277.5
+2020Q4,FY,parking_ground,CAD m,,203.3,79.6,203.3,False,ok,16,Car parking and ground transportation 79.6 203.3 (123.7) (60.9) 191.8
+2020Q4,FY,other_revenue,CAD m,,37.0,17.6,37.0,False,ok,16,Other 17.6 37.0 (19.4) (52.5) 32.6
+2020Q4,FY,commercial_revenue,CAD m,,555.5,309.4,555.5,False,ok,16,Commercial Revenues 309.4 555.5 (246.1) (44.3) 501.9
+2020Q4,FY,aif_revenue,CAD m,,448.1,128.5,448.1,False,ok,16,Airport Improvement Fees 128.5 448.1 (319.6) (71.3) 460.0
+2020Q4,FY,ground_rent,CAD m,,170.8,15.6,170.8,False,ok,17,Ground rent 15.6 170.8 (155.2) (90.9) 165.2
+2020Q4,FY,pilt,CAD m,,38.4,40.3,38.4,False,ok,17,PILT 2 40.3 38.4 1.9 5.0 36.6
+2020Q4,FY,goods_services,CAD m,,384.9,315.3,384.9,False,ok,17,Goods and services 315.3 384.9 (69.6) (18.1) 357.4
+2020Q4,FY,salaries,CAD m,,201.3,173.5,201.3,False,ok,17,"Salaries, wages and benefits 173.5 201.3 (27.8) (13.8) 191.9"
+2020Q4,FY,total_debt,CAD m,,6411.7,7002.8,6411.7,False,ok,4,"Total Debt ($ millions) 7,002.8 6,411.7 591.1 9.2 6,370.3"
+2020Q4,FY,net_debt,CAD m,,5965.2,6481.8,5965.2,False,ok,4,"Net Debt 7 6,481.8 5,965.2 516.6 8.7 5,959.1"
+2020Q4,FY,debt_per_epax,CAD,,254.0,1052.0,254.0,False,ok,4,"Total Debt / Enplaned Passenger 8 1,052 254 798 314.2 258"
+2020Q4,FY,net_debt_per_epax,CAD,,236.0,974.0,236.0,False,ok,4,Net Debt 7 / Enplaned Passenger 8 974 236 738 312.7 241
+2020Q4,FY,cpe,CAD,,,,,,,,NOT FOUND
+2020Q4,FY,operating_covenant,%,,,,,,,,NOT FOUND
+2020Q4,FY,debt_service_covenant,%,,,,,,,,NOT FOUND
+2021Q1,Q1,revenue_total,CAD m,152.1,339.1,,,,ok,4,Total Revenues 152.1 339.1 (187.0) (55.1)
+2021Q1,Q1,ebitda,CAD m,34.4,154.8,,,,ok,4,"EBITDA 2, 3 34.4 154.8 (120.4) (77.8)"
+2021Q1,Q1,ebitda_margin,%,22.6,45.7,,,,,4,"EBITDA Margin 2, 3 22.6 % 45.7 % (23.1) pp"
+2021Q1,Q1,net_income,CAD m,-127.0,6.6,,,,ok,4,"Net (Loss) Income (127.0) 6.6 (133.6) (2,023.9)"
+2021Q1,Q1,pax_domestic,m pax,0.6,3.1,,,,ok,4,Domestic 0.6 3.1 (2.5) (81.9)
+2021Q1,Q1,pax_international,m pax,0.5,6.5,,,,ok,4,International 0.5 6.5 (6.0) (92.3)
+2021Q1,Q1,pax_total,m pax,1.1,9.6,,,,ok,4,Total 1.1 9.6 (8.5) (88.8)
+2021Q1,Q1,movements,thousand,22.6,96.3,,,,ok,4,Aircraft movements (thousands) 22.6 96.3 (73.7) (76.6)
+2021Q1,Q1,mtow,m tonnes,2.7,8.3,,,,ok,4,MTOW 6 (million tonnes) 2.7 8.3 (5.6) (67.7)
+2021Q1,Q1,seats,m seats,2.6,13.0,,,,ok,4,Seats (millions) 2.6 13.0 (10.4) (79.6)
+2021Q1,Q1,load_factor,%,40.5,74.3,,,,,4,Load factor 40.5 % 74.3 % (33.8) pp
+2021Q1,Q1,landing_fees,CAD m,51.7,78.6,,,,ok,13,Landing fees 51.7 78.6 (26.9) (34.3)
+2021Q1,Q1,general_terminal,CAD m,25.8,47.7,,,,ok,13,General terminal charges 25.8 47.7 (21.9) (45.9)
+2021Q1,Q1,aero_revenue,CAD m,77.5,126.3,,,,ok,13,Aeronautical Revenues 77.5 126.3 (48.8) (38.7)
+2021Q1,Q1,concessions_rentals,CAD m,45.8,70.5,,,,ok,13,Concessions and rentals 45.8 70.5 (24.7) (35.0)
+2021Q1,Q1,parking_ground,CAD m,11.3,44.6,,,,ok,13,Car parking and ground transportation 11.3 44.6 (33.3) (74.7)
+2021Q1,Q1,other_revenue,CAD m,7.4,8.7,,,,ok,13,Other 7.4 8.7 (1.3) (14.7)
+2021Q1,Q1,commercial_revenue,CAD m,64.5,123.8,,,,ok,13,Commercial Revenues 64.5 123.8 (59.3) (47.9)
+2021Q1,Q1,aif_revenue,CAD m,10.1,89.0,,,,ok,13,Airport Improvement Fees 10.1 89.0 (78.9) (88.6)
+2021Q1,Q1,ground_rent,CAD m,11.7,9.5,,,,ok,15,Ground rent 11.7 9.5 2.2 22.5
+2021Q1,Q1,pilt,CAD m,10.6,10.1,,,,ok,15,PILT 2 10.6 10.1 0.5 5.0
+2021Q1,Q1,goods_services,CAD m,61.9,106.2,,,,ok,15,Goods and services 61.9 106.2 (44.3) (41.7)
+2021Q1,Q1,salaries,CAD m,33.5,58.5,,,,ok,15,"Salaries, wages and benefits 33.5 58.5 (25.0) (42.7)"
+2021Q1,Q1,total_debt,CAD m,7120.3,6907.8,,,,ok,4,"Total Debt ($ millions) 7,120.3 6,907.8 212.5 3.1"
+2021Q1,Q1,net_debt,CAD m,6552.0,5996.9,,,,ok,4,"Net Debt 7 6,552.0 5,996.9 555.1 9.3"
+2021Q1,Q1,debt_per_epax,CAD,2984.0,285.0,,,,ok,4,"Total Debt / Enplaned Passenger 8 2,984 285 2,699 947.0"
+2021Q1,Q1,net_debt_per_epax,CAD,2746.0,247.0,,,,ok,4,"Net Debt 7 / Enplaned Passenger 8 2,746 247 2,499 1,011.7"
+2021Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2021Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2021Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2021Q2,H1,revenue_total,CAD m,154.2,185.6,306.3,524.7,,ok,4,Total Revenues 154.2 185.6 (31.4) (16.9) 306.3 524.7 (218.4) (41.6)
+2021Q2,H1,ebitda,CAD m,45.4,64.7,79.8,219.5,,ok,4,"EBITDA 2, 3 45.4 64.7 (19.3) (29.8) 79.8 219.5 (139.7) (63.6)"
+2021Q2,H1,ebitda_margin,%,29.4,34.9,26.1,41.8,,,4,"EBITDA Margin 2, 3 29.4 % 34.9 % (5.5) pp 26.1 % 41.8 % (15.7) pp"
+2021Q2,H1,net_income,CAD m,-118.1,-96.3,-245.1,-89.7,,ok,4,Net Loss (118.1) (96.3) (21.8) (22.6) (245.1) (89.7) (155.4) (173.2)
+2021Q2,H1,pax_domestic,m pax,0.6,0.3,1.2,3.5,,ok,4,Domestic 0.6 0.3 0.3 93.8 1.2 3.5 (2.3) (65.3)
+2021Q2,H1,pax_international,m pax,0.4,0.2,0.9,6.6,,ok,4,International 0.4 0.2 0.2 93.9 0.9 6.6 (5.7) (86.4)
+2021Q2,H1,pax_total,m pax,1.0,0.5,2.1,10.1,,ok,4,Total 1.0 0.5 0.5 93.8 2.1 10.1 (8.0) (79.1)
+2021Q2,H1,movements,thousand,24.2,18.2,47.0,114.7,,ok,4,Aircraft movements (thousands) 24.2 18.2 6.0 32.8 47.0 114.7 (67.7) (59.1)
+2021Q2,H1,mtow,m tonnes,2.7,1.9,5.4,10.3,,ok,4,MTOW 6 (million tonnes) 2.7 1.9 0.8 39.1 5.4 10.3 (4.9) (47.6)
+2021Q2,H1,seats,m seats,2.6,2.0,5.2,14.9,,ok,4,Seats (millions) 2.6 2.0 0.6 31.2 5.2 14.9 (9.7) (65.1)
+2021Q2,H1,load_factor,%,40.8,26.4,40.7,67.8,,,4,Load factor 40.8 % 26.4 % 14.4 pp 40.7 % 67.8 % (27.1) pp
+2021Q2,H1,landing_fees,CAD m,52.0,69.6,103.7,148.2,,ok,14,Landing fees 52.0 69.6 (17.6) (25.2) 103.7 148.2 (44.5) (30.0)
+2021Q2,H1,general_terminal,CAD m,25.6,39.7,51.4,87.4,,ok,14,General terminal charges 25.6 39.7 (14.1) (35.6) 51.4 87.4 (36.0) (41.2)
+2021Q2,H1,aero_revenue,CAD m,77.6,109.3,155.1,235.6,,ok,14,Aeronautical Revenues 77.6 109.3 (31.7) (29.0) 155.1 235.6 (80.5) (34.2)
+2021Q2,H1,concessions_rentals,CAD m,45.5,58.5,91.3,129.0,,ok,14,Concessions and rentals 45.5 58.5 (13.0) (22.1) 91.3 129.0 (37.7) (29.2)
+2021Q2,H1,parking_ground,CAD m,9.9,12.6,21.2,57.2,,ok,14,Car parking and ground | transportation 9.9 12.6 (2.7) (21.4) 21.2 57.2 (36.0) (62.9)
+2021Q2,H1,other_revenue,CAD m,6.9,2.0,14.3,10.7,,ok,14,Other 6.9 2.0 4.9 243.5 14.3 10.7 3.6 33.8
+2021Q2,H1,commercial_revenue,CAD m,62.3,73.1,126.8,196.9,,ok,14,Commercial Revenues 62.3 73.1 (10.8) (14.7) 126.8 196.9 (70.1) (35.6)
+2021Q2,H1,aif_revenue,CAD m,14.3,3.2,24.4,92.2,,ok,14,Airport Improvement Fees 14.3 3.2 11.1 338.2 24.4 92.2 (67.8) (73.6)
+2021Q2,H1,ground_rent,CAD m,11.0,8.9,22.7,18.4,,ok,16,Ground rent 11.0 8.9 2.1 25.4 22.7 18.4 4.3 23.9
+2021Q2,H1,pilt,CAD m,10.6,10.0,21.2,20.1,,ok,16,PILT 2 10.6 10.0 0.6 5.0 21.2 20.1 1.1 5.0
+2021Q2,H1,goods_services,CAD m,55.3,72.7,117.2,178.9,,ok,16,Goods and services 55.3 72.7 (17.4) (24.0) 117.2 178.9 (61.7) (34.5)
+2021Q2,H1,salaries,CAD m,31.9,29.3,65.4,87.8,,ok,16,"Salaries, wages and benefits 31.9 29.3 2.6 8.8 65.4 87.8 (22.4) (25.5)"
+2021Q2,H1,total_debt,CAD m,7182.6,6877.2,,,,ok,4,"Total Debt ($ millions) 7,182.6 6,877.2 305.4 4.4"
+2021Q2,H1,net_debt,CAD m,6630.8,6221.5,,,,ok,4,"Net Debt 7 6,630.8 6,221.5 409.3 6.6"
+2021Q2,H1,debt_per_epax,CAD,2720.0,380.0,,,,ok,4,"Total Debt / Enplaned Passenger 8 2,720 380 2,340 615.8"
+2021Q2,H1,net_debt_per_epax,CAD,2511.0,344.0,,,,ok,4,"Net Debt 7 / Enplaned Passenger 8 2,511 344 2,167 629.9"
+2021Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2021Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2021Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2021Q3,M9,revenue_total,CAD m,245.7,148.3,552.0,673.0,,ok,4,Total Revenues 245.7 148.3 97.4 65.7 552.0 673.0 (121.0) (18.0)
+2021Q3,M9,ebitda,CAD m,120.7,10.3,200.6,229.8,,ok,4,"EBITDA ”* 120.7 10.3 110.4 1,072.9 200.6 229.8 (29.2) (12.7)"
+2021Q3,M9,ebitda_margin,%,49.1,6.9,,,,,4,EBITDA Margin 23 49.1 % 6.9 % 42.2 pp] 36.3% 341% 2.2 pp
+2021Q3,M9,net_income,CAD m,-57.7,-176.9,-302.8,-266.6,,ok,4,Net Loss (57.7) (176.9) 119.2 67.4 (302.8) (266.6) (36.2) (13.6)
+2021Q3,M9,pax_domestic,m pax,2.9,1.1,4.1,4.6,,ok,4,Domestic 2.9 1.1 1.8 165.3 4.1 4.6 (0.5) (10.7)
+2021Q3,M9,pax_international,m pax,1.8,0.6,2.7,7.2,,ok,4,International 1.8 0.6 1.2 239.4 2.7 7.2 (4.5) (61.8)
+2021Q3,M9,pax_total,m pax,4.7,1.7,6.8,11.8,,ok,4,Total 4.7 1.7 3.0 190.0 6.8 11.8 (5.0) (41.8)
+2021Q3,M9,movements,thousand,54.8,29.7,101.8,144.5,,ok,4,Aircraft movements (thousands) 54.8 29.7 25.1 84.6 101.8 144.5 (42.7) (29.6)
+2021Q3,M9,mtow,m tonnes,4.9,2.8,10.3,13.1,,ok,13,MTOW (tonnes) 4.9 2.8 2.1 76.2 10.30 13.1 (2.8) (21.1)
+2021Q3,M9,seats,m seats,6.5,3.5,11.7,18.4,,ok,4,Seats (millions) 6.5 3.5 3.0 85.0 11.7 18.4 (6.7) (36.6)
+2021Q3,M9,load_factor,%,72.9,474.0,,,,,4,Load factor 72.9% 474% 25.5 pp} 586% 640% (5.4)pp
+2021Q3,M9,landing_fees,CAD m,67.4,49.1,171.1,197.3,,ok,15,Landing fees 67.4 49.1 18.3 37.3 171.1 197.3 (26.2) (13.3)
+2021Q3,M9,general_terminal,CAD m,86.1,112.6,,,,ok,15,General terminal charges 86.1 112.6 (26.5) (23.6)
+2021Q3,M9,aero_revenue,CAD m,257.2,309.9,,,,ok,15,Aeronautical Revenues 257.2 309.9 (52.7) (17.0)
+2021Q3,M9,concessions_rentals,CAD m,52.5,42.1,143.8,171.1,,ok,15,Concessions and rentals 52.5 42.1 10.4 24.6 143.8 171.1 (27.3) (15.9)
+2021Q3,M9,parking_ground,CAD m,22.3,8.0,43.5,65.2,,ok,15,Car parking and ground | transportation 22.3 8.0 14.3 176.9 43.5 65.2 (21.7) (33.4)
+2021Q3,M9,other_revenue,CAD m,13.1,3.6,27.4,14.3,,ok,15,Other 13.1 3.6 9.5 266.4 27.4 14.3 13.1 92.2
+2021Q3,M9,commercial_revenue,CAD m,214.7,250.6,,,,ok,15,Commercial Revenues 214.7 250.6 (35.9) (14.3)
+2021Q3,M9,aif_revenue,CAD m,80.1,112.5,,,,ok,15,Airport Improvement Fees 80.1 112.5 (32.4) (28.8)
+2021Q3,M9,ground_rent,CAD m,18.4,6.8,41.1,25.2,,ok,17,Ground rent 18.4 6.8 11.6 170.1 41.1 25.2 15.9 63.5
+2021Q3,M9,pilt,CAD m,10.6,10.1,31.7,30.2,,ok,17,PILT? 10.6 10.1 0.5 5.0 31.7 30.2 1.5 5.0
+2021Q3,M9,goods_services,CAD m,57.5,68.3,,,,ok,17,Goods and services 57.5 68.3 (10.8) (15.8)} 174.7 247.2 (72.5) (29.4)
+2021Q3,M9,salaries,CAD m,38.5,52.8,,,,ok,17,"Salaries, wages and benefits 38.5 52.8 (14.3) (27.0)} 103.9 140.6 (36.7) (26.1)"
+2021Q3,M9,total_debt,CAD m,7196.1,6889.4,,,,ok,4,"Total Debt ($ millions) 7,196.1 6,889.4 306.7 45"
+2021Q3,M9,net_debt,CAD m,6615.7,6357.6,,,,ok,4,"Net Debt ” 6,615.7 6,357.6 258.1 41"
+2021Q3,M9,debt_per_epax,CAD,1718.0,582.0,,,,ok,4,"Total Debt / Enplaned Passenger ° 1,718 582 1,136 195.2"
+2021Q3,M9,net_debt_per_epax,CAD,5.0,1579.0,,,,FAIL,22,"Net Debt 4/Enplaned Passenger 5 1,579 537 1940 %"
+2021Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2021Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2021Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2021Q4,FY,revenue_total,CAD m,274.8,150.5,826.8,823.5,True,ok,4,"Total Revenues 274.8 150.5 124.3 82.6 826.8 823.5 3.3 0.4 1,521.3"
+2021Q4,FY,ebitda,CAD m,117.7,49.0,318.4,278.8,True,ok,4,"EBITDA 2, 3 117.7 49.0 68.7 140.4 318.4 278.8 39.6 14.2 725.9"
+2021Q4,FY,ebitda_margin,%,42.8,32.6,38.5,33.9,True,,4,"EBITDA Margin 2, 3 42.8 % 32.6 % 10.2 pp 38.5 % 33.9 % 4.6 pp 47.7 %"
+2021Q4,FY,net_income,CAD m,-47.6,-116.8,-350.4,-383.4,True,ok,4,Net (Loss) Income (47.6) (116.8) 69.2 59.3 (350.4) (383.4) 33.0 8.6 139.8
+2021Q4,FY,pax_domestic,m pax,2.7,0.9,6.8,5.5,True,ok,4,Domestic 2.7 0.9 1.8 211.4 6.8 5.5 1.3 24.4 18.1
+2021Q4,FY,pax_international,m pax,3.2,0.7,5.9,7.8,True,ok,4,International 3.2 0.7 2.5 364.9 5.9 7.8 (1.9) (24.6) 32.4
+2021Q4,FY,pax_total,m pax,5.9,1.6,12.7,13.3,True,ok,4,Total 5.9 1.6 4.3 279.4 12.7 13.3 (0.6) (4.5) 50.5
+2021Q4,FY,movements,thousand,71.2,30.0,173.0,174.4,True,ok,4,Aircraft movements (thousands) 71.2 30.0 41.2 136.4 173.0 174.4 (1.4) (1.0) 452.8
+2021Q4,FY,mtow,m tonnes,6.1,2.9,16.4,16.0,True,ok,4,MTOW 6 (million tonnes) 6.1 2.9 3.2 107.7 16.4 16.0 0.4 2.4 38.4
+2021Q4,FY,seats,m seats,8.4,3.5,20.0,21.9,True,ok,4,Seats (millions) 8.4 3.5 4.9 138.1 20.0 21.9 (1.9) (8.6) 60.0
+2021Q4,FY,load_factor,%,69.6,44.2,63.3,60.7,True,,4,Load factor 69.6 % 44.2 % 25.4 pp 63.3 % 60.7 % 2.6 pp 84.3 %
+2021Q4,FY,landing_fees,CAD m,,248.0,247.5,248.0,False,ok,17,Landing fees 247.5 248.0 (0.5) (0.2) 324.0
+2021Q4,FY,general_terminal,CAD m,,137.6,126.6,137.6,False,ok,17,General terminal charges 126.6 137.6 (11.0) (8.0) 193.7
+2021Q4,FY,aero_revenue,CAD m,,385.6,374.1,385.6,False,ok,17,Aeronautical Revenues 374.1 385.6 (11.5) (3.0) 517.7
+2021Q4,FY,concessions_rentals,CAD m,,212.2,193.1,212.2,False,ok,17,Concessions and rentals 193.1 212.2 (19.1) (9.0) 315.2
+2021Q4,FY,parking_ground,CAD m,,79.6,70.3,79.6,False,ok,17,Car parking and ground transportation 70.3 79.6 (9.3) (11.7) 203.3
+2021Q4,FY,other_revenue,CAD m,,17.6,42.0,17.6,False,ok,17,Other 42.0 17.6 24.4 138.9 37.0
+2021Q4,FY,commercial_revenue,CAD m,,309.4,305.4,309.4,False,ok,17,Commercial Revenues 305.4 309.4 (4.0) (1.3) 555.5
+2021Q4,FY,aif_revenue,CAD m,,128.5,147.3,128.5,False,ok,17,Airport Improvement Fees 147.3 128.5 18.8 14.7 448.1
+2021Q4,FY,ground_rent,CAD m,,15.6,64.8,15.6,False,ok,18,Ground rent 64.8 15.6 49.2 315.3 170.8
+2021Q4,FY,pilt,CAD m,,40.3,42.3,40.3,False,ok,18,PILT 2 42.3 40.3 2.0 5.0 38.4
+2021Q4,FY,goods_services,CAD m,,315.3,249.4,315.3,False,ok,18,Goods and services 249.4 315.3 (65.9) (20.9) 384.9
+2021Q4,FY,salaries,CAD m,,173.5,151.9,173.5,False,ok,18,"Salaries, wages and benefits 151.9 173.5 (21.6) (12.4) 201.3"
+2021Q4,FY,total_debt,CAD m,,7002.8,7213.7,7002.8,False,ok,4,"Total Debt ($ millions) 7,213.7 7,002.8 210.9 3.0 6,411.7"
+2021Q4,FY,net_debt,CAD m,,6481.8,6532.9,6481.8,False,ok,4,"Net Debt 7 6,532.9 6,481.8 51.1 0.8 5,965.2"
+2021Q4,FY,debt_per_epax,CAD,,1052.0,1136.0,1052.0,False,ok,4,"Total Debt / Enplaned Passenger 8 1,136 1,052 84 8.0 254"
+2021Q4,FY,net_debt_per_epax,CAD,,974.0,1029.0,974.0,False,ok,4,"Net Debt 7 / Enplaned Passenger 8 1,029 974 55 5.6 236"
+2021Q4,FY,cpe,CAD,,,,,,,,NOT FOUND
+2021Q4,FY,operating_covenant,%,,,,,,,,NOT FOUND
+2021Q4,FY,debt_service_covenant,%,,,,,,,,NOT FOUND
+2022Q1,Q1,revenue_total,CAD m,282.7,152.1,,,,ok,4,Total Revenues 282.7 152.1 130.6 85.8
+2022Q1,Q1,ebitda,CAD m,121.0,34.4,,,,ok,4,"EBITDA 2, 3 121.0 34.4 86.6 251.7"
+2022Q1,Q1,ebitda_margin,%,42.8,22.6,,,,,4,"EBITDA Margin 2, 3 42.8 % 22.6 % 20.2 pp"
+2022Q1,Q1,net_income,CAD m,-44.6,-127.0,,,,ok,4,Net Loss (44.6) (127.0) 82.4 64.9
+2022Q1,Q1,pax_domestic,m pax,2.0,0.6,,,,ok,4,Domestic 2.0 0.6 1.4 252.4
+2022Q1,Q1,pax_international,m pax,3.2,0.5,,,,ok,4,International 3.2 0.5 2.7 540.5
+2022Q1,Q1,pax_total,m pax,5.2,1.1,,,,ok,4,Total 5.2 1.1 4.1 384.5
+2022Q1,Q1,movements,thousand,63.2,22.6,,,,ok,4,Aircraft movements (thousands) 63.2 22.6 40.6 177.9
+2022Q1,Q1,mtow,m tonnes,5.8,2.7,,,,ok,4,MTOW 6 (million tonnes) 5.8 2.7 3.1 116.7
+2022Q1,Q1,seats,m seats,8.0,2.6,,,,ok,4,Seats (millions) 8.0 2.6 5.4 203.5
+2022Q1,Q1,load_factor,%,64.7,40.5,,,,,4,Load factor 64.7 % 40.5 % 24.2 pp
+2022Q1,Q1,landing_fees,CAD m,75.9,51.7,,,,ok,12,Landing fees 75.9 51.7 24.2 46.9
+2022Q1,Q1,general_terminal,CAD m,39.4,25.8,,,,ok,12,General terminal charges 39.4 25.8 13.6 52.5
+2022Q1,Q1,aero_revenue,CAD m,115.3,77.5,,,,ok,12,Aeronautical Revenues 115.3 77.5 37.8 48.7
+2022Q1,Q1,concessions_rentals,CAD m,61.0,45.8,,,,ok,12,Concessions and rentals 61.0 45.8 15.2 33.3
+2022Q1,Q1,parking_ground,CAD m,27.9,11.3,,,,ok,12,Car parking and ground transportation 27.9 11.3 16.6 146.8
+2022Q1,Q1,other_revenue,CAD m,19.3,7.4,,,,ok,12,Other 19.3 7.4 11.9 160.8
+2022Q1,Q1,commercial_revenue,CAD m,108.2,64.5,,,,ok,12,Commercial Revenues 108.2 64.5 43.7 67.8
+2022Q1,Q1,aif_revenue,CAD m,59.2,10.1,,,,ok,12,Airport Improvement Fees 59.2 10.1 49.1 485.5
+2022Q1,Q1,ground_rent,CAD m,30.9,11.7,,,,ok,13,Ground rent 30.9 11.7 19.2 164.7
+2022Q1,Q1,pilt,CAD m,3.0,10.6,,,,ok,13,PILT 2 3.0 10.6 (7.6) (71.2)
+2022Q1,Q1,goods_services,CAD m,81.7,61.9,,,,ok,13,Goods and services 81.7 61.9 19.8 31.9
+2022Q1,Q1,salaries,CAD m,46.1,33.5,,,,ok,13,"Salaries, wages and benefits 46.1 33.5 12.6 37.5"
+2022Q1,Q1,total_debt,CAD m,7249.8,7120.3,,,,ok,4,"Total Debt ($ millions) 7,249.8 7,120.3 129.5 1.8"
+2022Q1,Q1,net_debt,CAD m,6535.4,6552.0,,,,ok,4,"Net Debt 7 6,535.4 6,552.0 (16.6) (0.3)"
+2022Q1,Q1,debt_per_epax,CAD,862.0,2984.0,,,,ok,4,"Total Debt / Enplaned Passenger 8 862 2,984 (2,122) (71.1)"
+2022Q1,Q1,net_debt_per_epax,CAD,777.0,2746.0,,,,ok,4,"Net Debt 7 / Enplaned Passenger 8 777 2,746 (1,969) (71.7)"
+2022Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2022Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2022Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2022Q2,H1,revenue_total,CAD m,383.7,154.2,666.4,306.3,,ok,4,Total Revenues 383.7 154.2 229.5 148.9 666.4 306.3 360.1 117.6
+2022Q2,H1,ebitda,CAD m,216.8,45.4,337.8,79.8,,ok,4,"EBITDA 2, 3 216.8 45.4 171.4 377.5 337.8 79.8 258.0 322.8"
+2022Q2,H1,ebitda_margin,%,56.5,29.4,50.7,26.1,,,4,"EBITDA Margin 2, 3 56.5 % 29.4 % 27.1 pp 50.7 % 26.1 % 24.6 pp"
+2022Q2,H1,net_income,CAD m,51.5,-118.1,6.9,-245.1,,ok,4,Net Income (Loss) 51.5 (118.1) 169.6 143.6 6.9 (245.1) 252.0 102.8
+2022Q2,H1,pax_domestic,m pax,3.8,0.6,5.9,1.2,,ok,4,Domestic 3.8 0.6 3.2 492.9 5.9 1.2 4.7 381.6
+2022Q2,H1,pax_international,m pax,5.5,0.4,8.7,0.9,,ok,4,"International 5.5 0.4 5.1 1,229.5 8.7 0.9 7.8 858.3"
+2022Q2,H1,pax_total,m pax,9.3,1.0,14.6,2.1,,ok,4,Total 9.3 1.0 8.3 780.4 14.6 2.1 12.5 584.1
+2022Q2,H1,movements,thousand,87.4,24.2,150.7,47.0,,ok,4,Aircraft movements (thousands) 87.4 24.2 63.2 260.8 150.7 47.0 103.7 220.6
+2022Q2,H1,mtow,m tonnes,7.7,2.7,13.5,5.4,,ok,4,MTOW 6 (million tonnes) 7.7 2.7 5.0 184.8 13.5 5.4 8.1 150.8
+2022Q2,H1,seats,m seats,11.4,2.6,19.5,5.2,,ok,4,Seats (millions) 11.4 2.6 8.8 345.4 19.5 5.2 14.3 273.4
+2022Q2,H1,load_factor,%,81.3,40.8,74.8,40.7,,,4,Load factor 81.3 % 40.8 % 40.5 pp 74.8 % 40.7 % 34.1 pp
+2022Q2,H1,landing_fees,CAD m,92.8,52.0,168.7,103.7,,ok,13,Landing fees 92.8 52.0 40.8 78.3 168.7 103.7 65.0 62.6
+2022Q2,H1,general_terminal,CAD m,51.6,25.6,91.0,51.4,,ok,13,General terminal charges 51.6 25.6 26.0 101.7 91.0 51.4 39.6 77.0
+2022Q2,H1,aero_revenue,CAD m,144.4,77.6,259.7,155.1,,ok,13,Aeronautical Revenues 144.4 77.6 66.8 86.0 259.7 155.1 104.6 67.4
+2022Q2,H1,concessions_rentals,CAD m,64.8,45.5,125.8,91.3,,ok,13,Concessions and rentals 64.8 45.5 19.3 42.1 125.8 91.3 34.5 37.7
+2022Q2,H1,parking_ground,CAD m,44.5,9.9,72.4,21.2,,ok,13,Car parking and ground transportation 44.5 9.9 34.6 350.3 72.4 21.2 51.2 241.8
+2022Q2,H1,other_revenue,CAD m,22.8,6.9,42.1,14.3,,ok,13,Other 22.8 6.9 15.9 230.7 42.1 14.3 27.8 194.5
+2022Q2,H1,commercial_revenue,CAD m,132.1,62.3,240.3,126.8,,ok,13,Commercial Revenues 132.1 62.3 69.8 111.9 240.3 126.8 113.5 89.5
+2022Q2,H1,aif_revenue,CAD m,107.2,14.3,166.4,24.4,,ok,13,Airport Improvement Fees 107.2 14.3 92.9 652.5 166.4 24.4 142.0 583.3
+2022Q2,H1,ground_rent,CAD m,42.3,11.0,73.2,22.7,,ok,14,Ground rent 42.3 11.0 31.3 281.8 73.2 22.7 50.5 221.7
+2022Q2,H1,pilt,CAD m,3.1,10.6,6.1,21.2,,ok,14,PILT 2 3.1 10.6 (7.5) (71.2) 6.1 21.2 (15.1) (71.2)
+2022Q2,H1,goods_services,CAD m,74.3,55.3,156.0,117.2,,ok,14,Goods and services 74.3 55.3 19.0 34.5 156.0 117.2 38.8 33.1
+2022Q2,H1,salaries,CAD m,47.2,31.9,93.3,65.4,,ok,14,"Salaries, wages and benefits 47.2 31.9 15.3 48.1 93.3 65.4 27.9 42.7"
+2022Q2,H1,total_debt,CAD m,6902.4,7182.6,,,,ok,4,"Total Debt ($ millions) 6,902.4 7,182.6 (280.2) (3.9)"
+2022Q2,H1,net_debt,CAD m,6419.1,6630.8,,,,ok,4,"Net Debt 7 6,419.1 6,630.8 (211.7) (3.2)"
+2022Q2,H1,debt_per_epax,CAD,549.0,2720.0,,,,ok,4,"Total Debt / Enplaned Passenger 8 549 2,720 (2,171) (79.8)"
+2022Q2,H1,net_debt_per_epax,CAD,511.0,2511.0,,,,ok,4,"Net Debt 7 / Enplaned Passenger 8 511 2,511 (2,000) (79.6)"
+2022Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2022Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2022Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2022Q3,M9,revenue_total,CAD m,421.9,245.7,1088.4,552.0,,ok,15,"Total Revenues 421.9 245.7 176.2 71.7 1,088.4 552.0 536.4 97.2"
+2022Q3,M9,ebitda,CAD m,227.8,120.7,565.6,200.6,,ok,15,"EBITDA 2, 3 227.8 120.7 107.1 88.7 565.6 200.6 365.0 182.0"
+2022Q3,M9,ebitda_margin,%,54.0,49.1,52.0,36.3,,,15,"EBITDA Margin 2, 3 54.0 % 49.1 % 4.9 pp 52.0 % 36.3 % 15.7 pp"
+2022Q3,M9,net_income,CAD m,73.7,-57.7,80.6,-302.8,,ok,15,Net Income (Loss) 73.7 (57.7) 131.4 227.8 80.6 (302.8) 383.4 126.6
+2022Q3,M9,pax_domestic,m pax,4.7,2.9,10.6,4.1,,ok,15,Domestic 4.7 2.9 1.8 61.0 10.6 4.1 6.5 156.8
+2022Q3,M9,pax_international,m pax,6.5,1.8,15.1,2.7,,ok,15,International 6.5 1.8 4.7 250.6 15.1 2.7 12.4 448.1
+2022Q3,M9,pax_total,m pax,11.2,4.7,25.7,6.8,,ok,15,Total 11.2 4.7 6.5 135.1 25.7 6.8 18.9 273.7
+2022Q3,M9,movements,thousand,96.8,54.8,247.5,101.8,,ok,15,Aircraft movements (thousands) 96.8 54.8 42.0 76.8 247.5 101.8 145.7 143.2
+2022Q3,M9,mtow,m tonnes,8.6,4.9,22.1,10.3,,ok,15,MTOW 6 (million tonnes) 8.6 4.9 3.7 75.1 22.1 10.3 11.8 114.6
+2022Q3,M9,seats,m seats,13.3,6.5,32.7,11.7,,ok,15,Seats (millions) 13.3 6.5 6.8 105.4 32.7 11.7 21.0 180.4
+2022Q3,M9,load_factor,%,84.0,72.9,78.5,58.6,,,15,Load factor 84.0 % 72.9 % 11.1 pp 78.5 % 58.6 % 19.9 pp
+2022Q3,M9,landing_fees,CAD m,101.7,67.4,270.4,171.1,,ok,25,Landing fees 101.7 67.4 34.3 50.8 270.4 171.1 99.3 58.0
+2022Q3,M9,general_terminal,CAD m,58.6,34.7,149.6,86.1,,ok,25,General terminal charges 58.6 34.7 23.9 69.2 149.6 86.1 63.5 73.8
+2022Q3,M9,aero_revenue,CAD m,160.3,102.1,420.0,257.2,,ok,25,Aeronautical Revenues 160.3 102.1 58.2 57.0 420.0 257.2 162.8 63.3
+2022Q3,M9,concessions_rentals,CAD m,71.6,52.5,197.4,143.8,,ok,25,Concessions and rentals 71.6 52.5 19.1 36.4 197.4 143.8 53.6 37.2
+2022Q3,M9,parking_ground,CAD m,52.8,22.3,125.3,43.5,,ok,25,Car parking and ground transportation 52.8 22.3 30.5 137.2 125.3 43.5 81.8 188.2
+2022Q3,M9,other_revenue,CAD m,9.8,13.1,51.9,27.4,,ok,25,Other 9.8 13.1 (3.3) (25.3) 51.9 27.4 24.5 89.2
+2022Q3,M9,commercial_revenue,CAD m,134.2,87.9,374.6,214.7,,ok,25,Commercial Revenues 134.2 87.9 46.3 52.7 374.6 214.7 159.9 74.4
+2022Q3,M9,aif_revenue,CAD m,127.4,55.7,293.8,80.1,,ok,25,Airport Improvement Fees 127.4 55.7 71.7 128.5 293.8 80.1 213.7 266.7
+2022Q3,M9,ground_rent,CAD m,48.7,18.4,121.9,41.1,,ok,26,Ground rent 48.7 18.4 30.3 165.2 121.9 41.1 80.8 196.4
+2022Q3,M9,pilt,CAD m,3.1,10.6,9.2,31.7,,ok,26,PILT 2 3.1 10.6 (7.5) (71.2) 9.2 31.7 (22.5) (71.2)
+2022Q3,M9,goods_services,CAD m,91.2,57.5,247.3,174.7,,ok,26,Goods and services 91.2 57.5 33.7 58.7 247.3 174.7 72.6 41.6
+2022Q3,M9,salaries,CAD m,51.1,38.5,144.4,103.9,,ok,26,"Salaries, wages and benefits 51.1 38.5 12.6 32.7 144.4 103.9 40.5 39.0"
+2022Q3,M9,total_debt,CAD m,6841.0,7196.1,,,,ok,15,"Total Debt ($ millions) 6,841.0 7,196.1 (355.1) (4.9)"
+2022Q3,M9,net_debt,CAD m,6282.3,6615.7,,,,ok,15,"Net Debt 7 6,282.3 6,615.7 (333.4) (5.0)"
+2022Q3,M9,debt_per_epax,CAD,434.0,1718.0,,,,ok,15,"Total Debt / Enplaned Passenger 8 434 1,718 (1,284) (74.7)"
+2022Q3,M9,net_debt_per_epax,CAD,398.0,1579.0,,,,ok,15,"Net Debt 7 / Enplaned Passenger 8 398 1,579 (1,181) (74.8)"
+2022Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2022Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2022Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2022Q4,FY,revenue_total,CAD m,,826.8,1491.9,826.8,False,ok,4,"Total Revenues 1,491.9 826.8 665.1 80.4 823.5"
+2022Q4,FY,ebitda,CAD m,,318.4,758.6,318.4,False,ok,4,"EBITDA 2, 3 758.6 318.4 440.2 138.3 278.8"
+2022Q4,FY,ebitda_margin,%,,38.5,50.8,,False,,4,"EBITDA Margin 2, 3 50.8 % 38.5 % 12.3 pp 33.9 %"
+2022Q4,FY,net_income,CAD m,,-350.4,72.3,-350.4,False,ok,4,Net Income (Loss) 72.3 (350.4) 422.7 120.6 (383.4)
+2022Q4,FY,pax_domestic,m pax,,6.8,14.3,6.8,False,ok,4,Domestic 14.3 6.8 7.5 111.5 5.5
+2022Q4,FY,pax_international,m pax,,5.9,21.3,5.9,False,ok,4,International 21.3 5.9 15.4 260.1 7.8
+2022Q4,FY,pax_total,m pax,,12.7,35.6,12.7,False,ok,4,Total 35.6 12.7 22.9 180.8 13.3
+2022Q4,FY,movements,thousand,,173.0,336.8,173.0,False,ok,4,Aircraft movements (thousands) 336.8 173.0 163.8 94.7 174.4
+2022Q4,FY,mtow,m tonnes,,16.4,30.1,16.4,False,ok,4,MTOW 6 (million tonnes) 30.1 16.4 13.7 83.7 16.0
+2022Q4,FY,seats,m seats,,20.0,44.9,20.0,False,ok,4,Seats (millions) 44.9 20.0 24.9 124.1 21.9
+2022Q4,FY,load_factor,%,,63.3,79.3,,False,,4,Load factor 79.3 % 63.3 % 16.0 pp 60.7 %
+2022Q4,FY,landing_fees,CAD m,,247.5,367.4,247.5,False,ok,14,Landing fees 367.4 247.5 119.9 48.5 248.0
+2022Q4,FY,general_terminal,CAD m,,126.6,205.1,126.6,False,ok,14,General terminal charges 205.1 126.6 78.5 62.0 137.6
+2022Q4,FY,aero_revenue,CAD m,,374.1,572.5,374.1,False,ok,14,Aeronautical Revenues 572.5 374.1 198.4 53.0 385.6
+2022Q4,FY,concessions_rentals,CAD m,,193.1,269.4,193.1,False,ok,14,Concessions and rentals 269.4 193.1 76.3 39.5 212.2
+2022Q4,FY,parking_ground,CAD m,,70.3,175.4,70.3,False,ok,14,Car parking and ground transportation 175.4 70.3 105.1 149.7 79.6
+2022Q4,FY,other_revenue,CAD m,,42.0,61.6,42.0,False,ok,14,Other 61.6 42.0 19.6 46.7 17.6
+2022Q4,FY,commercial_revenue,CAD m,,305.4,506.4,305.4,False,ok,14,Commercial Revenues 506.4 305.4 201.0 65.8 309.4
+2022Q4,FY,aif_revenue,CAD m,,147.3,413.0,147.3,False,ok,14,Airport Improvement Fees 413.0 147.3 265.7 180.3 128.5
+2022Q4,FY,ground_rent,CAD m,,64.8,163.7,64.8,False,ok,15,Ground rent 163.7 64.8 98.9 152.8 15.6
+2022Q4,FY,pilt,CAD m,,42.3,12.2,42.3,False,ok,15,PILT 2 12.2 42.3 (30.1) (71.2) 40.3
+2022Q4,FY,goods_services,CAD m,,249.4,359.4,249.4,False,ok,15,Goods and services 359.4 249.4 110.0 44.1 315.3
+2022Q4,FY,salaries,CAD m,,151.9,198.0,151.9,False,ok,15,"Salaries, wages and benefits 198.0 151.9 46.1 30.3 173.5"
+2022Q4,FY,total_debt,CAD m,,7213.7,6802.4,7213.7,False,ok,4,"Total Debt ($ millions) 6,802.4 7,213.7 (411.3) (5.7) 7,002.8"
+2022Q4,FY,net_debt,CAD m,,6532.9,6296.2,6532.9,False,ok,4,"Net Debt 7 6,296.2 6,532.9 (236.7) (3.6) 6,481.8"
+2022Q4,FY,debt_per_epax,CAD,,1136.0,382.0,1136.0,False,ok,4,"Total Debt / Enplaned Passenger 8 382 1,136 (754) (66.4) 1,052"
+2022Q4,FY,net_debt_per_epax,CAD,,1029.0,353.0,1029.0,False,ok,4,"Net Debt 7 / Enplaned Passenger 8 353 1,029 (676) (65.7) 974"
+2022Q4,FY,cpe,CAD,,,,,,,,NOT FOUND
+2022Q4,FY,operating_covenant,%,,,,,,,,NOT FOUND
+2022Q4,FY,debt_service_covenant,%,,,,,,,,NOT FOUND
+2023Q1,Q1,revenue_total,CAD m,425.7,282.7,,,,ok,3,Total Revenues 425.7 282.7 143.0 50.6
+2023Q1,Q1,ebitda,CAD m,202.9,121.0,,,,ok,3,EBITDA *? 202.9 121.0 81.9 67.7
+2023Q1,Q1,ebitda_margin,%,47.7,42.8,,,,,3,EBITDA Margin ”° 47.7% 42.8% 4.9 pp
+2023Q1,Q1,net_income,CAD m,48.8,-44.6,,,,ok,3,Net Income (Loss) 48.8 (44.6) 93.4 209.4
+2023Q1,Q1,pax_domestic,m pax,3.4,2.0,,,,FAIL,3,Domestic 3.4 2.0 14 63.9
+2023Q1,Q1,pax_international,m pax,6.6,3.2,,,,ok,3,International 6.6 3.2 3.4 107.6
+2023Q1,Q1,pax_total,m pax,10.0,5.2,,,,ok,3,Total 10.0 5.2 4.8 90.4
+2023Q1,Q1,movements,thousand,86.8,63.2,,,,ok,3,Aircraft movements (thousands) 86.8 63.2 23.6 37.3
+2023Q1,Q1,mtow,m tonnes,7.8,5.8,,,,ok,3,MTOW ° (million tonnes) 7.8 5.8 2.0 34.2
+2023Q1,Q1,seats,m seats,12.1,8.0,,,,ok,3,Seats (millions) 12.1 8.0 4.1 50.6
+2023Q1,Q1,load_factor,%,82.9,64.7,,,,,3,Load factor 82.9 % 64.7 % 18.2 pp
+2023Q1,Q1,landing_fees,CAD m,100.9,75.9,,,,ok,9,Landing fees 100.9 75.9 25.0 32.9
+2023Q1,Q1,general_terminal,CAD m,58.8,39.4,,,,ok,9,General terminal charges 58.8 39.4 19.4 49.3
+2023Q1,Q1,aero_revenue,CAD m,159.7,115.3,,,,ok,9,Aeronautical Revenues 159.7 115.3 44.4 38.5
+2023Q1,Q1,concessions_rentals,CAD m,69.4,61.0,,,,ok,9,Concessions and rentals 69.4 61.0 8.4 13.7
+2023Q1,Q1,parking_ground,CAD m,53.5,27.9,,,,ok,9,Car parking and ground transportation 53.5 27.9 25.6 91.6
+2023Q1,Q1,other_revenue,CAD m,13.3,19.3,,,,ok,9,Other 13.3 19.3 (6.0) (31.3)
+2023Q1,Q1,commercial_revenue,CAD m,136.2,108.2,,,,ok,9,Commercial Revenues 136.2 108.2 28.0 25.8
+2023Q1,Q1,aif_revenue,CAD m,129.8,59.2,,,,ok,9,Airport Improvement Fees 129.8 59.2 70.6 119.5
+2023Q1,Q1,ground_rent,CAD m,47.8,30.9,,,,ok,10,Ground rent 47.8 30.9 16.9 54.7
+2023Q1,Q1,pilt,CAD m,2.9,3.0,,,,ok,10,PILT? 2.9 3.0 (0.1) (4.7)
+2023Q1,Q1,goods_services,CAD m,116.0,81.7,,,,ok,10,Goods and services 116.0 81.7 34.3 41.9
+2023Q1,Q1,salaries,CAD m,56.1,46.1,,,,ok,10,"Salaries, wages and benefits 56.1 46.1 10.0 21.8"
+2023Q1,Q1,total_debt,CAD m,6841.7,7249.8,,,,ok,3,"Total Debt ($ millions) 6,841.7 7,249.8 (408.1) (5.6)"
+2023Q1,Q1,net_debt,CAD m,6173.3,6535.4,,,,ok,3,"Net Debt ” 6,173.3 6,535.4 (362.1) (5.5)"
+2023Q1,Q1,debt_per_epax,CAD,338.0,862.0,,,,ok,3,Total Debt / Enplaned Passenger ° 338 862 (524) (60.8)
+2023Q1,Q1,net_debt_per_epax,CAD,,,,,,,,NOT FOUND
+2023Q1,Q1,cpe,CAD,,,,,,,,NOT FOUND
+2023Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2023Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2023Q2,H1,revenue_total,CAD m,463.8,383.7,889.4,666.4,,ok,4,Total Revenues 463.8 383.7 80.1 20.8 889.4 666.4 223.0 33.5
+2023Q2,H1,ebitda,CAD m,247.5,216.8,450.5,337.8,,ok,4,"EBITDA 2, 3 247.5 216.8 30.7 14.2 450.5 337.8 112.7 33.4"
+2023Q2,H1,ebitda_margin,%,53.4,56.5,50.7,50.7,,,4,"EBITDA Margin 2, 3 53.4 % 56.5 % (3.1) pp 50.7 % 50.7 % — pp"
+2023Q2,H1,net_income,CAD m,81.1,51.5,129.9,6.9,,ok,4,"Net Income 81.1 51.5 29.6 57.4 129.9 6.9 123.0 1,779.1"
+2023Q2,H1,pax_domestic,m pax,4.2,3.8,7.5,5.9,,ok,4,Domestic 4.2 3.8 0.4 9.1 7.5 5.9 1.6 27.3
+2023Q2,H1,pax_international,m pax,7.1,5.5,13.7,8.7,,ok,4,International 7.1 5.5 1.6 31.3 13.7 8.7 5.0 59.0
+2023Q2,H1,pax_total,m pax,11.3,9.3,21.2,14.6,,ok,4,Total 11.3 9.3 2.0 22.1 21.2 14.6 6.6 46.1
+2023Q2,H1,movements,thousand,96.3,87.4,183.0,150.7,,ok,4,Aircraft movements (thousands) 96.3 87.4 8.9 10.1 183.0 150.7 32.3 21.5
+2023Q2,H1,mtow,m tonnes,8.6,7.7,16.5,13.5,,ok,4,MTOW 6 (million tonnes) 8.6 7.7 0.9 12.7 16.5 13.5 3.0 22.0
+2023Q2,H1,seats,m seats,13.4,11.4,25.4,19.5,,ok,4,Seats (millions) 13.4 11.4 2.0 16.8 25.4 19.5 5.9 30.7
+2023Q2,H1,load_factor,%,84.9,81.3,83.5,74.8,,,4,Load factor 84.9 % 81.3 % 3.6 pp 83.5 % 74.8 % 8.7 pp
+2023Q2,H1,landing_fees,CAD m,101.6,92.8,202.5,168.7,,ok,10,Landing fees 101.6 92.8 8.8 9.4 202.5 168.7 33.8 20.0
+2023Q2,H1,general_terminal,CAD m,60.2,51.6,119.0,91.0,,ok,10,General terminal charges 60.2 51.6 8.6 16.8 119.0 91.0 28.0 30.9
+2023Q2,H1,aero_revenue,CAD m,161.8,144.4,321.5,259.7,,ok,10,Aeronautical Revenues 161.8 144.4 17.4 12.0 321.5 259.7 61.8 23.8
+2023Q2,H1,concessions_rentals,CAD m,76.1,64.8,145.4,125.8,,ok,10,Concessions and rentals 76.1 64.8 11.3 17.4 145.4 125.8 19.6 15.6
+2023Q2,H1,parking_ground,CAD m,57.6,44.5,111.1,72.4,,ok,10,Car parking and ground transportation 57.6 44.5 13.1 29.3 111.1 72.4 38.7 53.3
+2023Q2,H1,other_revenue,CAD m,14.5,22.8,27.8,42.1,,ok,10,Other 14.5 22.8 (8.3) (36.1) 27.8 42.1 (14.3) (33.9)
+2023Q2,H1,commercial_revenue,CAD m,148.2,132.1,284.3,240.3,,ok,10,Commercial Revenues 148.2 132.1 16.1 12.2 284.3 240.3 44.0 18.3
+2023Q2,H1,aif_revenue,CAD m,153.8,107.2,283.6,166.4,,ok,10,Airport Improvement Fees 153.8 107.2 46.6 43.3 283.6 166.4 117.2 70.4
+2023Q2,H1,ground_rent,CAD m,53.5,42.3,101.2,73.2,,ok,12,Ground rent 53.5 42.3 11.2 26.5 101.2 73.2 28.0 38.4
+2023Q2,H1,pilt,CAD m,2.9,3.1,5.8,6.1,,ok,12,PILT 2 2.9 3.1 (0.2) (4.8) 5.8 6.1 (0.3) (4.7)
+2023Q2,H1,goods_services,CAD m,104.7,74.3,220.6,156.0,,ok,12,Goods and services 104.7 74.3 30.4 40.8 220.6 156.0 64.6 41.4
+2023Q2,H1,salaries,CAD m,55.2,47.2,111.3,93.3,,ok,12,"Salaries, wages and benefits 55.2 47.2 8.0 16.9 111.3 93.3 18.0 19.3"
+2023Q2,H1,total_debt,CAD m,6882.1,6902.4,,,,ok,4,"Total Debt ($ millions) 6,882.1 6,902.4 (20.3) (0.3)"
+2023Q2,H1,net_debt,CAD m,6027.1,6419.1,,,,ok,4,"Net Debt 7 6,027.1 6,419.1 (392.0) (6.1)"
+2023Q2,H1,debt_per_epax,CAD,325.0,549.0,,,,ok,4,Total Debt / Enplaned Passenger 8 325 549 (224) (40.8)
+2023Q2,H1,net_debt_per_epax,CAD,285.0,511.0,,,,ok,4,Net Debt 7 / Enplaned Passenger 8 285 511 (226) (44.2)
+2023Q2,H1,cpe,CAD,,,,,,,,NOT FOUND
+2023Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2023Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2023Q3,M9,revenue_total,CAD m,504.5,421.9,1393.9,1088.4,,ok,4,"Total Revenues 504.5 421.9 82.6 19.6 1,393.9 1,088.4 305.5 28.1"
+2023Q3,M9,ebitda,CAD m,279.6,227.8,730.0,565.6,,ok,4,"EBITDA 2, 3 279.6 227.8 51.8 22.7 730.0 565.6 164.4 29.1"
+2023Q3,M9,ebitda_margin,%,55.4,54.0,52.4,52.0,,,4,"EBITDA Margin 2, 3 55.4 % 54.0 % 1.4 pp 52.4 % 52.0 % 0.4 pp"
+2023Q3,M9,net_income,CAD m,99.7,73.7,229.7,80.6,,ok,4,Net Income 99.7 73.7 26.0 35.4 229.7 80.6 149.1 185.0
+2023Q3,M9,pax_domestic,m pax,4.9,4.7,12.6,10.6,,ok,4,Domestic 4.9 4.7 0.2 4.9 12.6 10.6 2.0 18.1
+2023Q3,M9,pax_international,m pax,7.6,6.5,21.2,15.1,,ok,4,International 7.6 6.5 1.1 17.1 21.2 15.1 6.1 41.1
+2023Q3,M9,pax_total,m pax,12.5,11.2,33.8,25.7,,ok,4,Total 12.5 11.2 1.3 11.9 33.8 25.7 8.1 31.6
+2023Q3,M9,movements,thousand,100.1,96.8,283.2,247.5,,ok,4,Aircraft movements (thousands) 100.1 96.8 3.3 3.4 283.2 247.5 35.7 14.4
+2023Q3,M9,mtow,m tonnes,9.2,8.6,25.7,22.1,,ok,4,MTOW 6 (million tonnes) 9.2 8.6 0.6 6.8 25.7 22.1 3.6 16.1
+2023Q3,M9,seats,m seats,14.3,13.3,39.7,32.7,,ok,4,Seats (millions) 14.3 13.3 1.0 7.5 39.7 32.7 7.0 21.3
+2023Q3,M9,load_factor,%,87.3,84.0,85.1,78.5,,,4,Load factor 87.3 % 84.0 % 3.3 pp 85.1 % 78.5 % 6.6 pp
+2023Q3,M9,landing_fees,CAD m,105.8,101.7,308.3,270.4,,ok,11,Landing fees 2 105.8 101.7 4.1 4.1 308.3 270.4 37.9 14.0
+2023Q3,M9,general_terminal,CAD m,63.1,58.6,182.1,149.6,,ok,11,General terminal charges 63.1 58.6 4.5 7.7 182.1 149.6 32.5 21.8
+2023Q3,M9,aero_revenue,CAD m,168.9,160.3,490.4,420.0,,ok,11,Aeronautical Revenues 168.9 160.3 8.6 5.4 490.4 420.0 70.4 16.8
+2023Q3,M9,concessions_rentals,CAD m,81.7,71.6,227.1,197.4,,ok,11,Concessions and rentals 81.7 71.6 10.1 14.0 227.1 197.4 29.7 15.0
+2023Q3,M9,parking_ground,CAD m,64.4,52.8,175.5,125.3,,ok,11,Car parking and ground transportation 64.4 52.8 11.6 21.9 175.5 125.3 50.2 40.0
+2023Q3,M9,other_revenue,CAD m,13.8,9.8,41.6,51.9,,ok,11,Other 13.8 9.8 4.0 40.9 41.6 51.9 (10.3) (19.8)
+2023Q3,M9,commercial_revenue,CAD m,159.9,134.2,444.2,374.6,,ok,11,Commercial Revenues 159.9 134.2 25.7 19.0 444.2 374.6 69.6 18.6
+2023Q3,M9,aif_revenue,CAD m,175.7,127.4,459.3,293.8,,ok,11,Airport Improvement Fees 175.7 127.4 48.3 37.9 459.3 293.8 165.5 56.3
+2023Q3,M9,ground_rent,CAD m,55.5,48.7,156.7,121.9,,ok,12,Ground rent 55.5 48.7 6.8 13.8 156.7 121.9 34.8 28.5
+2023Q3,M9,pilt,CAD m,2.9,3.1,8.7,9.2,,ok,12,PILT 2 2.9 3.1 (0.2) (4.7) 8.7 9.2 (0.5) (4.7)
+2023Q3,M9,goods_services,CAD m,112.4,91.2,333.0,247.3,,ok,12,Goods and services 112.4 91.2 21.2 23.2 333.0 247.3 85.7 34.7
+2023Q3,M9,salaries,CAD m,54.1,51.1,165.5,144.4,,ok,12,"Salaries, wages and benefits 54.1 51.1 3.0 6.0 165.5 144.4 21.1 14.6"
+2023Q3,M9,total_debt,CAD m,6989.3,6841.0,,,,ok,4,"Total Debt ($ millions) 6,989.3 6,841.0 148.3 2.2"
+2023Q3,M9,net_debt,CAD m,5861.1,6282.3,,,,ok,4,"Net Debt 7 5,861.1 6,282.3 (421.2) (6.7)"
+2023Q3,M9,debt_per_epax,CAD,320.0,434.0,,,,ok,4,Total Debt / Enplaned Passenger 8 320 434 (114) (26.3)
+2023Q3,M9,net_debt_per_epax,CAD,268.0,398.0,,,,ok,4,Net Debt 7 / Enplaned Passenger 8 268 398 (130) (32.7)
+2023Q3,M9,cpe,CAD,,,,,,,,NOT FOUND
+2023Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2023Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2023Q4,FY,revenue_total,CAD m,,1491.9,1887.1,1491.9,False,ok,4,"Total Revenues ($ millions) 1,887.1 1,491.9 395.2 26.5 826.8"
+2023Q4,FY,ebitda,CAD m,,758.8,960.3,758.8,False,ok,4,"EBITDA 2, 3 960.3 758.8 201.5 26.6 318.4"
+2023Q4,FY,ebitda_margin,%,,50.8,50.9,,False,,4,"EBITDA Margin 2, 3 50.9 % 50.8 % 0.1 pp 38.5 %"
+2023Q4,FY,net_income,CAD m,,72.3,265.0,72.3,False,ok,4,Net Income 265.0 72.3 192.7 266.8 (350.4)
+2023Q4,FY,pax_domestic,m pax,,14.3,16.5,14.3,False,ok,4,Domestic 16.5 14.3 2.2 15.3 6.8
+2023Q4,FY,pax_international,m pax,,21.3,28.3,21.3,False,ok,4,International 28.3 21.3 7.0 32.9 5.9
+2023Q4,FY,pax_total,m pax,,35.6,44.8,35.6,False,ok,4,Total 44.8 35.6 9.2 25.8 12.7
+2023Q4,FY,movements,thousand,,336.8,379.6,336.8,False,ok,4,Aircraft movements (thousands) 379.6 336.8 42.8 12.7 173.0
+2023Q4,FY,mtow,m tonnes,,30.1,34.4,30.1,False,ok,4,MTOW 5 (million tonnes) 34.4 30.1 4.3 14.3 16.4
+2023Q4,FY,seats,m seats,,44.9,53.1,44.9,False,ok,4,Seats (millions) 53.1 44.9 8.2 18.3 20.0
+2023Q4,FY,load_factor,%,,79.3,84.4,,False,,4,Load factor 84.4 % 79.3 % 5.1 pp 63.3 %
+2023Q4,FY,landing_fees,CAD m,,367.4,426.3,367.4,False,ok,13,Landing fees 2 426.3 367.4 58.9 16.0 247.5
+2023Q4,FY,general_terminal,CAD m,,205.1,252.1,205.1,False,ok,13,General terminal charges 252.1 205.1 47.0 22.9 126.6
+2023Q4,FY,aero_revenue,CAD m,,572.5,678.4,572.5,False,ok,13,Aeronautical Revenues 678.4 572.5 105.9 18.5 374.1
+2023Q4,FY,concessions_rentals,CAD m,,269.4,307.3,269.4,False,ok,13,Concessions and rentals 307.3 269.4 37.9 14.1 193.1
+2023Q4,FY,parking_ground,CAD m,,175.4,231.6,175.4,False,ok,13,Car parking and ground transportation 231.6 175.4 56.2 32.0 70.3
+2023Q4,FY,other_revenue,CAD m,,61.6,54.8,61.6,False,ok,13,Other 54.8 61.6 (6.8) (11.1) 42.0
+2023Q4,FY,commercial_revenue,CAD m,,506.4,593.7,506.4,False,ok,13,Commercial Revenues 593.7 506.4 87.3 17.3 305.4
+2023Q4,FY,aif_revenue,CAD m,,413.0,615.0,413.0,False,ok,13,Airport Improvement Fees 615.0 413.0 202.0 48.9 147.3
+2023Q4,FY,ground_rent,CAD m,,163.7,212.5,163.7,False,ok,15,Ground rent 212.5 163.7 48.8 29.8 64.8
+2023Q4,FY,pilt,CAD m,,12.2,11.6,12.2,False,ok,15,PILT 2 11.6 12.2 (0.6) (4.7) 42.3
+2023Q4,FY,goods_services,CAD m,,359.2,469.5,359.2,False,ok,15,Goods and services 469.5 359.2 110.3 30.7 249.4
+2023Q4,FY,salaries,CAD m,,198.0,233.2,198.0,False,ok,15,"Salaries, wages and benefits 233.2 198.0 35.2 17.8 151.9"
+2023Q4,FY,total_debt,CAD m,,6802.4,6983.3,6802.4,False,ok,4,"Total Debt ($ millions) 6,983.3 6,802.4 180.9 2.7 7,213.7"
+2023Q4,FY,net_debt,CAD m,,6296.2,5829.8,6296.2,False,ok,4,"Net Debt 6 5,829.8 6,296.2 (466.4) (7.4) 6,532.9"
+2023Q4,FY,debt_per_epax,CAD,,382.0,312.0,382.0,False,ok,4,"Total Debt / Enplaned Passenger 8 ($) 312 382 (70) (18.3) 1,136"
+2023Q4,FY,net_debt_per_epax,CAD,,353.0,260.0,353.0,False,ok,4,"Net Debt 6 / Enplaned Passenger 8 ($) 260 353 (93) (26.3) 1,029"
+2023Q4,FY,cpe,CAD,,32.1,30.3,32.1,False,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE) ($) 30.3 32.1 (1.8) (5.6) 58.9
+2023Q4,FY,operating_covenant,%,,140.0,153.0,140.0,False,ok,4,MTI Operating covenant 10 (minimum requirement of 100%) 153.0 % 140.0 % 13.0 pp 97.6 %
+2023Q4,FY,debt_service_covenant,%,,136.0,176.0,136.0,False,ok,4,MTI Debt service covenant 10 (minimum requirement of 125%) 176.0 % 136.0 % 40.0 pp 58.0 %
+2024Q1,Q1,revenue_total,CAD m,468.5,425.7,,,,ok,4,Total Revenues ($ millions) 468.5 425.7 42.8 10.1
+2024Q1,Q1,ebitda,CAD m,219.2,202.9,,,,ok,4,"EBITDA 2, 3 219.2 202.9 16.3 8.0"
+2024Q1,Q1,ebitda_margin,%,46.8,47.7,,,,,4,"EBITDA Margin 2, 3 46.8 % 47.7 % (0.9) pp"
+2024Q1,Q1,net_income,CAD m,73.6,48.8,,,,ok,4,Net Income 73.6 48.8 24.8 50.8
+2024Q1,Q1,pax_domestic,m pax,3.5,3.4,,,,ok,4,Domestic 3.5 3.4 0.1 2.6
+2024Q1,Q1,pax_international,m pax,7.4,6.6,,,,ok,4,International 7.4 6.6 0.8 11.8
+2024Q1,Q1,pax_total,m pax,10.9,10.0,,,,ok,4,Total 10.9 10.0 0.9 8.7
+2024Q1,Q1,movements,thousand,94.0,86.8,,,,ok,4,Aircraft movements (thousands) 94.0 86.8 7.2 8.3
+2024Q1,Q1,mtow,m tonnes,8.6,7.8,,,,ok,4,MTOW 5 (million tonnes) 8.6 7.8 0.8 9.3
+2024Q1,Q1,seats,m seats,13.3,12.1,,,,ok,4,Seats (millions) 13.3 12.1 1.2 10.3
+2024Q1,Q1,load_factor,%,81.2,82.9,,,,,4,Load factor 81.2 % 82.9 % (1.7) pp
+2024Q1,Q1,landing_fees,CAD m,99.5,100.9,,,,ok,11,Landing fees 2 99.5 100.9 (1.4) (1.3)
+2024Q1,Q1,general_terminal,CAD m,59.4,58.8,,,,ok,11,General terminal charges 59.4 58.8 0.6 0.9
+2024Q1,Q1,aero_revenue,CAD m,158.9,159.7,,,,ok,11,Aeronautical Revenues 158.9 159.7 (0.8) (0.5)
+2024Q1,Q1,concessions_rentals,CAD m,76.6,69.4,,,,ok,11,Concessions and rentals 76.6 69.4 7.2 10.4
+2024Q1,Q1,parking_ground,CAD m,59.2,53.5,,,,ok,11,Car parking and ground transportation 59.2 53.5 5.7 10.7
+2024Q1,Q1,other_revenue,CAD m,14.6,13.3,,,,ok,11,Other 14.6 13.3 1.3 10.3
+2024Q1,Q1,commercial_revenue,CAD m,150.4,136.2,,,,ok,11,Commercial Revenues 150.4 136.2 14.2 10.5
+2024Q1,Q1,aif_revenue,CAD m,159.2,129.8,,,,ok,11,Airport Improvement Fees 159.2 129.8 29.4 22.6
+2024Q1,Q1,ground_rent,CAD m,53.0,47.8,,,,ok,12,Ground rent 53.0 47.8 5.2 11.0
+2024Q1,Q1,pilt,CAD m,8.2,2.9,,,,ok,12,PILT 2 8.2 2.9 5.3 180.8
+2024Q1,Q1,goods_services,CAD m,121.9,116.0,,,,ok,12,Goods and services 121.9 116.0 5.9 5.1
+2024Q1,Q1,salaries,CAD m,66.2,56.1,,,,ok,12,"Salaries, wages and benefits 66.2 56.1 10.1 18.1"
+2024Q1,Q1,total_debt,CAD m,7083.4,6841.7,,,,ok,4,"Total Debt ($ millions) 7,083.4 6,841.7 241.7 3.5"
+2024Q1,Q1,net_debt,CAD m,5753.2,6173.3,,,,ok,4,"Net Debt 6 5,753.2 6,173.3 (420.1) (6.8)"
+2024Q1,Q1,debt_per_epax,CAD,310.0,338.0,,,,ok,4,Total Debt / Enplaned Passenger 8 ($) 310 338 (28) (8.3)
+2024Q1,Q1,net_debt_per_epax,CAD,252.0,305.0,,,,ok,4,Net Debt 6 / Enplaned Passenger 8 ($) 252 305 (53) (17.4)
+2024Q1,Q1,cpe,CAD,29.7,30.5,,,,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE)9 ($) 29.7 30.5 (0.8) (2.6)
+2024Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2024Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2024Q2,H1,revenue_total,CAD m,485.3,463.8,953.8,889.4,,ok,4,Total Revenues ($ millions) 485.3 463.8 21.5 4.6 953.8 889.4 64.4 7.2
+2024Q2,H1,ebitda,CAD m,237.2,247.5,456.4,450.5,,ok,4,"EBITDA 2, 3 237.2 247.5 (10.3) (4.2) 456.4 450.5 5.9 1.3"
+2024Q2,H1,ebitda_margin,%,48.9,53.4,47.9,50.7,,,4,"EBITDA Margin 2, 3 48.9 % 53.4 % (4.5) pp 47.9 % 50.7 % (2.8) pp"
+2024Q2,H1,net_income,CAD m,86.4,81.1,160.1,129.9,,ok,4,Net Income 86.4 81.1 5.3 6.6 160.1 129.9 30.2 23.2
+2024Q2,H1,pax_domestic,m pax,4.1,4.3,7.5,7.6,,ok,4,Domestic 4.1 4.3 (0.2) (3.2) 7.5 7.6 (0.1) (1.1)
+2024Q2,H1,pax_international,m pax,7.6,7.1,15.1,13.7,,ok,4,International 7.6 7.1 0.5 7.4 15.1 13.7 1.4 10.2
+2024Q2,H1,pax_total,m pax,11.7,11.4,22.6,21.3,,ok,4,Total 11.7 11.4 0.3 3.5 22.6 21.3 1.3 6.2
+2024Q2,H1,movements,thousand,0.1,0.1,191.8,183.0,,ok,4,Aircraft movements (thousands) 0.1 0.1 0.0 1.6 191.8 183.0 8.8 4.8
+2024Q2,H1,mtow,m tonnes,9.1,8.6,17.6,16.5,,ok,4,MTOW 5 (million tonnes) 9.1 8.6 0.5 4.7 17.6 16.5 1.1 6.9
+2024Q2,H1,seats,m seats,14.0,13.4,27.3,25.4,,ok,4,Seats (millions) 14.0 13.4 0.6 4.6 27.3 25.4 1.9 7.3
+2024Q2,H1,load_factor,%,84.4,84.9,83.1,83.5,,,4,Load factor 84.4 % 84.9 % (0.5) pp 83.1 % 83.5 % (0.4) pp
+2024Q2,H1,landing_fees,CAD m,103.8,101.6,203.3,202.5,,ok,11,Landing fees 2 103.8 101.6 2.2 2.2 203.3 202.5 0.8 0.4
+2024Q2,H1,general_terminal,CAD m,62.2,60.2,121.6,119.0,,ok,11,General terminal charges 62.2 60.2 2.0 3.3 121.6 119.0 2.6 2.1
+2024Q2,H1,aero_revenue,CAD m,166.0,161.8,324.9,321.5,,ok,11,Aeronautical Revenues 166.0 161.8 4.2 2.6 324.9 321.5 3.4 1.1
+2024Q2,H1,concessions_rentals,CAD m,80.4,76.1,157.0,145.4,,ok,11,Concessions and rentals 80.4 76.1 4.3 5.8 157.0 145.4 11.6 8.0
+2024Q2,H1,parking_ground,CAD m,60.1,57.6,119.4,111.1,,ok,11,Car parking and ground transportation 60.1 57.6 2.5 4.3 119.4 111.1 8.3 7.4
+2024Q2,H1,other_revenue,CAD m,15.5,14.5,30.1,27.8,,ok,11,Other 15.5 14.5 1.0 6.5 30.1 27.8 2.3 8.3
+2024Q2,H1,commercial_revenue,CAD m,156.0,148.2,306.5,284.3,,ok,11,Commercial Revenues 156.0 148.2 7.8 5.3 306.5 284.3 22.2 7.8
+2024Q2,H1,aif_revenue,CAD m,163.3,153.8,322.4,283.6,,ok,11,Airport Improvement Fees 163.3 153.8 9.5 6.2 322.4 283.6 38.8 13.7
+2024Q2,H1,ground_rent,CAD m,54.9,53.5,107.9,101.2,,ok,12,Ground rent 54.9 53.5 1.4 2.6 107.9 101.2 6.7 6.6
+2024Q2,H1,pilt,CAD m,8.2,2.9,16.3,5.8,,ok,12,PILT 2 8.2 2.9 5.3 180.8 16.3 5.8 10.5 180.8
+2024Q2,H1,goods_services,CAD m,119.9,104.7,241.8,220.6,,ok,12,Goods and services 119.9 104.7 15.2 14.6 241.8 220.6 21.2 9.6
+2024Q2,H1,salaries,CAD m,65.2,55.2,131.4,111.3,,ok,12,"Salaries, wages and benefits 65.2 55.2 10.0 18.0 131.4 111.3 20.1 18.0"
+2024Q2,H1,total_debt,CAD m,7068.7,6882.1,,,,ok,4,"Total Debt ($ millions) 7,068.7 6,882.1 186.6 2.7"
+2024Q2,H1,net_debt,CAD m,5673.6,6027.1,,,,ok,4,"Net Debt 6 5,673.6 6,027.1 (353.5) (5.9)"
+2024Q2,H1,debt_per_epax,CAD,306.0,325.0,,,,ok,4,Total Debt / Enplaned Passenger 8 ($) 306 325 (19) (5.8)
+2024Q2,H1,net_debt_per_epax,CAD,246.0,285.0,,,,ok,4,Net Debt 6 / Enplaned Passenger 8 ($) 246 285 (39) (13.7)
+2024Q2,H1,cpe,CAD,29.6,30.5,,,,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 29.6 30.5 (0.9) (3.0)
+2024Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2024Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2024Q3,M9,revenue_total,CAD m,531.2,504.5,1485.0,1393.9,,ok,4,"Total Revenues ($ millions) 531.2 504.5 26.7 5.3 1,485.0 1,393.9 91.1 6.5"
+2024Q3,M9,ebitda,CAD m,274.8,279.6,731.2,730.0,,ok,4,"EBITDA 2, 3 274.8 279.6 (4.8) (1.7) 731.2 730.0 1.2 0.2"
+2024Q3,M9,ebitda_margin,%,51.7,55.4,49.2,52.4,,,4,"EBITDA Margin 2, 3 51.7 % 55.4 % (3.7) pp 49.2 % 52.4 % (3.2) pp"
+2024Q3,M9,net_income,CAD m,122.3,99.7,282.4,229.7,,ok,4,Net Income 122.3 99.7 22.6 22.6 282.4 229.7 52.7 22.9
+2024Q3,M9,pax_domestic,m pax,4.8,4.9,12.4,12.6,,ok,4,Domestic 4.8 4.9 (0.1) (2.7) 12.4 12.6 (0.2) (1.6)
+2024Q3,M9,pax_international,m pax,8.0,7.6,23.1,21.2,,ok,4,International 8.0 7.6 0.4 7.0 23.1 21.2 1.9 9.0
+2024Q3,M9,pax_total,m pax,12.8,12.5,35.5,33.8,,ok,4,Total 12.8 12.5 0.3 3.1 35.5 33.8 1.7 5.1
+2024Q3,M9,movements,thousand,102.0,100.1,293.8,283.2,,ok,4,Aircraft movements (thousands) 102.0 100.1 1.9 1.8 293.8 283.2 10.6 3.8
+2024Q3,M9,mtow,m tonnes,9.7,9.2,27.3,25.7,,ok,4,MTOW 5 (million tonnes) 9.7 9.2 0.5 4.7 27.3 25.7 1.6 6.1
+2024Q3,M9,seats,m seats,15.0,14.3,42.3,39.7,,ok,4,Seats (millions) 15.0 14.3 0.7 5.1 42.3 39.7 2.6 6.5
+2024Q3,M9,load_factor,%,85.6,87.3,84.0,85.1,,,4,Load factor 85.6 % 87.3 % (1.7) pp 84.0 % 85.1 % (1.1) pp
+2024Q3,M9,landing_fees,CAD m,109.5,105.8,312.8,308.3,,ok,11,Landing fees 2 109.5 105.8 3.7 3.5 312.8 308.3 4.5 1.5
+2024Q3,M9,general_terminal,CAD m,66.4,63.1,188.0,182.1,,ok,11,General terminal charges 66.4 63.1 3.3 5.2 188.0 182.1 5.9 3.2
+2024Q3,M9,aero_revenue,CAD m,175.9,168.9,500.8,490.4,,ok,11,Aeronautical Revenues 175.9 168.9 7.0 4.1 500.8 490.4 10.4 2.1
+2024Q3,M9,concessions_rentals,CAD m,86.6,81.7,243.6,227.1,,ok,11,Concessions and rentals 86.6 81.7 4.9 6.1 243.6 227.1 16.5 7.3
+2024Q3,M9,parking_ground,CAD m,68.3,64.4,187.7,175.5,,ok,11,Car parking and ground transportation 68.3 64.4 3.9 6.2 187.7 175.5 12.2 7.0
+2024Q3,M9,other_revenue,CAD m,14.8,13.8,44.9,41.6,,ok,11,Other 14.8 13.8 1.0 6.9 44.9 41.6 3.3 7.8
+2024Q3,M9,commercial_revenue,CAD m,169.7,159.9,476.2,444.2,,ok,11,Commercial Revenues 169.7 159.9 9.8 6.2 476.2 444.2 32.0 7.2
+2024Q3,M9,aif_revenue,CAD m,185.6,175.7,508.0,459.3,,ok,11,Airport Improvement Fees 185.6 175.7 9.9 5.6 508.0 459.3 48.7 10.6
+2024Q3,M9,ground_rent,CAD m,60.5,55.5,168.4,156.7,,ok,12,Ground rent 60.5 55.5 5.0 9.2 168.4 156.7 11.7 7.5
+2024Q3,M9,pilt,CAD m,8.2,2.9,24.5,8.7,,ok,12,PILT 2 8.2 2.9 5.3 180.8 24.5 8.7 15.8 180.8
+2024Q3,M9,goods_services,CAD m,122.2,112.4,364.0,333.0,,ok,12,Goods and services 122.2 112.4 9.8 8.7 364.0 333.0 31.0 9.3
+2024Q3,M9,salaries,CAD m,65.5,54.1,196.9,165.5,,ok,12,"Salaries, wages and benefits 65.5 54.1 11.4 20.8 196.9 165.5 31.4 18.9"
+2024Q3,M9,total_debt,CAD m,7084.9,6989.3,,,,ok,4,"Total Debt ($ millions) 7,084.9 6,989.3 95.6 1.4"
+2024Q3,M9,net_debt,CAD m,5520.4,5861.1,,,,ok,4,"Net Debt 6 5,520.4 5,861.1 (340.7) (5.8)"
+2024Q3,M9,debt_per_epax,CAD,304.0,320.0,,,,ok,4,Total Debt / Enplaned Passenger 8 ($) 304 320 (16) (5.0)
+2024Q3,M9,net_debt_per_epax,CAD,237.0,268.0,,,,ok,4,Net Debt 6 / Enplaned Passenger 8 ($) 237 268 (31) (11.6)
+2024Q3,M9,cpe,CAD,29.6,29.0,,,,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 29.6 29.0 0.6 2.1
+2024Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2024Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2024Q4,FY,revenue_total,CAD m,,1887.1,1975.4,1887.1,False,ok,4,"Total Revenues ($ millions) 1,975.4 1,887.1 88.3 4.7 1,491.9"
+2024Q4,FY,ebitda,CAD m,,960.3,938.2,960.3,False,ok,4,"EBITDA 2, 3 938.2 960.3 (22.1) (2.3) 758.8"
+2024Q4,FY,ebitda_margin,%,,50.9,47.5,,False,,4,"EBITDA Margin 2, 3 47.5 % 50.9 % — — 50.8 %"
+2024Q4,FY,net_income,CAD m,,265.0,329.2,265.0,False,ok,4,Net Income 329.2 265.0 64.2 24.2 72.3
+2024Q4,FY,pax_domestic,m pax,,16.5,16.4,16.5,False,ok,4,Domestic 16.4 16.5 (0.1) (0.8) 14.3
+2024Q4,FY,pax_international,m pax,,28.3,30.4,28.3,False,ok,4,International 30.4 28.3 2.1 7.5 21.3
+2024Q4,FY,pax_total,m pax,,44.8,46.8,44.8,False,ok,4,Total 46.8 44.8 2.0 4.4 35.6
+2024Q4,FY,movements,thousand,,379.6,389.6,379.6,False,ok,4,Aircraft movements (thousands) 389.6 379.6 10.0 2.6 336.8
+2024Q4,FY,mtow,m tonnes,,34.4,36.2,34.4,False,ok,4,MTOW 5 (million tonnes) 36.2 34.4 1.8 5.0 30.1
+2024Q4,FY,seats,m seats,,53.1,55.9,53.1,False,ok,4,Seats (millions) 55.9 53.1 2.8 5.2 44.9
+2024Q4,FY,load_factor,%,,84.4,83.7,,False,,4,Load factor 83.7 % 84.4 % — — 79.3 %
+2024Q4,FY,landing_fees,CAD m,,426.3,416.5,426.3,False,ok,11,Landing fees 2 416.5 426.3 (9.8) (2.3) 367.4
+2024Q4,FY,general_terminal,CAD m,,252.1,248.8,252.1,False,ok,11,General terminal charges 248.8 252.1 (3.3) (1.3) 205.1
+2024Q4,FY,aero_revenue,CAD m,,678.4,665.3,678.4,False,ok,11,Aeronautical Revenues 665.3 678.4 (13.1) (1.9) 572.5
+2024Q4,FY,concessions_rentals,CAD m,,307.3,330.3,307.3,False,ok,11,Concessions and rentals 330.3 307.3 23.0 7.5 269.4
+2024Q4,FY,parking_ground,CAD m,,231.6,247.5,231.6,False,ok,11,Car parking and ground transportation 247.5 231.6 15.9 6.9 175.4
+2024Q4,FY,other_revenue,CAD m,,54.8,59.5,54.8,False,ok,11,Other 59.5 54.8 4.7 8.5 61.6
+2024Q4,FY,commercial_revenue,CAD m,,593.7,637.3,593.7,False,ok,11,Commercial Revenues 637.3 593.7 43.6 7.3 506.4
+2024Q4,FY,aif_revenue,CAD m,,615.0,672.8,615.0,False,ok,11,Airport Improvement Fees 672.8 615.0 57.8 9.4 413.0
+2024Q4,FY,ground_rent,CAD m,,212.5,223.5,212.5,False,ok,13,Ground rent 223.5 212.5 11.0 5.2 163.7
+2024Q4,FY,pilt,CAD m,,11.6,32.6,11.6,False,ok,13,PILT 2 32.6 11.6 21.0 180.8 12.2
+2024Q4,FY,goods_services,CAD m,,469.5,519.5,469.5,False,ok,13,Goods and services 519.5 469.5 50.0 10.7 359.2
+2024Q4,FY,salaries,CAD m,,233.2,261.6,233.2,False,ok,13,"Salaries, wages and benefits 261.6 233.2 28.4 12.1 198.0"
+2024Q4,FY,total_debt,CAD m,,6983.3,7045.7,6983.3,False,ok,4,"Total Debt ($ millions) 7,045.7 6,983.3 62.4 0.9 6,802.4"
+2024Q4,FY,net_debt,CAD m,,5829.8,5451.2,5829.8,False,ok,4,"Net Debt 6 5,451.2 5,829.8 (378.6) (6.5) 6,296.2"
+2024Q4,FY,debt_per_epax,CAD,,312.0,301.0,312.0,False,ok,4,Total Debt / Enplaned Passenger 8 ($) 301 312 (11) (3.5) 382
+2024Q4,FY,net_debt_per_epax,CAD,,260.0,233.0,260.0,False,ok,4,Net Debt 6 / Enplaned Passenger 8 ($) 233 260 (27) (10.4) 353
+2024Q4,FY,cpe,CAD,,30.3,28.5,30.3,False,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 28.5 30.3 (1.8) (5.9) 32.1
+2024Q4,FY,operating_covenant,%,,153.0,148.0,153.0,False,FAIL,19,MTI Operating covenant 8 (minimum requirement of 100%) 148.0 % 153.0 % — 140.0 %
+2024Q4,FY,debt_service_covenant,%,,176.0,170.0,176.0,False,FAIL,19,MTI Debt service covenant 8 (minimum requirement of 125%) 170.0 % 176.0 % — 136.0 %
+2025Q1,Q1,revenue_total,CAD m,487.4,468.5,,,,ok,4,Total Revenues ($ millions) 487.4 468.5 18.9 4.0
+2025Q1,Q1,ebitda,CAD m,216.9,219.2,,,,ok,4,"EBITDA 2, 3 216.9 219.2 (2.3) (1.0)"
+2025Q1,Q1,ebitda_margin,%,44.5,46.8,,,,,4,"EBITDA Margin 2, 3 44.5 % 46.8 % — —"
+2025Q1,Q1,net_income,CAD m,69.5,73.6,,,,ok,4,Net Income 69.5 73.6 (4.1) (5.6)
+2025Q1,Q1,pax_domestic,m pax,3.4,3.5,,,,ok,4,Domestic 3.4 3.5 (0.1) (2.2)
+2025Q1,Q1,pax_international,m pax,7.3,7.4,,,,ok,4,International 7.3 7.4 (0.1) (1.9)
+2025Q1,Q1,pax_total,m pax,10.7,10.9,,,,ok,4,Total 10.7 10.9 (0.2) (2.0)
+2025Q1,Q1,movements,thousand,91.3,94.0,,,,ok,4,Aircraft movements (thousands) 91.3 94.0 (2.7) (2.9)
+2025Q1,Q1,mtow,m tonnes,8.6,8.6,,,,ok,4,MTOW 5 (million tonnes) 8.6 8.6 — 0.7
+2025Q1,Q1,seats,m seats,13.3,13.3,,,,ok,4,Seats (millions) 13.3 13.3 — (0.5)
+2025Q1,Q1,load_factor,%,80.4,81.2,,,,,4,Load factor 80.4 % 81.2 % — —
+2025Q1,Q1,landing_fees,CAD m,105.7,99.5,,,,ok,10,Landing fees 2 105.7 99.5 6.2 6.2
+2025Q1,Q1,general_terminal,CAD m,62.8,59.4,,,,ok,10,General terminal charges 62.8 59.4 3.4 5.7
+2025Q1,Q1,aero_revenue,CAD m,168.5,158.9,,,,ok,10,Aeronautical Revenues 168.5 158.9 9.6 6.0
+2025Q1,Q1,concessions_rentals,CAD m,81.5,76.6,,,,ok,10,Concessions and rentals 81.5 76.6 4.9 6.5
+2025Q1,Q1,parking_ground,CAD m,61.0,59.2,,,,ok,10,Car parking and ground transportation 61.0 59.2 1.8 3.0
+2025Q1,Q1,other_revenue,CAD m,15.5,14.6,,,,ok,10,Other 15.5 14.6 0.9 5.8
+2025Q1,Q1,commercial_revenue,CAD m,158.0,150.4,,,,ok,10,Commercial Revenues 158.0 150.4 7.6 5.0
+2025Q1,Q1,aif_revenue,CAD m,160.9,159.2,,,,ok,10,Airport Improvement Fees 160.9 159.2 1.7 1.1
+2025Q1,Q1,ground_rent,CAD m,55.1,53.0,,,,ok,11,Ground rent 55.1 53.0 2.1 4.1
+2025Q1,Q1,pilt,CAD m,10.3,8.2,,,,ok,11,PILT 2 10.3 8.2 2.1 25.9
+2025Q1,Q1,goods_services,CAD m,130.8,121.9,,,,ok,11,Goods and services 130.8 121.9 8.9 7.3
+2025Q1,Q1,salaries,CAD m,74.3,66.2,,,,ok,11,"Salaries, wages and benefits 74.3 66.2 8.1 12.2"
+2025Q1,Q1,total_debt,CAD m,6798.8,7083.4,,,,ok,4,"Total Debt ($ millions) 6,798.8 7,083.4 (284.6) (4.0)"
+2025Q1,Q1,net_debt,CAD m,5359.6,5753.2,,,,ok,4,"Net Debt 6 5,359.6 5,753.2 (393.6) (6.8)"
+2025Q1,Q1,debt_per_epax,CAD,292.0,310.0,,,,ok,4,Total Debt / Enplaned Passenger 8 ($) 292 310 (18) (5.8)
+2025Q1,Q1,net_debt_per_epax,CAD,230.0,252.0,,,,ok,4,Net Debt 6 / Enplaned Passenger 8 ($) 230 252 (22) (8.7)
+2025Q1,Q1,cpe,CAD,31.6,29.2,,,,ok,4,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 31.6 29.2 2.4 8.2
+2025Q1,Q1,operating_covenant,%,142.0,148.0,,,,FAIL,16,MTI Operating covenant 8 (minimum requirement of 100%) 142.0 % 148.0 % —
+2025Q1,Q1,debt_service_covenant,%,158.0,170.0,,,,FAIL,16,MTI Debt service covenant 8 (minimum requirement of 125%) 158.0 % 170.0 % —
+2025Q2,H1,revenue_total,CAD m,520.7,485.3,1008.1,953.8,,ok,6,"Total Revenues ($ millions) 520.7 485.3 35.4 7.3 1,008.1 953.8 54.3 5.7"
+2025Q2,H1,ebitda,CAD m,260.9,240.6,477.8,460.0,,ok,6,"EBITDA 2, 3 260.9 240.6 20.3 8.4 477.8 460.0 17.8 3.9"
+2025Q2,H1,ebitda_margin,%,50.1,48.9,47.4,47.9,,,6,"EBITDA Margin 2, 3 50.1 % 48.9 % 47.4 % 47.9 %"
+2025Q2,H1,net_income,CAD m,109.7,86.4,179.2,160.1,,ok,6,Net Income 109.7 86.4 23.3 26.9 179.2 160.1 19.1 11.9
+2025Q2,H1,pax_domestic,m pax,4.4,4.1,7.7,7.5,,ok,6,Domestic 4.4 4.1 0.3 5.6 7.7 7.5 0.2 2.5
+2025Q2,H1,pax_international,m pax,7.6,7.6,15.0,15.1,,ok,6,International 7.6 7.6 — — 15.0 15.1 (0.1) (1.0)
+2025Q2,H1,pax_total,m pax,12.0,11.7,22.7,22.6,,ok,6,Total 12.0 11.7 0.3 1.5 22.7 22.6 0.1 0.1
+2025Q2,H1,movements,thousand,99.6,97.8,190.9,191.8,,ok,6,Aircraft movements (thousands) 99.6 97.8 1.8 1.8 190.9 191.8 (0.9) (0.5)
+2025Q2,H1,mtow,m tonnes,9.4,9.1,18.1,17.6,,ok,6,MTOW 5 (million tonnes) 9.4 9.1 0.3 4.3 18.1 17.6 0.5 2.6
+2025Q2,H1,seats,m seats,14.5,14.0,27.7,27.3,,ok,6,Seats (millions) 14.5 14.0 0.5 3.7 27.7 27.3 0.4 1.7
+2025Q2,H1,load_factor,%,82.6,84.4,81.8,83.1,,,6,Load factor 82.6 % 84.4 % 81.8 % 83.1 %
+2025Q2,H1,landing_fees,CAD m,112.4,103.8,218.1,203.3,,ok,11,Landing fees 2 112.4 103.8 8.6 8.3 218.1 203.3 14.8 7.3
+2025Q2,H1,general_terminal,CAD m,66.7,62.2,129.5,121.6,,ok,11,General terminal charges 66.7 62.2 4.5 7.2 129.5 121.6 7.9 6.5
+2025Q2,H1,aero_revenue,CAD m,179.1,166.0,347.6,324.9,,ok,11,Aeronautical Revenues 179.1 166.0 13.1 7.9 347.6 324.9 22.7 7.0
+2025Q2,H1,concessions_rentals,CAD m,85.3,80.4,166.8,157.0,,ok,11,Concessions and rentals 85.3 80.4 4.9 6.0 166.8 157.0 9.8 6.2
+2025Q2,H1,parking_ground,CAD m,61.8,60.1,122.8,119.4,,ok,11,Car parking and ground transportation 61.8 60.1 1.7 2.9 122.8 119.4 3.4 2.9
+2025Q2,H1,other_revenue,CAD m,15.4,15.5,30.9,30.1,,ok,11,Other 15.4 15.5 (0.1) (0.4) 30.9 30.1 0.8 2.6
+2025Q2,H1,commercial_revenue,CAD m,162.5,156.0,320.5,306.5,,ok,11,Commercial Revenues 162.5 156.0 6.5 4.1 320.5 306.5 14.0 4.6
+2025Q2,H1,aif_revenue,CAD m,179.1,163.3,340.0,322.4,,ok,11,Airport Improvement Fees 179.1 163.3 15.8 9.7 340.0 322.4 17.6 5.4
+2025Q2,H1,ground_rent,CAD m,58.9,54.9,114.0,107.9,,ok,12,Ground rent 58.9 54.9 4.0 7.3 114.0 107.9 6.1 5.7
+2025Q2,H1,pilt,CAD m,10.3,8.2,20.6,16.3,,ok,12,PILT 2 10.3 8.2 2.1 25.9 20.6 16.3 4.3 25.9
+2025Q2,H1,goods_services,CAD m,118.4,116.5,249.2,238.2,,ok,12,Goods and services 118.4 116.5 1.9 1.5 249.2 238.2 11.0 4.6
+2025Q2,H1,salaries,CAD m,72.2,65.2,146.5,131.4,,ok,12,"Salaries, wages and benefits 72.2 65.2 7.0 10.8 146.5 131.4 15.1 11.5"
+2025Q2,H1,total_debt,CAD m,6758.6,7068.7,,,,ok,6,"Total Debt ($ millions) 6,758.6 7,068.7 (310.1) (4.4)"
+2025Q2,H1,net_debt,CAD m,5265.7,5673.6,,,,ok,6,"Net Debt 6 5,265.7 5,673.6 (407.9) (7.2)"
+2025Q2,H1,debt_per_epax,CAD,289.0,306.0,,,,ok,6,Total Debt / Enplaned Passenger 8 ($) 289.0 306.0 (17) (5.6)
+2025Q2,H1,net_debt_per_epax,CAD,225.0,246.0,,,,ok,6,Net Debt 6 / Enplaned Passenger 8 ($) 225.0 246.0 (21) (8.5)
+2025Q2,H1,cpe,CAD,29.4,29.6,,,,ok,6,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 29.4 29.6 (0.2) (0.7)
+2025Q2,H1,operating_covenant,%,149.0,149.0,,,,ok,17,MTI Operating covenant 8 (minimum requirement of 100%) 149 % 149 % —
+2025Q2,H1,debt_service_covenant,%,173.0,169.0,,,,FAIL,17,MTI Debt service covenant 8 (minimum requirement of 125%) 173 % 169 % —
+2025Q3,M9,revenue_total,CAD m,562.2,531.2,1570.2,1485.0,,ok,6,"Total Revenues ($ millions) 562.2 531.2 31.0 5.8 1,570.2 1,485.0 85.2 5.7"
+2025Q3,M9,ebitda,CAD m,291.6,274.8,769.3,734.8,,ok,6,"EBITDA 2, 3 291.6 274.8 16.8 6.1 769.3 734.8 34.5 4.7"
+2025Q3,M9,ebitda_margin,%,51.9,51.7,49.0,49.2,,,6,"EBITDA Margin 2, 3 51.9% 51.7% 49.0% 49.2%"
+2025Q3,M9,net_income,CAD m,138.6,122.3,317.7,282.4,,ok,6,Net Income 138.6 122.3 16.3 13.3 317.7 282.4 35.3 12.5
+2025Q3,M9,pax_domestic,m pax,5.2,4.8,13.0,12.4,,ok,6,Domestic 5.2 4.8 0.4 8.3 13.0 12.4 0.6 4.7
+2025Q3,M9,pax_international,m pax,7.9,8.0,22.8,23.1,,ok,6,International 7.9 8.0 (0.1) (1.3) 22.8 23.1 (0.3) (1.4)
+2025Q3,M9,pax_total,m pax,13.1,12.8,35.8,35.5,,ok,6,Total 13.1 12.8 0.3 2.3 35.8 35.5 0.3 0.7
+2025Q3,M9,movements,thousand,104.6,102.0,295.4,293.8,,ok,6,Aircraft movements (thousands) 104.6 102.0 2.6 2.5 295.4 293.8 1.6 0.5
+2025Q3,M9,mtow,m tonnes,10.0,9.7,28.0,27.3,,ok,6,MTOW 5 (million tonnes) 10.0 9.7 0.3 3.4 28.0 27.3 0.7 2.8
+2025Q3,M9,seats,m seats,15.4,15.0,43.1,42.3,,ok,6,Seats (millions) 15.4 15.0 0.4 2.5 43.1 42.3 0.8 2.0
+2025Q3,M9,load_factor,%,84.7,85.6,82.9,84.0,,,6,Load factor 84.7% 85.6% 82.9% 84.0%
+2025Q3,M9,landing_fees,CAD m,119.0,109.5,337.1,312.8,,ok,11,Landing fees 2 119.0 109.5 9.5 8.7 337.1 312.8 24.3 7.8
+2025Q3,M9,general_terminal,CAD m,71.1,66.4,200.6,188.0,,ok,11,General terminal charges 71.1 66.4 4.7 7.2 200.6 188.0 12.6 6.7
+2025Q3,M9,aero_revenue,CAD m,190.1,175.9,537.7,500.8,,ok,11,Aeronautical Revenues 190.1 175.9 14.2 8.1 537.7 500.8 36.9 7.4
+2025Q3,M9,concessions_rentals,CAD m,92.1,86.6,258.8,243.6,,ok,11,Concessions and rentals 92.1 86.6 5.5 6.3 258.8 243.6 15.2 6.2
+2025Q3,M9,parking_ground,CAD m,69.4,68.3,192.2,187.7,,ok,11,Car parking and ground transportation 69.4 68.3 1.1 1.5 192.2 187.7 4.5 2.4
+2025Q3,M9,other_revenue,CAD m,14.8,14.8,45.7,44.9,,ok,11,Other 14.8 14.8 — 0.4 45.7 44.9 0.8 1.9
+2025Q3,M9,commercial_revenue,CAD m,176.3,169.7,496.7,476.2,,ok,11,Commercial Revenues 176.3 169.7 6.6 3.8 496.7 476.2 20.5 4.3
+2025Q3,M9,aif_revenue,CAD m,195.8,185.6,535.8,508.0,,ok,11,Airport Improvement Fees 195.8 185.6 10.2 5.5 535.8 508.0 27.8 5.5
+2025Q3,M9,ground_rent,CAD m,63.7,60.5,177.7,168.4,,ok,12,Ground rent 63.7 60.5 3.2 5.2 177.7 168.4 9.3 5.5
+2025Q3,M9,pilt,CAD m,10.3,8.2,30.8,24.5,,ok,12,PILT 2 10.3 8.2 2.1 25.9 30.8 24.5 6.3 25.9
+2025Q3,M9,goods_services,CAD m,126.0,122.2,375.2,360.4,,ok,12,Goods and services 126.0 122.2 3.8 3.2 375.2 360.4 14.8 4.1
+2025Q3,M9,salaries,CAD m,70.7,65.5,217.2,196.9,,ok,12,"Salaries, wages and benefits 70.7 65.5 5.2 8.0 217.2 196.9 20.3 10.3"
+2025Q3,M9,total_debt,CAD m,6773.8,7084.9,,,,ok,6,"Total Debt ($ millions) 6,773.8 7,084.9 (311.1) (4.4)"
+2025Q3,M9,net_debt,CAD m,5131.6,5520.4,,,,ok,6,"Net Debt 6 5,131.6 5,520.4 (388.8) (7.0)"
+2025Q3,M9,debt_per_epax,CAD,288.0,304.0,,,,ok,6,Total Debt / Enplaned Passenger 8 ($) 288.0 304.0 (16) (5.3)
+2025Q3,M9,net_debt_per_epax,CAD,218.0,237.0,,,,ok,6,Net Debt 6 / Enplaned Passenger 8 ($) 218.0 237.0 (19) (8.0)
+2025Q3,M9,cpe,CAD,29.9,29.6,,,,ok,6,Air Carrier Cost / Enplaned Passenger 8 (CPE) 9 ($) 29.9 29.6 0.3 1.0
+2025Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2025Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND
+2025Q4,FY,revenue_total,CAD m,,1975.4,2084.8,1975.4,False,ok,6,"Total Revenues ($ millions) 2,084.8 1,975.4 109.4 5.5 1,887.1"
+2025Q4,FY,ebitda,CAD m,,938.2,990.2,938.2,False,ok,6,"EBITDA 2, 3 990.2 938.2 52.0 5.5 960.3"
+2025Q4,FY,ebitda_margin,%,,47.5,47.5,,False,,6,"EBITDA Margin 2, 3 47.5% 47.5% 50.9%"
+2025Q4,FY,net_income,CAD m,,329.2,366.1,329.2,False,ok,6,Net Income 366.1 329.2 36.9 11.2 265.0
+2025Q4,FY,pax_domestic,m pax,,16.4,17.2,16.4,False,ok,6,Domestic 17.2 16.4 0.8 4.6 16.5
+2025Q4,FY,pax_international,m pax,,30.4,30.1,30.4,False,ok,6,International 30.1 30.4 (0.3) (0.8) 28.3
+2025Q4,FY,pax_total,m pax,,46.8,47.3,46.8,False,ok,6,Total 47.3 46.8 0.5 1.1 44.8
+2025Q4,FY,movements,thousand,,389.6,392.5,389.6,False,ok,6,Aircraft movements (thousands) 392.5 389.6 2.9 0.7 379.6
+2025Q4,FY,mtow,m tonnes,,36.2,37.1,36.2,False,ok,6,MTOW 4 (million tonnes) 37.1 36.2 0.9 2.6 34.4
+2025Q4,FY,seats,m seats,,55.9,57.0,55.9,False,ok,6,Seats (millions) 57.0 55.9 1.1 2.0 53.1
+2025Q4,FY,load_factor,%,,83.7,82.9,,False,,6,Load factor 82.9% 83.7% 84.4%
+2025Q4,FY,landing_fees,CAD m,,416.5,444.8,416.5,False,ok,10,Landing fees 2 444.8 416.5 28.3 6.8 426.3
+2025Q4,FY,general_terminal,CAD m,,248.8,263.3,248.8,False,ok,10,General terminal charges 263.3 248.8 14.5 5.8 252.1
+2025Q4,FY,aero_revenue,CAD m,,665.3,708.1,665.3,False,ok,10,Aeronautical Revenues 708.1 665.3 42.8 6.4 678.4
+2025Q4,FY,concessions_rentals,CAD m,,330.3,347.8,330.3,False,ok,10,Concessions and rentals 347.8 330.3 17.5 5.3 307.3
+2025Q4,FY,parking_ground,CAD m,,247.5,252.1,247.5,False,ok,10,Car parking and ground transportation 252.1 247.5 4.6 1.9 231.6
+2025Q4,FY,other_revenue,CAD m,,59.5,61.8,59.5,False,ok,10,Other 61.8 59.5 2.3 3.8 54.8
+2025Q4,FY,commercial_revenue,CAD m,,637.3,661.7,637.3,False,ok,10,Commercial Revenues 661.7 637.3 24.4 3.8 593.7
+2025Q4,FY,aif_revenue,CAD m,,672.8,715.0,672.8,False,ok,10,Airport Improvement Fees 715.0 672.8 42.2 6.3 615.0
+2025Q4,FY,ground_rent,CAD m,,223.5,236.1,223.5,False,ok,11,Ground rent 236.1 223.5 12.6 5.6 212.5
+2025Q4,FY,pilt,CAD m,,32.6,41.1,32.6,False,ok,11,PILT 2 41.1 32.6 8.5 25.9 11.6
+2025Q4,FY,goods_services,CAD m,,519.5,520.5,519.5,False,ok,11,Goods and services 520.5 519.5 1.0 0.2 469.5
+2025Q4,FY,salaries,CAD m,,261.6,296.9,261.6,False,ok,11,"Salaries, wages and benefits 296.9 261.6 35.3 13.5 233.2"
+2025Q4,FY,total_debt,CAD m,,7045.7,6734.0,7045.7,False,ok,6,"Total Debt ($ millions) 6,734.0 7,045.7 (311.7) (4.4) 6,983.3"
+2025Q4,FY,net_debt,CAD m,,5451.2,5048.9,5451.2,False,ok,6,"Net Debt 2 5,048.9 5,451.2 (402.3) (7.4) 5,829.8"
+2025Q4,FY,debt_per_epax,CAD,,301.0,285.0,301.0,False,ok,6,Total Debt / Enplaned Passenger 6 ($) 285.0 301.0 (16) (5.3) 312.0
+2025Q4,FY,net_debt_per_epax,CAD,,233.0,213.0,233.0,False,ok,6,Net Debt 2 / Enplaned Passenger 6 ($) 213.0 233.0 (20) (8.6) 260.0
+2025Q4,FY,cpe,CAD,,28.5,29.9,28.5,False,ok,6,Air Carrier Cost / Enplaned Passenger 6 (CPE) 2 ($) 29.9 28.5 1.4 4.9 30.3
+2025Q4,FY,operating_covenant,%,,148.0,150.0,,False,,16,MTI Operating covenant 6 (minimum requirement of 100%) 150.0 % 148.0 % 2.0 % 153.0 %
+2025Q4,FY,debt_service_covenant,%,,170.0,177.0,,False,,16,MTI Debt service covenant 6 (minimum requirement of 125%) 177.0 % 170.0 % 7.0 % 176.0 %
+2026Q1,Q1,revenue_total,CAD m,522.4,487.4,,,,ok,6,Total Revenues ($ millions) 522.4 487.4 35.0 7.2
+2026Q1,Q1,ebitda,CAD m,239.3,216.9,,,,ok,6,"EBITDA 2, 3 239.3 216.9 22.4 10.3"
+2026Q1,Q1,ebitda_margin,%,45.8,44.5,,,,,6,"EBITDA Margin 2, 3 45.8% 44.5%"
+2026Q1,Q1,net_income,CAD m,42.0,69.5,,,,ok,6,Net Income 42.0 69.5 (27.5) (39.5)
+2026Q1,Q1,pax_domestic,m pax,3.6,3.4,,,,ok,6,Domestic 3.6 3.4 0.2 8.6
+2026Q1,Q1,pax_international,m pax,7.5,7.3,,,,ok,6,International 7.5 7.3 0.2 2.1
+2026Q1,Q1,pax_total,m pax,11.1,10.7,,,,ok,6,Total 11.1 10.7 0.4 4.2
+2026Q1,Q1,movements,thousand,92.8,91.3,,,,ok,6,Aircraft movements (thousands) 92.8 91.3 1.5 1.6
+2026Q1,Q1,mtow,m tonnes,8.7,8.6,,,,ok,6,MTOW 4 (million tonnes) 8.7 8.6 0.1 0.8
+2026Q1,Q1,seats,m seats,13.5,13.3,,,,ok,6,Seats (millions) 13.5 13.3 0.2 1.4
+2026Q1,Q1,load_factor,%,82.6,80.4,,,,,6,Load factor 82.6% 80.4%
+2026Q1,Q1,landing_fees,CAD m,113.8,105.7,,,,ok,10,Landing fees 2 113.8 105.7 8.1 7.7
+2026Q1,Q1,general_terminal,CAD m,67.4,62.8,,,,ok,10,General terminal charges 67.4 62.8 4.6 7.4
+2026Q1,Q1,aero_revenue,CAD m,181.2,168.5,,,,ok,10,Aeronautical Revenues 181.2 168.5 12.7 7.6
+2026Q1,Q1,concessions_rentals,CAD m,85.0,81.5,,,,ok,10,Concessions and rentals 85.0 81.5 3.5 4.2
+2026Q1,Q1,parking_ground,CAD m,64.5,61.0,,,,ok,10,Car parking and ground transportation 64.5 61.0 3.5 5.7
+2026Q1,Q1,other_revenue,CAD m,15.0,15.5,,,,ok,10,Other 15.0 15.5 (0.5) (2.8)
+2026Q1,Q1,commercial_revenue,CAD m,164.5,158.0,,,,ok,10,Commercial Revenues 164.5 158.0 6.5 4.1
+2026Q1,Q1,aif_revenue,CAD m,176.7,160.9,,,,ok,10,Airport Improvement Fees 176.7 160.9 15.8 9.8
+2026Q1,Q1,ground_rent,CAD m,59.7,55.1,,,,ok,11,Ground rent 59.7 55.1 4.6 8.2
+2026Q1,Q1,pilt,CAD m,10.7,10.3,,,,ok,11,PILT 2 10.7 10.3 0.4 4.6
+2026Q1,Q1,goods_services,CAD m,139.1,130.8,,,,ok,11,Goods and services 139.1 130.8 8.3 6.3
+2026Q1,Q1,salaries,CAD m,73.6,74.3,,,,ok,11,"Salaries, wages and benefits 73.6 74.3 (0.7) (0.9)"
+2026Q1,Q1,total_debt,CAD m,6774.7,6798.8,,,,ok,6,"Total Debt ($ millions) 6,774.7 6,798.8 (24.1) (0.4)"
+2026Q1,Q1,net_debt,CAD m,4927.4,5359.6,,,,ok,6,"Net Debt 2 4,927.4 5,359.6 (432.2) (8.1)"
+2026Q1,Q1,debt_per_epax,CAD,284.0,292.0,,,,ok,6,Total Debt / Enplaned Passenger 6 ($) 284.0 292.0 (8) (2.7)
+2026Q1,Q1,net_debt_per_epax,CAD,206.0,230.0,,,,ok,6,Net Debt 2 / Enplaned Passenger 6 ($) 206.0 230.0 (24) (10.4)
+2026Q1,Q1,cpe,CAD,32.6,31.6,,,,ok,6,Air Carrier Cost / Enplaned Passenger 6 (CPE) 2 ($) 32.6 31.6 1.0 3.2
+2026Q1,Q1,operating_covenant,%,,,,,,,,NOT FOUND
+2026Q1,Q1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2026Q2,H1,revenue_total,CAD m,566.6,520.7,1089.1,1008.1,,ok,6,"Total Revenues ($ millions) 566.6 520.7 45.9 8.8 1,089.1 1,008.1 81.0 8.0"
+2026Q2,H1,ebitda,CAD m,277.2,260.9,516.5,477.8,,ok,6,"EBITDA 2, 3 277.2 260.9 16.3 6.2 516.5 477.8 38.7 8.1"
+2026Q2,H1,ebitda_margin,%,48.9,50.1,47.4,47.4,,,6,"EBITDA Margin 2, 3 48.9% 50.1% 47.4% 47.4%"
+2026Q2,H1,net_income,CAD m,127.5,109.7,169.5,179.2,,ok,6,Net Income 127.5 109.7 17.8 16.2 169.5 179.2 (9.7) (5.4)
+2026Q2,H1,pax_domestic,m pax,4.7,4.4,8.3,7.7,,ok,6,Domestic 4.7 4.4 0.3 6.8 8.3 7.7 0.6 7.4
+2026Q2,H1,pax_international,m pax,7.7,7.6,15.2,15.0,,ok,6,International 7.7 7.6 0.1 1.3 15.2 15.0 0.2 1.5
+2026Q2,H1,pax_total,m pax,12.4,12.0,23.5,22.7,,ok,6,Total 12.4 12.0 0.4 3.3 23.5 22.7 0.8 3.5
+2026Q2,H1,movements,thousand,101.2,99.6,194.0,190.9,,ok,6,Aircraft movements (thousands) 101.2 99.6 1.6 1.7 194.0 190.9 3.1 1.6
+2026Q2,H1,mtow,m tonnes,9.5,9.4,18.2,18.1,,ok,6,MTOW 4 (million tonnes) 9.5 9.4 0.1 0.9 18.2 18.1 0.1 0.8
+2026Q2,H1,seats,m seats,14.7,14.5,28.2,27.7,,ok,6,Seats (millions) 14.7 14.5 0.2 1.4 28.2 27.7 0.5 1.6
+2026Q2,H1,load_factor,%,83.9,82.6,83.4,81.8,,,6,Load factor 83.9% 82.6% 83.4% 81.8%
+2026Q2,H1,landing_fees,CAD m,123.5,112.4,237.3,218.1,,ok,11,Landing fees 2 123.5 112.4 11.1 9.8 237.3 218.1 19.2 8.8
+2026Q2,H1,general_terminal,CAD m,73.0,66.7,140.4,129.5,,ok,11,General terminal charges 73.0 66.7 6.3 9.4 140.4 129.5 10.9 8.5
+2026Q2,H1,aero_revenue,CAD m,196.5,179.1,377.7,347.6,,ok,11,Aeronautical Revenues 196.5 179.1 17.4 9.7 377.7 347.6 30.1 8.7
+2026Q2,H1,concessions_rentals,CAD m,92.4,85.3,177.4,166.8,,ok,11,Concessions and rentals 92.4 85.3 7.1 8.4 177.4 166.8 10.6 6.4
+2026Q2,H1,parking_ground,CAD m,65.4,61.8,129.9,122.8,,ok,11,Car parking and ground transportation 65.4 61.8 3.6 5.8 129.9 122.8 7.1 5.8
+2026Q2,H1,other_revenue,CAD m,16.3,15.4,31.4,30.9,,ok,11,Other 16.3 15.4 0.9 5.5 31.4 30.9 0.5 1.4
+2026Q2,H1,commercial_revenue,CAD m,174.1,162.5,338.7,320.5,,ok,11,Commercial Revenues 174.1 162.5 11.6 7.2 338.7 320.5 18.2 5.7
+2026Q2,H1,aif_revenue,CAD m,196.0,179.1,372.7,340.0,,ok,11,Airport Improvement Fees 196.0 179.1 16.9 9.5 372.7 340.0 32.7 9.6
+2026Q2,H1,ground_rent,CAD m,65.0,58.9,124.7,114.0,,ok,12,Ground rent 65.0 58.9 6.1 10.5 124.7 114.0 10.7 9.4
+2026Q2,H1,pilt,CAD m,10.8,10.3,21.5,20.6,,ok,12,PILT 2 10.8 10.3 0.5 4.6 21.5 20.6 0.9 4.6
+2026Q2,H1,goods_services,CAD m,135.0,118.4,274.1,249.2,,ok,12,Goods and services 135.0 118.4 16.6 14.1 274.1 249.2 24.9 10.0
+2026Q2,H1,salaries,CAD m,78.7,72.2,152.3,146.5,,ok,12,"Salaries, wages and benefits 78.7 72.2 6.5 9.0 152.3 146.5 5.8 3.9"
+2026Q2,H1,total_debt,CAD m,6734.1,6758.6,,,,ok,6,"Total Debt ($ millions) 6,734.1 6,758.6 (24.5) (0.4)"
+2026Q2,H1,net_debt,CAD m,4868.7,5265.7,,,,ok,6,"Net Debt 2 4,868.7 5,265.7 (397.0) (7.5)"
+2026Q2,H1,debt_per_epax,CAD,280.0,289.0,,,,ok,6,Gross Debt / Enplaned Passenger 6 ($) 280.0 289.0 (9) (3.1)
+2026Q2,H1,net_debt_per_epax,CAD,202.0,225.0,,,,ok,6,Net Debt 2 / Enplaned Passenger 6 ($) 202.0 225.0 (23) (10.2)
+2026Q2,H1,cpe,CAD,32.1,29.4,,,,ok,6,(CPE) 2 ($) 32.1 29.4 2.7 9.2
+2026Q2,H1,operating_covenant,%,,,,,,,,NOT FOUND
+2026Q2,H1,debt_service_covenant,%,,,,,,,,NOT FOUND
+2026Q3,M9,revenue_total,CAD m,626.5,562.2,1715.6,1570.2,,ok,6,"Total Revenues ($ millions) 626.5 562.2 64.3 11.4 1,715.6 1,570.2 145.4 9.3"
+2026Q3,M9,ebitda,CAD m,327.5,291.5,844.0,769.3,,ok,6,"EBITDA 2, 3 327.5 291.5 36.0 12.3 844.0 769.3 74.7 9.7"
+2026Q3,M9,ebitda_margin,%,52.3,51.9,49.2,49.0,,,6,"EBITDA Margin 2, 3 52.3% 51.9% 49.2% 49.0%"
+2026Q3,M9,net_income,CAD m,177.7,138.6,347.2,317.7,,ok,6,Net Income 177.7 138.6 39.1 28.3 347.2 317.7 29.5 9.3
+2026Q3,M9,pax_domestic,m pax,5.5,5.2,13.9,13.0,,ok,6,Domestic 5.5 5.2 0.3 5.8 13.9 13.0 0.9 7.0
+2026Q3,M9,pax_international,m pax,8.3,7.9,23.4,22.8,,ok,6,International 8.3 7.9 0.4 5.1 23.4 22.8 0.6 2.7
+2026Q3,M9,pax_total,m pax,13.8,13.1,37.3,35.8,,ok,6,Total 13.8 13.1 0.7 5.3 37.3 35.8 1.5 4.2
+2026Q3,M9,movements,thousand,106.7,104.6,300.7,295.4,,ok,6,Aircraft movements (thousands) 106.7 104.6 2.1 2.0 300.7 295.4 5.3 1.8
+2026Q3,M9,mtow,m tonnes,10.3,10.0,28.6,28.0,,ok,6,MTOW 4 (million tonnes) 10.3 10.0 0.3 3.5 28.6 28.0 0.6 1.8
+2026Q3,M9,seats,m seats,16.0,15.4,44.2,43.1,,ok,6,Seats (millions) 16.0 15.4 0.6 4.0 44.2 43.1 1.1 2.5
+2026Q3,M9,load_factor,%,86.2,84.7,84.4,82.9,,,6,Load factor 86.2% 84.7% 84.4% 82.9%
+2026Q3,M9,landing_fees,CAD m,130.9,119.0,368.2,337.1,,ok,11,Landing fees 2 130.9 119.0 11.9 10.1 368.2 337.1 31.1 9.2
+2026Q3,M9,general_terminal,CAD m,78.3,71.1,218.7,200.6,,ok,11,General terminal charges 78.3 71.1 7.2 10.0 218.7 200.6 18.1 9.0
+2026Q3,M9,aero_revenue,CAD m,209.2,190.1,586.9,537.7,,ok,11,Aeronautical Revenues 209.2 190.1 19.1 10.0 586.9 537.7 49.2 9.2
+2026Q3,M9,concessions_rentals,CAD m,99.5,92.1,276.9,258.8,,ok,11,Concessions and rentals 99.5 92.1 7.4 8.0 276.9 258.8 18.1 7.0
+2026Q3,M9,parking_ground,CAD m,77.2,69.4,207.1,192.2,,ok,11,Car parking and ground transportation 77.2 69.4 7.8 11.2 207.1 192.2 14.9 7.7
+2026Q3,M9,other_revenue,CAD m,17.4,14.8,48.7,45.7,,ok,11,Other 17.4 14.8 2.6 17.4 48.7 45.7 3.0 6.6
+2026Q3,M9,commercial_revenue,CAD m,194.1,176.3,532.7,496.7,,ok,11,Commercial Revenues 194.1 176.3 17.8 10.1 532.7 496.7 36.0 7.2
+2026Q3,M9,aif_revenue,CAD m,223.2,195.8,596.0,535.8,,ok,11,Airport Improvement Fees 223.2 195.8 27.4 14.0 596.0 535.8 60.2 11.2
+2026Q3,M9,ground_rent,CAD m,70.8,63.7,195.5,177.7,,ok,12,Ground rent 70.8 63.7 7.1 11.1 195.5 177.7 17.8 10.0
+2026Q3,M9,pilt,CAD m,10.7,10.3,32.2,30.8,,ok,12,PILT 2 10.7 10.3 0.4 4.6 32.2 30.8 1.4 4.6
+2026Q3,M9,goods_services,CAD m,139.0,126.0,413.1,375.2,,ok,12,Goods and services 139.0 126.0 13.0 10.3 413.1 375.2 37.9 10.1
+2026Q3,M9,salaries,CAD m,78.5,70.7,230.8,217.2,,ok,12,"Salaries, wages and benefits 78.5 70.7 7.8 11.2 230.8 217.2 13.6 6.3"
+2026Q3,M9,total_debt,CAD m,6747.9,6773.8,,,,ok,6,"Total Debt ($ millions) 6,747.9 6,773.8 (25.9) (0.4)"
+2026Q3,M9,net_debt,CAD m,4742.4,5131.6,,,,ok,6,"Net Debt 2 4,742.4 5,131.6 (389.2) (7.6)"
+2026Q3,M9,debt_per_epax,CAD,276.0,288.0,,,,ok,6,Gross Debt / Enplaned Passenger 6 ($) 276.0 288.0 (12) (4.2)
+2026Q3,M9,net_debt_per_epax,CAD,194.0,218.0,,,,ok,6,Net Debt 2 / Enplaned Passenger 6 ($) 194.0 218.0 (24) (11.0)
+2026Q3,M9,cpe,CAD,31.4,29.9,,,,ok,6,(CPE) 2 ($) 31.4 29.9 1.5 5.0
+2026Q3,M9,operating_covenant,%,,,,,,,,NOT FOUND
+2026Q3,M9,debt_service_covenant,%,,,,,,,,NOT FOUND

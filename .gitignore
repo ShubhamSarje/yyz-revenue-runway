@@ -1,0 +1,13 @@
+# GTAA source documents are re-downloaded by scripts/00_download_and_text.py
+data/raw/gtaa/
+data/raw/fees/
+data/raw/text/
+data/raw/ocr*/
+data/raw/*.pdf
+# app build output
+node_modules/
+dist/
+.vercel
+.DS_Store
+*.log
+__pycache__/
