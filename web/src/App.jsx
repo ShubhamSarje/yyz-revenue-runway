@@ -52,13 +52,13 @@ export default function App() {
   useEffect(() => { loadData().then(setData).catch((e) => setError(e.message)) }, [])
 
   useEffect(() => {
-    document.documentElement.dataset.theme = theme
+    document.documentElement.dataset.yyz = theme
     try { localStorage.setItem('yyz-theme', theme) } catch { /* ignore */ }
   }, [theme])
 
   useEffect(() => {
     const p = new URLSearchParams({ y: state.year, q: state.quarter, c: state.comparison === 'vs 2019' ? '2019' : 'py', tab: state.tab })
-    window.history.replaceState(null, '', `#${p}`)
+    try { window.history.replaceState(null, '', `#${p}`) } catch { /* sandboxed viewer */ }
   }, [state])
 
   const sel = useMemo(
