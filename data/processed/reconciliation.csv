@@ -1,0 +1,14 @@
+control,python,sql,match
+v_quarterly_changes: sum revenue_yoy_pct,444.8,444.8,True
+v_quarterly_changes: sum pax_yoy_pct,1782.4,1782.4,True
+v_quarterly_changes: sum revenue_vs2019_pct,129.0,129.0,True
+v_quarterly_changes: 2026Q3 real rev/pax vs 2019 %,30.0,30.0,True
+v_ttm: sum revenue_ttm,51657.7,51657.7,True
+v_ttm: sum ebitda_margin_ttm_pct,1597.5,1597.5,True
+v_ttm: max abs debt/epax diff (complete windows),17.0,17.0,True
+v_revenue_bridge (year): sum volume_effect,-2216.3,-2216.3,True
+v_revenue_bridge (year): sum published_price,1658.9,1658.9,True
+v_revenue_bridge (year): sum other_per_pax,6450.4,6450.4,True
+v_revenue_bridge (year): 2025 vs 2019 volume,-99.2,-99.2,True
+v_revenue_bridge (year): 2025 vs 2019 price,321.1,321.1,True
+v_revenue_bridge (year): 2026 vs prior volume,65.7,65.7,True
