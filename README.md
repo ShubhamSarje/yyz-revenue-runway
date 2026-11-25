@@ -11,7 +11,7 @@ A revenue analysis of Toronto Pearson International Airport (YYZ) over 35 quarte
 
 ---
 
-## [Live dashboard: YYZ Revenue Runway](https://yyz-revenue-runway.vercel.app) · [30-second demo video](assets/yyz-demo.mp4) · [Full findings](FINDINGS.md)
+## [Live dashboard: YYZ Revenue Runway](https://yyz-revenue-runway.vercel.app) · [30-second demo (with voice)](assets/yyz-demo.mp4) · [Silent walkthrough](assets/yyz-walkthrough.mp4) · [Full findings](FINDINGS.md)
 
 ![YYZ Revenue Runway dashboard, night theme](assets/dashboard-night.jpg)
 
@@ -217,7 +217,7 @@ yyz-revenue-runway/
 │   ├── src/
 │   ├── public/data/app_data.json   # Snapshot of the SQL views
 │   └── package.json
-└── assets/                         # Screenshots and yyz-demo.mp4 (30-second walkthrough)
+└── assets/                         # Screenshots, yyz-demo.mp4 (30-second demo) and yyz-walkthrough.mp4 (silent loop)
 ```
 
 **Run the dashboard locally:** `cd web && npm install && npm run dev`
