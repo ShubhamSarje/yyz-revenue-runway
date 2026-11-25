@@ -122,4 +122,4 @@ Commercial revenue per traveller barely beat inflation. Most of the real increas
 
 ## Reproduce
 
-Phases 1–3 as in the [README](README.md), then run `sql/07_findings.sql`. Source traceability for every input value: `data/processed/yyz_quarterly_sources.csv`.
+Follow the reproduce steps at the end of the [README](README.md), then run `sql/07_findings.sql`. Source traceability for every input value: `data/processed/yyz_quarterly_sources.csv`.
